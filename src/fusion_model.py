@@ -30,7 +30,7 @@ def prepare_features(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.Series]:
         'lm_positive', 'lm_negative', 'lm_net_sentiment',
         'finbert_positive', 'finbert_negative', 'finbert_net_sentiment',
         'implied_move'  # proxy
-    ]]
+    ]].copy()
     # Add some dummy structured features
     features['market_cap_proxy'] = df['ticker'].map({
         'AAPL': 3e12, 'MSFT': 3e12, 'AMZN': 1.5e12, 'GOOGL': 1.8e12,
