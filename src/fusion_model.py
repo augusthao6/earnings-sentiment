@@ -49,14 +49,23 @@ def prepare_features(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.Series]:
         "implied_move",
     ]].copy()
 
-    features["market_cap_proxy"] = df["ticker"].map({
-        "AAPL": 3e12, "MSFT": 3e12, "AMZN": 1.5e12, "GOOGL": 1.8e12,
-        "JPM": 5e11, "JNJ": 4e11, "BAC": 3e11,
-    })
-    features["sector"] = df["ticker"].map({
-        "AAPL": "tech", "MSFT": "tech", "AMZN": "tech", "GOOGL": "tech",
-        "JPM": "finance", "JNJ": "health", "BAC": "finance",
-    })
+    _market_cap = {
+        "AAPL": 3e12, "MSFT": 3e12, "NVDA": 3e12, "AMZN": 2e12,
+        "GOOGL": 2e12, "META": 1.5e12, "TSLA": 8e11, "AMD": 2.5e11,
+        "JPM": 7e11, "BAC": 3.5e11, "GS": 1.5e11,
+        "JNJ": 4e11, "PFE": 1.5e11, "UNH": 5e11,
+        "XOM": 5e11, "CVX": 2.5e11,
+    }
+    _sector = {
+        "AAPL": "tech", "MSFT": "tech", "NVDA": "tech", "AMZN": "tech",
+        "GOOGL": "tech", "META": "tech", "AMD": "tech",
+        "JPM": "finance", "BAC": "finance", "GS": "finance",
+        "JNJ": "health", "PFE": "health", "UNH": "health",
+        "XOM": "energy", "CVX": "energy",
+        "TSLA": "auto",
+    }
+    features["market_cap_proxy"] = df["ticker"].map(_market_cap).fillna(1e11)
+    features["sector"] = df["ticker"].map(_sector).fillna("other")
     features = pd.get_dummies(features, columns=["sector"])
 
     labels = df["label"]
