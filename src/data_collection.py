@@ -1,4 +1,4 @@
-"""Load earnings call transcripts from Kaggle pickle or FMP API, and stock prices via yfinance."""
+"""Collect earnings call transcripts (Motley Fool), prices (yfinance), and EPS surprises (FMP)."""
 
 import logging
 import os
@@ -8,6 +8,7 @@ from pathlib import Path
 import pandas as pd
 import requests
 import yfinance as yf
+from bs4 import BeautifulSoup
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 logger = logging.getLogger(__name__)
@@ -30,15 +31,50 @@ MIN_TRANSCRIPTS = 7
 PRICE_START = "2020-12-01"
 PRICE_END = "2023-09-30"
 
-# --- FMP config ---
+# --- FMP config (used only for EPS surprises on free tier) ---
 
 FMP_API_KEY = os.environ.get("FMP_API_KEY", "")
 FMP_BASE_URL = "https://financialmodelingprep.com/api/v3"
-FMP_RATE_LIMIT_SLEEP = 0.5  # seconds between requests (free tier: 250/day)
+FMP_RATE_LIMIT_SLEEP = 0.5
+
+# --- Motley Fool config ---
+
+_FOOL_BASE = "https://www.fool.com/earnings/call-transcripts"
+_FOOL_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/120.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.5",
+}
+
+# Motley Fool company slug for each supported ticker.
+# Slug appears in the transcript URL:
+#   https://www.fool.com/earnings/call-transcripts/YYYY/MM/DD/{SLUG}-qN-YYYY-earnings-call-transcript/
+_FOOL_SLUG: dict[str, str] = {
+    "AAPL": "apple-aapl",
+    "MSFT": "microsoft-msft",
+    "NVDA": "nvidia-nvda",
+    "TSLA": "tesla-tsla",
+    "META": "meta-platforms-meta",
+    "AMZN": "amazon-amzn",
+    "GOOGL": "alphabet-googl",
+    "JPM": "jpmorgan-chase-jpm",
+    "BAC": "bank-of-america-bac",
+    "GS": "goldman-sachs-gs",
+    "XOM": "exxon-mobil-xom",
+    "CVX": "chevron-cvx",
+    "PFE": "pfizer-pfe",
+    "UNH": "unitedhealth-group-unh",
+    "AMD": "advanced-micro-devices-amd",
+    "JNJ": "johnson-johnson-jnj",
+}
 
 
 # ---------------------------------------------------------------------------
-# FMP helpers
+# FMP helper (used only for EPS surprises)
 # ---------------------------------------------------------------------------
 
 def _fmp_get(endpoint: str, params: dict) -> dict | list | None:
@@ -63,99 +99,212 @@ def _fmp_get(endpoint: str, params: dict) -> dict | list | None:
         return None
 
 
-def _estimate_api_calls(tickers: list[str], min_year: int, max_year: int,
-                        fetch_prices: bool, fetch_eps: bool) -> int:
-    n_quarters = (max_year - min_year + 1) * 4
-    transcript_calls = len(tickers) * n_quarters
-    price_calls = len(tickers) if fetch_prices else 0
-    eps_calls = len(tickers) if fetch_eps else 0
-    return transcript_calls + price_calls + eps_calls
+# ---------------------------------------------------------------------------
+# Prices: yfinance (free, no quota)
+# ---------------------------------------------------------------------------
+
+def fetch_fmp_prices(
+    tickers: list[str],
+    start: str,
+    end: str,
+    output_dir: Path,
+) -> tuple[int, list[str]]:
+    """Download daily adjusted close prices via yfinance.
+
+    FMP historical price endpoints require a paid plan; yfinance is free
+    and covers all tickers. Files already on disk are skipped.
+    """
+    output_dir.mkdir(parents=True, exist_ok=True)
+    success, failed = 0, []
+
+    for ticker in tickers:
+        filepath = output_dir / f"{ticker}.csv"
+        if filepath.exists():
+            logger.info("Skipping prices for %s (already on disk)", ticker)
+            success += 1
+            continue
+
+        try:
+            price_df = yf.download(ticker, start=start, end=end, auto_adjust=True, progress=False)
+            if price_df.empty:
+                raise ValueError(f"Empty result for {ticker}")
+            if isinstance(price_df.columns, pd.MultiIndex):
+                price_df.columns = price_df.columns.get_level_values(0)
+            price_df.to_csv(filepath)
+            logger.info("Saved %d price rows for %s", len(price_df), ticker)
+            success += 1
+        except Exception as e:
+            logger.error("Failed prices for %s: %s", ticker, e)
+            failed.append(ticker)
+
+    return success, failed
 
 
 # ---------------------------------------------------------------------------
-# FMP: transcripts
+# Motley Fool transcript scraper
 # ---------------------------------------------------------------------------
 
-def fetch_fmp_transcripts(
+def _parse_fool_transcript(soup: BeautifulSoup) -> str:
+    """Extract transcript text from a Motley Fool article page."""
+    # Try known article body container selectors (Motley Fool has changed layouts)
+    candidates = [
+        soup.find("div", class_=lambda c: c and "article-body" in c),
+        soup.find("div", id="article-body"),
+        soup.find("div", class_=lambda c: c and "tailwind-article-body" in c),
+        soup.find("article"),
+        soup.find("main"),
+    ]
+    for container in candidates:
+        if container is None:
+            continue
+        paragraphs = container.find_all("p")
+        text = "\n\n".join(p.get_text(strip=True) for p in paragraphs if p.get_text(strip=True))
+        if len(text) > 2000:
+            return text
+
+    return ""
+
+
+def _fool_try_url(url: str) -> str | None:
+    """Fetch one Motley Fool URL and return transcript text, or None."""
+    try:
+        resp = requests.get(url, headers=_FOOL_HEADERS, timeout=15)
+        if resp.status_code != 200:
+            return None
+        soup = BeautifulSoup(resp.text, "html.parser")
+        text = _parse_fool_transcript(soup)
+        return text if len(text) > 2000 else None
+    except Exception:
+        return None
+
+
+def _find_fool_transcript(ticker: str, call_date: pd.Timestamp) -> tuple[str, int, int] | None:
+    """Search Motley Fool for a transcript near call_date.
+
+    Tries multiple date offsets (+0/+1 day), fiscal quarters, and fiscal years
+    because: (1) transcripts publish the morning after an after-hours call;
+    (2) fiscal quarters differ from calendar quarters for many companies.
+
+    Returns (text, fiscal_q, fiscal_year) or None.
+    """
+    slug = _FOOL_SLUG.get(ticker)
+    if not slug:
+        return None
+
+    month = call_date.month
+    if month in (1, 2, 3):
+        q_order = [1, 4]
+    elif month in (4, 5, 6):
+        q_order = [2, 1]
+    elif month in (7, 8, 9):
+        q_order = [3, 2]
+    else:
+        q_order = [4, 3]
+
+    for day_offset in [0, 1]:
+        d = call_date + pd.Timedelta(days=day_offset)
+        for q in q_order:
+            for y in [call_date.year, call_date.year - 1]:
+                url = (
+                    f"{_FOOL_BASE}/{d.year}/{d.month:02d}/{d.day:02d}/"
+                    f"{slug}-q{q}-{y}-earnings-call-transcript/"
+                )
+                time.sleep(0.4)
+                text = _fool_try_url(url)
+                if text:
+                    logger.info("Found transcript at %s", url)
+                    return text, q, y
+
+    return None
+
+
+def fetch_motley_fool_transcripts(
     tickers: list[str],
     min_year: int,
     max_year: int,
     output_dir: Path,
 ) -> list[dict]:
-    """Download transcripts from FMP and save as {TICKER}_{YEAR}_Q{N}.txt.
+    """Fetch earnings call transcripts from Motley Fool (free, public pages).
 
-    Also returns a list of metadata dicts (ticker, quarter, call_datetime,
-    is_after_hours) for every transcript fetched or found on disk so that
-    prepare_training_data.py knows the actual earnings call time without
-    needing the Kaggle pickle.
+    Uses yfinance to discover earnings dates, then scrapes the public Motley Fool
+    transcript page for each event. Transcripts are saved as {TICKER}_{YEAR}_Q{N}.txt
+    — the same format the rest of the pipeline expects.
+
+    Returns a list of metadata dicts (ticker, quarter, call_datetime, is_after_hours)
+    compatible with _save_fmp_dates().
     """
     output_dir.mkdir(parents=True, exist_ok=True)
     metadata_records = []
 
     for ticker in tickers:
-        for year in range(min_year, max_year + 1):
-            for quarter in range(1, 5):
-                quarter_str = f"{year}-Q{quarter}"
-                filename = f"{ticker}_{year}_Q{quarter}.txt"
-                filepath = output_dir / filename
+        if ticker not in _FOOL_SLUG:
+            logger.warning("No Motley Fool slug for %s — add it to _FOOL_SLUG to enable", ticker)
+            continue
 
-                if filepath.exists():
-                    logger.info("Skipping %s (already on disk)", filename)
-                    # Still record metadata if we already have it saved
-                    continue
+        # Get earnings dates from yfinance
+        try:
+            stock = yf.Ticker(ticker)
+            earnings = stock.earnings_dates
+            if earnings is None or earnings.empty:
+                logger.warning("No earnings dates from yfinance for %s", ticker)
+                continue
+            earnings = earnings.reset_index()
+            date_col = earnings.columns[0]
+            # Normalize to timezone-naive
+            if earnings[date_col].dt.tz is not None:
+                earnings[date_col] = earnings[date_col].dt.tz_localize(None)
+        except Exception as e:
+            logger.warning("Could not get earnings dates for %s: %s", ticker, e)
+            continue
 
-                logger.info("Fetching %s Q%d %d", ticker, quarter, year)
-                data = _fmp_get(
-                    f"earning_call_transcript/{ticker}",
-                    {"quarter": quarter, "year": year},
-                )
-                time.sleep(FMP_RATE_LIMIT_SLEEP)
+        start = pd.Timestamp(f"{min_year}-01-01")
+        end = pd.Timestamp(f"{max_year}-12-31")
+        in_range = earnings[(earnings[date_col] >= start) & (earnings[date_col] <= end)]
 
-                if not data:
-                    continue
-                entry = data[0] if isinstance(data, list) and data else data
-                content = entry.get("content", "")
-                if not content:
-                    logger.warning("Empty transcript for %s Q%d %d", ticker, quarter, year)
-                    continue
+        for _, row in in_range.iterrows():
+            call_dt = row[date_col]
+            # Calendar quarter from call month (used as fallback filename)
+            cal_q = (call_dt.month - 1) // 3 + 1
 
-                filepath.write_text(content, encoding="utf-8")
+            # Skip if we already have ANY transcript file for this ticker/period
+            # (fiscal quarter may differ so check both)
+            already_present = any(
+                (output_dir / f"{ticker}_{call_dt.year}_Q{q}.txt").exists()
+                for q in range(1, 5)
+            )
+            if already_present:
+                logger.info("Skipping %s ~%s (transcript already on disk)", ticker, call_dt.date())
+                continue
 
-                # Parse the date FMP provides (e.g. "2022-01-28 17:00:00")
-                raw_date = entry.get("date", "")
-                try:
-                    call_dt = pd.to_datetime(raw_date)
-                    is_after_hours = call_dt.hour >= 16
-                    metadata_records.append({
-                        "ticker": ticker,
-                        "quarter": quarter_str,
-                        "call_datetime": call_dt,
-                        "is_after_hours": is_after_hours,
-                    })
-                except Exception:
-                    logger.warning("Could not parse date '%s' for %s %s", raw_date, ticker, quarter_str)
+            logger.info("Fetching transcript: %s ~%s", ticker, call_dt.date())
+            result = _find_fool_transcript(ticker, call_dt)
+
+            if result is None:
+                logger.warning("Transcript not found on Motley Fool: %s ~%s", ticker, call_dt.date())
+                time.sleep(1)
+                continue
+
+            text, fiscal_q, fiscal_year = result
+            filename = f"{ticker}_{fiscal_year}_Q{fiscal_q}.txt"
+            (output_dir / filename).write_text(text, encoding="utf-8")
+            logger.info("Saved %s (%d chars)", filename, len(text))
+
+            # If yfinance gave us hour info use it; otherwise assume after-hours (most common)
+            is_after_hours = call_dt.hour >= 16 if call_dt.hour != 0 else True
+            metadata_records.append({
+                "ticker": ticker,
+                "quarter": f"{fiscal_year}-Q{fiscal_q}",
+                "call_datetime": call_dt,
+                "is_after_hours": is_after_hours,
+            })
+
+            time.sleep(2)  # polite crawl rate
 
     return metadata_records
 
 
-def _save_fmp_dates(new_records: list[dict]) -> None:
-    """Append new metadata records to the FMP dates CSV (deduplicating on ticker+quarter)."""
-    if not new_records:
-        return
-    new_df = pd.DataFrame(new_records)
-    if FMP_DATES_CSV.exists():
-        existing = pd.read_csv(FMP_DATES_CSV, parse_dates=["call_datetime"])
-        combined = pd.concat([existing, new_df], ignore_index=True)
-    else:
-        combined = new_df
-    combined = combined.drop_duplicates(subset=["ticker", "quarter"], keep="last")
-    FMP_DATES_CSV.parent.mkdir(parents=True, exist_ok=True)
-    combined.to_csv(FMP_DATES_CSV, index=False)
-    logger.info("Saved %d total date records to %s", len(combined), FMP_DATES_CSV)
-
-
 # ---------------------------------------------------------------------------
-# FMP: EPS surprises  (addresses Bias 3: controls for headline beat/miss)
+# FMP: EPS surprises (free tier supports this endpoint)
 # ---------------------------------------------------------------------------
 
 def fetch_all_eps_surprises(tickers: list[str], output_dir: Path) -> None:
@@ -163,10 +312,6 @@ def fetch_all_eps_surprises(tickers: list[str], output_dir: Path) -> None:
 
     Saves {TICKER}.csv with columns: date, actualEarningResult, estimatedEarning,
     eps_surprise_pct, eps_beat.
-
-    This is the key control variable for earnings call analysis. The stock moves
-    primarily because of the EPS beat/miss; the transcript's residual signal is
-    tone and forward guidance *after* controlling for the headline number.
     """
     output_dir.mkdir(parents=True, exist_ok=True)
     for ticker in tickers:
@@ -187,7 +332,6 @@ def fetch_all_eps_surprises(tickers: list[str], output_dir: Path) -> None:
             continue
 
         df["date"] = pd.to_datetime(df["date"])
-        # eps_surprise_pct: how much did actual EPS differ from estimate (as a fraction)?
         df["eps_surprise_pct"] = (
             (df["actualEarningResult"] - df["estimatedEarning"])
             / df["estimatedEarning"].abs().replace(0, float("nan"))
@@ -199,54 +343,23 @@ def fetch_all_eps_surprises(tickers: list[str], output_dir: Path) -> None:
 
 
 # ---------------------------------------------------------------------------
-# FMP: prices
+# Shared: save call date metadata
 # ---------------------------------------------------------------------------
 
-def fetch_fmp_prices(
-    tickers: list[str],
-    start: str,
-    end: str,
-    output_dir: Path,
-) -> tuple[int, list[str]]:
-    """Download daily adjusted close prices from FMP; fall back to yfinance on failure."""
-    output_dir.mkdir(parents=True, exist_ok=True)
-    success, failed = 0, []
-
-    for ticker in tickers:
-        filepath = output_dir / f"{ticker}.csv"
-        if filepath.exists():
-            logger.info("Skipping prices for %s (already on disk)", ticker)
-            success += 1
-            continue
-
-        data = _fmp_get(f"historical-price-full/{ticker}", {"from": start, "to": end})
-        if data and "historical" in data:
-            price_df = pd.DataFrame(data["historical"])
-            price_df["date"] = pd.to_datetime(price_df["date"])
-            price_df = price_df.set_index("date").sort_index()
-            price_df = price_df.rename(columns={"adjClose": "Close"})
-            price_df.to_csv(filepath)
-            logger.info("Saved %d price rows for %s (FMP)", len(price_df), ticker)
-            success += 1
-            time.sleep(FMP_RATE_LIMIT_SLEEP)
-            continue
-
-        # Fall back to yfinance
-        logger.warning("FMP prices failed for %s — falling back to yfinance", ticker)
-        try:
-            price_df = yf.download(ticker, start=start, end=end, auto_adjust=True, progress=False)
-            if price_df.empty:
-                raise ValueError(f"Empty yfinance result for {ticker}")
-            if isinstance(price_df.columns, pd.MultiIndex):
-                price_df.columns = price_df.columns.get_level_values(0)
-            price_df.to_csv(filepath)
-            logger.info("Saved %d price rows for %s (yfinance)", len(price_df), ticker)
-            success += 1
-        except Exception as e:
-            logger.error("Permanently failed prices for %s: %s", ticker, e)
-            failed.append(ticker)
-
-    return success, failed
+def _save_fmp_dates(new_records: list[dict]) -> None:
+    """Append new metadata records to the FMP dates CSV (deduplicating on ticker+quarter)."""
+    if not new_records:
+        return
+    new_df = pd.DataFrame(new_records)
+    if FMP_DATES_CSV.exists():
+        existing = pd.read_csv(FMP_DATES_CSV, parse_dates=["call_datetime"])
+        combined = pd.concat([existing, new_df], ignore_index=True)
+    else:
+        combined = new_df
+    combined = combined.drop_duplicates(subset=["ticker", "quarter"], keep="last")
+    FMP_DATES_CSV.parent.mkdir(parents=True, exist_ok=True)
+    combined.to_csv(FMP_DATES_CSV, index=False)
+    logger.info("Saved %d total date records to %s", len(combined), FMP_DATES_CSV)
 
 
 # ---------------------------------------------------------------------------
@@ -343,11 +456,13 @@ def main_fmp(
     price_start: str = "2022-10-01",
     price_end: str = "2026-12-31",
 ) -> None:
-    """Pull transcripts, prices, and EPS surprises from FMP for the given date range.
+    """Collect prices (yfinance), transcripts (Motley Fool), and EPS surprises (FMP).
 
-    2023-2026 fits comfortably in one session (~225 actual API calls after
-    skipping empty/future quarters). Files already on disk are always skipped,
-    so this is safe to re-run if it's interrupted.
+    Transcripts are scraped from Motley Fool's public website since FMP transcript
+    access requires a paid plan. Prices use yfinance (free). EPS surprises use
+    FMP's free-tier endpoint (set FMP_API_KEY env var).
+
+    Files already on disk are always skipped, so this is safe to re-run.
 
     Example:
         import os; os.environ["FMP_API_KEY"] = "your_key"
@@ -360,29 +475,21 @@ def main_fmp(
     if tickers is None:
         tickers = TARGET_TICKERS
 
-    est = _estimate_api_calls(tickers, min_year, max_year, fetch_prices=True, fetch_eps=True)
-    logger.info(
-        "tickers=%d | years=%d-%d | estimated API calls=%d "
-        "(actual will be lower — empty/future quarters are skipped)",
-        len(tickers), min_year, max_year, est,
-    )
-    if est > 250:
-        logger.warning(
-            "Upper-bound estimate exceeds 250. In practice future quarters return "
-            "immediately with no data, so actual calls stay under the limit. "
-            "If you do hit it, re-run tomorrow — already-saved files are skipped."
-        )
+    logger.info("tickers=%d | years=%d-%d", len(tickers), min_year, max_year)
 
-    logger.info("=== Fetching prices ===")
+    logger.info("=== Fetching prices (yfinance) ===")
     fetch_fmp_prices(tickers, price_start, price_end, PRICES_DIR)
 
-    logger.info("=== Fetching transcripts %d-%d ===", min_year, max_year)
-    new_metadata = fetch_fmp_transcripts(tickers, min_year, max_year, TRANSCRIPTS_DIR)
+    logger.info("=== Fetching transcripts %d-%d (Motley Fool) ===", min_year, max_year)
+    new_metadata = fetch_motley_fool_transcripts(tickers, min_year, max_year, TRANSCRIPTS_DIR)
     _save_fmp_dates(new_metadata)
-    logger.info("Fetched %d new transcript date records", len(new_metadata))
+    logger.info("Fetched %d new transcript records", len(new_metadata))
 
-    logger.info("=== Fetching EPS surprises ===")
-    fetch_all_eps_surprises(tickers, EPS_DIR)
+    logger.info("=== Fetching EPS surprises (FMP free tier) ===")
+    if FMP_API_KEY:
+        fetch_all_eps_surprises(tickers, EPS_DIR)
+    else:
+        logger.warning("FMP_API_KEY not set — skipping EPS surprises (pipeline still works without them)")
 
     logger.info("Collection complete.")
 
