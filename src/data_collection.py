@@ -176,6 +176,10 @@ def _fool_try_url(url: str) -> str | None:
         resp = requests.get(url, headers=_FOOL_HEADERS, timeout=15)
         if resp.status_code != 200:
             return None
+        # Detect Cloudflare challenge page
+        if "cf-browser-verification" in resp.text or "Checking your browser" in resp.text:
+            logger.warning("Cloudflare challenge detected — Motley Fool is blocking automated requests")
+            return None
         soup = BeautifulSoup(resp.text, "html.parser")
         text = _parse_fool_transcript(soup)
         return text if len(text) > 2000 else None
@@ -183,47 +187,107 @@ def _fool_try_url(url: str) -> str | None:
         return None
 
 
-def _find_fool_transcript(ticker: str, call_date: pd.Timestamp) -> tuple[str, int, int] | None:
-    """Search Motley Fool for a transcript near call_date.
+def _ddg_find_fool_url(ticker: str, call_date: pd.Timestamp) -> tuple[str, int, int] | None:
+    """Use DuckDuckGo HTML search to find the actual Motley Fool transcript URL.
 
-    Tries multiple slug variants, date offsets (+0/+1 day), fiscal quarters,
-    and fiscal years because:
-    - Motley Fool slug format varies ("apple-aapl" vs "apple-inc-aapl")
-    - Transcripts publish the morning after an after-hours call (+1 day)
-    - Fiscal quarters differ from calendar quarters for many companies
+    This is the fallback when direct URL construction fails (e.g. non-standard
+    company slug, changed URL format). DuckDuckGo reliably indexes Fool transcripts.
+    """
+    import re
+    from urllib.parse import quote, unquote, parse_qs, urlparse
+
+    year = call_date.year
+    query = f"site:fool.com earnings-call-transcript {ticker} {year}"
+    ddg_url = f"https://html.duckduckgo.com/html/?q={quote(query)}"
+
+    try:
+        time.sleep(2)
+        resp = requests.get(ddg_url, headers=_FOOL_HEADERS, timeout=20)
+        if resp.status_code != 200:
+            return None
+        soup = BeautifulSoup(resp.text, "html.parser")
+
+        # DuckDuckGo HTML wraps destination URLs in a redirect link: href contains uddg=ENCODED_URL
+        candidates = []
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            if "uddg=" not in href:
+                continue
+            try:
+                actual = unquote(parse_qs(urlparse(href).query)["uddg"][0])
+            except (KeyError, IndexError):
+                continue
+            if "fool.com" not in actual or "earnings-call-transcript" not in actual:
+                continue
+            candidates.append(actual)
+
+        # Pick the result whose date in the URL is closest to call_date (within 3 days)
+        best_url, best_delta = None, float("inf")
+        for url in candidates:
+            m = re.search(r"/(\d{4})/(\d{2})/(\d{2})/", url)
+            if not m:
+                continue
+            url_date = pd.Timestamp(f"{m.group(1)}-{m.group(2)}-{m.group(3)}")
+            delta = abs((url_date - call_date).days)
+            if delta <= 3 and delta < best_delta:
+                best_delta = delta
+                best_url = url
+
+        if best_url:
+            logger.info("DDG found transcript URL: %s", best_url)
+            text = _fool_try_url(best_url)
+            if text:
+                m = re.search(r"-q(\d)-(\d{4})-earnings", best_url)
+                if m:
+                    return text, int(m.group(1)), int(m.group(2))
+    except Exception as e:
+        logger.debug("DuckDuckGo search failed for %s: %s", ticker, e)
+
+    return None
+
+
+def _find_fool_transcript(ticker: str, call_date: pd.Timestamp) -> tuple[str, int, int] | None:
+    """Find and return a Motley Fool transcript for ticker near call_date.
+
+    Step 1 — direct URL construction: fast, works for companies with known slugs.
+    Step 2 — DuckDuckGo fallback: finds the real URL for companies whose slug
+              doesn't match any of our candidates (e.g. MSFT URL format changed).
 
     Returns (text, fiscal_q, fiscal_year) or None.
     """
     slugs = _FOOL_SLUGS.get(ticker)
-    if not slugs:
-        return None
 
-    month = call_date.month
-    if month in (1, 2, 3):
-        q_order = [1, 4]
-    elif month in (4, 5, 6):
-        q_order = [2, 1]
-    elif month in (7, 8, 9):
-        q_order = [3, 2]
-    else:
-        q_order = [4, 3]
+    # Step 1: direct URL construction (fast)
+    if slugs:
+        month = call_date.month
+        if month in (1, 2, 3):
+            q_order = [1, 2, 4, 3]
+        elif month in (4, 5, 6):
+            q_order = [2, 3, 1, 4]
+        elif month in (7, 8, 9):
+            q_order = [3, 4, 2, 1]
+        else:
+            q_order = [4, 1, 3, 2]
+        years = [call_date.year, call_date.year + 1, call_date.year - 1]
 
-    for day_offset in [0, 1]:
-        d = call_date + pd.Timedelta(days=day_offset)
-        for q in q_order:
-            for y in [call_date.year, call_date.year - 1]:
-                for slug in slugs:
-                    url = (
-                        f"{_FOOL_BASE}/{d.year}/{d.month:02d}/{d.day:02d}/"
-                        f"{slug}-q{q}-{y}-earnings-call-transcript/"
-                    )
-                    time.sleep(0.3)
-                    text = _fool_try_url(url)
-                    if text:
-                        logger.info("Found transcript at %s", url)
-                        return text, q, y
+        for day_offset in [0, 1]:
+            d = call_date + pd.Timedelta(days=day_offset)
+            for q in q_order:
+                for y in years:
+                    for slug in slugs:
+                        url = (
+                            f"{_FOOL_BASE}/{d.year}/{d.month:02d}/{d.day:02d}/"
+                            f"{slug}-q{q}-{y}-earnings-call-transcript/"
+                        )
+                        time.sleep(0.25)
+                        text = _fool_try_url(url)
+                        if text:
+                            logger.info("Found transcript (direct) at %s", url)
+                            return text, q, y
 
-    return None
+    # Step 2: DuckDuckGo search fallback
+    logger.info("Direct URL failed for %s ~%s — trying DuckDuckGo search", ticker, call_date.date())
+    return _ddg_find_fool_url(ticker, call_date)
 
 
 def fetch_motley_fool_transcripts(
