@@ -53,24 +53,29 @@ _FOOL_HEADERS = {
 # Motley Fool company slug for each supported ticker.
 # Slug appears in the transcript URL:
 #   https://www.fool.com/earnings/call-transcripts/YYYY/MM/DD/{SLUG}-qN-YYYY-earnings-call-transcript/
-_FOOL_SLUG: dict[str, str] = {
-    "AAPL": "apple-aapl",
-    "MSFT": "microsoft-msft",
-    "NVDA": "nvidia-nvda",
-    "TSLA": "tesla-tsla",
-    "META": "meta-platforms-meta",
-    "AMZN": "amazon-amzn",
-    "GOOGL": "alphabet-googl",
-    "JPM": "jpmorgan-chase-jpm",
-    "BAC": "bank-of-america-bac",
-    "GS": "goldman-sachs-gs",
-    "XOM": "exxon-mobil-xom",
-    "CVX": "chevron-cvx",
-    "PFE": "pfizer-pfe",
-    "UNH": "unitedhealth-group-unh",
-    "AMD": "advanced-micro-devices-amd",
-    "JNJ": "johnson-johnson-jnj",
+# Each ticker maps to a list of slug candidates tried in order.
+# Motley Fool occasionally changes slug format (e.g. "apple-aapl" vs "apple-inc-aapl"),
+# so we try the most common variants.
+_FOOL_SLUGS: dict[str, list[str]] = {
+    "AAPL": ["apple-aapl", "apple-inc-aapl"],
+    "MSFT": ["microsoft-msft", "microsoft-corporation-msft"],
+    "NVDA": ["nvidia-nvda", "nvidia-corporation-nvda"],
+    "TSLA": ["tesla-tsla", "tesla-inc-tsla"],
+    "META": ["meta-platforms-meta", "meta-platforms-inc-meta"],
+    "AMZN": ["amazon-amzn", "amazon-com-amzn", "amazoncom-amzn"],
+    "GOOGL": ["alphabet-googl", "alphabet-inc-googl"],
+    "JPM": ["jpmorgan-chase-jpm", "jpmorgan-chase-co-jpm"],
+    "BAC": ["bank-of-america-bac", "bank-of-america-corp-bac"],
+    "GS": ["goldman-sachs-gs", "goldman-sachs-group-gs"],
+    "XOM": ["exxon-mobil-xom", "exxonmobil-xom"],
+    "CVX": ["chevron-cvx", "chevron-corporation-cvx"],
+    "PFE": ["pfizer-pfe", "pfizer-inc-pfe"],
+    "UNH": ["unitedhealth-group-unh", "unitedhealth-unh"],
+    "AMD": ["advanced-micro-devices-amd"],
+    "JNJ": ["johnson-johnson-jnj"],
 }
+# Keep a single-slug alias for backward compat
+_FOOL_SLUG = {t: slugs[0] for t, slugs in _FOOL_SLUGS.items()}
 
 
 # ---------------------------------------------------------------------------
@@ -181,14 +186,16 @@ def _fool_try_url(url: str) -> str | None:
 def _find_fool_transcript(ticker: str, call_date: pd.Timestamp) -> tuple[str, int, int] | None:
     """Search Motley Fool for a transcript near call_date.
 
-    Tries multiple date offsets (+0/+1 day), fiscal quarters, and fiscal years
-    because: (1) transcripts publish the morning after an after-hours call;
-    (2) fiscal quarters differ from calendar quarters for many companies.
+    Tries multiple slug variants, date offsets (+0/+1 day), fiscal quarters,
+    and fiscal years because:
+    - Motley Fool slug format varies ("apple-aapl" vs "apple-inc-aapl")
+    - Transcripts publish the morning after an after-hours call (+1 day)
+    - Fiscal quarters differ from calendar quarters for many companies
 
     Returns (text, fiscal_q, fiscal_year) or None.
     """
-    slug = _FOOL_SLUG.get(ticker)
-    if not slug:
+    slugs = _FOOL_SLUGS.get(ticker)
+    if not slugs:
         return None
 
     month = call_date.month
@@ -205,15 +212,16 @@ def _find_fool_transcript(ticker: str, call_date: pd.Timestamp) -> tuple[str, in
         d = call_date + pd.Timedelta(days=day_offset)
         for q in q_order:
             for y in [call_date.year, call_date.year - 1]:
-                url = (
-                    f"{_FOOL_BASE}/{d.year}/{d.month:02d}/{d.day:02d}/"
-                    f"{slug}-q{q}-{y}-earnings-call-transcript/"
-                )
-                time.sleep(0.4)
-                text = _fool_try_url(url)
-                if text:
-                    logger.info("Found transcript at %s", url)
-                    return text, q, y
+                for slug in slugs:
+                    url = (
+                        f"{_FOOL_BASE}/{d.year}/{d.month:02d}/{d.day:02d}/"
+                        f"{slug}-q{q}-{y}-earnings-call-transcript/"
+                    )
+                    time.sleep(0.3)
+                    text = _fool_try_url(url)
+                    if text:
+                        logger.info("Found transcript at %s", url)
+                        return text, q, y
 
     return None
 
@@ -258,7 +266,7 @@ def fetch_motley_fool_transcripts(
             continue
 
         start = pd.Timestamp(f"{min_year}-01-01")
-        end = pd.Timestamp(f"{max_year}-12-31")
+        end = min(pd.Timestamp(f"{max_year}-12-31"), pd.Timestamp.now())
         in_range = earnings[(earnings[date_col] >= start) & (earnings[date_col] <= end)]
 
         for _, row in in_range.iterrows():
