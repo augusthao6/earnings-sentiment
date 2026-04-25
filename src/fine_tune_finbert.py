@@ -1,7 +1,9 @@
-"""Fine-tune FinBERT on earnings transcripts to predict straddle signal."""
+"""Fine-tune FinBERT on earnings call Q&A sections to predict straddle signal."""
 
 import logging
+import sys
 from pathlib import Path
+
 import torch
 from torch.utils.data import Dataset, DataLoader
 from torch.optim import AdamW
@@ -9,7 +11,9 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, classification_report
 import pandas as pd
-import numpy as np
+
+sys.path.insert(0, str(Path(__file__).parent))
+from preprocessing import segment_transcript
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 logger = logging.getLogger(__name__)
@@ -38,126 +42,141 @@ class EarningsDataset(Dataset):
         return len(self.texts)
 
     def __getitem__(self, idx):
-        text = self.texts[idx]
-        label = self.labels[idx]
         encoding = self.tokenizer(
-            text,
+            self.texts[idx],
             truncation=True,
-            padding='max_length',
+            padding="max_length",
             max_length=self.max_length,
-            return_tensors='pt'
+            return_tensors="pt",
         )
         return {
-            'input_ids': encoding['input_ids'].flatten(),
-            'attention_mask': encoding['attention_mask'].flatten(),
-            'labels': torch.tensor(label, dtype=torch.long)
+            "input_ids": encoding["input_ids"].flatten(),
+            "attention_mask": encoding["attention_mask"].flatten(),
+            "labels": torch.tensor(self.labels[idx], dtype=torch.long),
         }
 
 
-def load_transcript_text(ticker: str, quarter: str) -> str:
-    """Load transcript text for a ticker and quarter."""
-    filename = f"{ticker}_{quarter.replace('-', '_')}.txt"
-    path = TRANSCRIPTS_DIR / filename
-    if path.exists():
-        return path.read_text(encoding='utf-8')
-    else:
-        # Check processed
-        processed_path = PROCESSED_DIR / filename
-        if processed_path.exists():
-            return processed_path.read_text(encoding='utf-8')
+def load_qa_text(ticker: str, quarter: str) -> str:
+    """Load only the Q&A section of an earnings call transcript.
+
+    Using Q&A instead of the full transcript has two advantages:
+    1. The first 512 tokens of a full transcript is just the IR intro — useless signal.
+       The first 512 tokens of the Q&A is actual analyst questions and management responses.
+    2. Q&A is less scripted: management can't rehearse every analyst question, so
+       genuine confidence and hedging language surfaces more clearly here.
+    """
+    year, q = quarter.split("-")
+    filename = f"{ticker}_{year}_{q}.txt"
+    for search_dir in [PROCESSED_DIR, TRANSCRIPTS_DIR]:
+        path = search_dir / filename
+        if path.exists():
+            text = path.read_text(encoding="utf-8")
+            segments = segment_transcript(text)
+            return segments.get("qa", segments.get("full", text))
     return ""
 
 
 def load_training_data() -> pd.DataFrame:
-    """Load the prepared training data."""
     path = PROCESSED_DIR / "training_data.csv"
     return pd.read_csv(path)
 
 
 def prepare_data_for_finetuning():
-    """Prepare texts and labels for fine-tuning."""
     df = load_training_data()
-    texts = []
-    labels = []
+    texts, labels = [], []
+    missing = 0
     for _, row in df.iterrows():
-        text = load_transcript_text(row['ticker'], row['quarter'])
+        text = load_qa_text(row["ticker"], row["quarter"])
         if text:
             texts.append(text)
-            labels.append(row['label'])
+            labels.append(row["label"])
+        else:
+            missing += 1
+    if missing:
+        logger.warning("%d transcripts not found and skipped", missing)
+    logger.info("Loaded %d Q&A sections for fine-tuning", len(texts))
     return texts, labels
 
 
 def fine_tune_finbert():
-    """Fine-tune FinBERT on the earnings data."""
     texts, labels = prepare_data_for_finetuning()
     if not texts:
         logger.error("No training data found")
         return
 
-    # Split data
     train_texts, val_texts, train_labels, val_labels = train_test_split(
-        texts, labels, test_size=0.2, random_state=42
+        texts, labels, test_size=0.2, random_state=42, stratify=labels
+    )
+    logger.info(
+        "Train: %d samples (label 1: %d), Val: %d samples (label 1: %d)",
+        len(train_labels), sum(train_labels),
+        len(val_labels), sum(val_labels),
     )
 
-    # Load tokenizer and model
     model_name = "ProsusAI/finbert"
     tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=2)
+    model = AutoModelForSequenceClassification.from_pretrained(
+        model_name, num_labels=2, ignore_mismatched_sizes=True
+    )
 
-    # Create datasets
     train_dataset = EarningsDataset(train_texts, train_labels, tokenizer, MAX_LENGTH)
     val_dataset = EarningsDataset(val_texts, val_labels, tokenizer, MAX_LENGTH)
-
     train_loader = DataLoader(train_dataset, batch_size=BATCH_SIZE, shuffle=True)
     val_loader = DataLoader(val_dataset, batch_size=BATCH_SIZE)
 
-    # Optimizer
     optimizer = AdamW(model.parameters(), lr=LEARNING_RATE)
 
-    # Device
-    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    logger.info("Training on %s", device)
     model.to(device)
 
-    # Training loop
+    # Class weights: up-weight label 1 proportionally to its scarcity
+    n_class0 = train_labels.count(0)
+    n_class1 = train_labels.count(1)
+    class_weight = torch.tensor(
+        [1.0, n_class0 / max(n_class1, 1)], dtype=torch.float
+    ).to(device)
+    loss_fn = torch.nn.CrossEntropyLoss(weight=class_weight)
+    logger.info("Class weights: [0]=1.0, [1]=%.2f", n_class0 / max(n_class1, 1))
+
     for epoch in range(EPOCHS):
         model.train()
-        train_loss = 0
+        train_loss = 0.0
         for batch in train_loader:
             optimizer.zero_grad()
-            input_ids = batch['input_ids'].to(device)
-            attention_mask = batch['attention_mask'].to(device)
-            labels = batch['labels'].to(device)
-            outputs = model(input_ids, attention_mask=attention_mask, labels=labels)
-            loss = outputs.loss
+            input_ids = batch["input_ids"].to(device)
+            attention_mask = batch["attention_mask"].to(device)
+            batch_labels = batch["labels"].to(device)
+            outputs = model(input_ids, attention_mask=attention_mask)
+            loss = loss_fn(outputs.logits, batch_labels)
             loss.backward()
             optimizer.step()
             train_loss += loss.item()
 
-        # Validation
         model.eval()
-        val_preds = []
-        val_true = []
+        val_preds, val_true = [], []
         with torch.no_grad():
             for batch in val_loader:
-                input_ids = batch['input_ids'].to(device)
-                attention_mask = batch['attention_mask'].to(device)
-                labels = batch['labels'].to(device)
+                input_ids = batch["input_ids"].to(device)
+                attention_mask = batch["attention_mask"].to(device)
+                batch_labels = batch["labels"].to(device)
                 outputs = model(input_ids, attention_mask=attention_mask)
                 preds = torch.argmax(outputs.logits, dim=1)
                 val_preds.extend(preds.cpu().numpy())
-                val_true.extend(labels.cpu().numpy())
+                val_true.extend(batch_labels.cpu().numpy())
 
         val_acc = accuracy_score(val_true, val_preds)
-        logger.info(f"Epoch {epoch+1}/{EPOCHS}, Train Loss: {train_loss/len(train_loader):.4f}, Val Acc: {val_acc:.4f}")
+        logger.info(
+            "Epoch %d/%d  train_loss=%.4f  val_acc=%.4f",
+            epoch + 1, EPOCHS, train_loss / len(train_loader), val_acc,
+        )
 
-    # Save model
     MODELS_DIR.mkdir(exist_ok=True)
     model.save_pretrained(MODELS_DIR / "finbert_finetuned")
     tokenizer.save_pretrained(MODELS_DIR / "finbert_finetuned")
     logger.info("Model saved to models/finbert_finetuned")
 
-    # Final evaluation
-    print(classification_report(val_true, val_preds))
+    print(classification_report(val_true, val_preds, zero_division=0))
 
 
 if __name__ == "__main__":
