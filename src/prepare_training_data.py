@@ -312,11 +312,19 @@ def prepare_training_data() -> pd.DataFrame:
     df = pd.DataFrame(training_data)
     df = add_qoq_features(df)
 
-    # Label by per-ticker median: ~50/50 balance, asks "unusually large move for this stock?"
-    ticker_medians = df.groupby("ticker")["realized_move"].transform("median")
-    df["label"] = (df["realized_move"] > ticker_medians).astype(int)
+    # 3-class tertile labeling per ticker:
+    #   0 = sell straddle (bottom third — small move, vol overpriced)
+    #   1 = do nothing    (middle third — ambiguous)
+    #   2 = buy straddle  (top third — large move, vol underpriced)
+    t_low = df.groupby("ticker")["realized_move"].transform(lambda x: x.quantile(1 / 3))
+    t_high = df.groupby("ticker")["realized_move"].transform(lambda x: x.quantile(2 / 3))
+    df["label"] = np.where(df["realized_move"] <= t_low, 0,
+                  np.where(df["realized_move"] <= t_high, 1, 2))
 
-    logger.info("Label distribution:\n%s", df["label"].value_counts().to_string())
+    logger.info(
+        "Label distribution (0=sell, 1=hold, 2=buy):\n%s",
+        df["label"].value_counts().sort_index().to_string(),
+    )
     logger.info("EPS surprise coverage: %d/%d events have data",
                 (df["eps_surprise_pct"] != 0).sum(), len(df))
 

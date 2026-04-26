@@ -1,4 +1,14 @@
-"""Fine-tune FinBERT on earnings call Q&A sections to predict straddle signal."""
+"""Fine-tune FinBERT on earnings press releases to predict 3-class straddle signal.
+
+Labels (from prepare_training_data.py tertile split):
+  0 = sell straddle  (small realized move — vol was overpriced)
+  1 = do nothing     (middling move — ambiguous)
+  2 = buy straddle   (large realized move — vol was underpriced)
+
+FinBERT's pretrained head is already 3-class (positive / negative / neutral),
+so num_labels=3 loads with no size mismatch and transfers the BERT backbone
+weights directly. The classifier head is re-initialized during fine-tuning.
+"""
 
 import logging
 import sys
@@ -27,8 +37,10 @@ MODELS_DIR = PROJECT_ROOT / "models"
 
 MAX_LENGTH = 512
 BATCH_SIZE = 4
-EPOCHS = 10
+EPOCHS = 5
 LEARNING_RATE = 2e-5
+NUM_LABELS = 3  # 0=sell, 1=hold, 2=buy
+PATIENCE = 2    # early stopping: halt if val_acc doesn't improve for this many epochs
 
 
 class EarningsDataset(Dataset):
@@ -89,12 +101,12 @@ def prepare_data_for_finetuning():
         text = load_qa_text(row["ticker"], row["quarter"])
         if text:
             texts.append(text)
-            labels.append(row["label"])
+            labels.append(int(row["label"]))
         else:
             missing += 1
     if missing:
         logger.warning("%d transcripts not found and skipped", missing)
-    logger.info("Loaded %d Q&A sections for fine-tuning", len(texts))
+    logger.info("Loaded %d sections for fine-tuning", len(texts))
     return texts, labels
 
 
@@ -104,19 +116,22 @@ def fine_tune_finbert():
         logger.error("No training data found")
         return
 
+    label_counts = {c: labels.count(c) for c in sorted(set(labels))}
+    logger.info("Label distribution: %s", label_counts)
+
     train_texts, val_texts, train_labels, val_labels = train_test_split(
         texts, labels, test_size=0.2, random_state=42, stratify=labels
     )
     logger.info(
-        "Train: %d samples (label 1: %d), Val: %d samples (label 1: %d)",
-        len(train_labels), sum(train_labels),
-        len(val_labels), sum(val_labels),
+        "Train: %d samples  Val: %d samples",
+        len(train_labels), len(val_labels),
     )
 
     model_name = "ProsusAI/finbert"
     tokenizer = AutoTokenizer.from_pretrained(model_name)
+    # num_labels=3 matches FinBERT's pretrained head exactly — no size mismatch
     model = AutoModelForSequenceClassification.from_pretrained(
-        model_name, num_labels=2, ignore_mismatched_sizes=True
+        model_name, num_labels=NUM_LABELS
     )
 
     train_dataset = EarningsDataset(train_texts, train_labels, tokenizer, MAX_LENGTH)
@@ -130,14 +145,21 @@ def fine_tune_finbert():
     logger.info("Training on %s", device)
     model.to(device)
 
-    # Class weights: up-weight label 1 proportionally to its scarcity
-    n_class0 = train_labels.count(0)
-    n_class1 = train_labels.count(1)
+    # Per-class inverse-frequency weights to handle class imbalance
+    n = len(train_labels)
     class_weight = torch.tensor(
-        [1.0, n_class0 / max(n_class1, 1)], dtype=torch.float
+        [n / (NUM_LABELS * max(train_labels.count(c), 1)) for c in range(NUM_LABELS)],
+        dtype=torch.float,
     ).to(device)
     loss_fn = torch.nn.CrossEntropyLoss(weight=class_weight)
-    logger.info("Class weights: [0]=1.0, [1]=%.2f", n_class0 / max(n_class1, 1))
+    logger.info(
+        "Class weights: [0=sell]=%.2f [1=hold]=%.2f [2=buy]=%.2f",
+        *class_weight.tolist(),
+    )
+
+    best_val_acc = -1.0
+    best_epoch = 0
+    epochs_no_improve = 0
 
     for epoch in range(EPOCHS):
         model.train()
@@ -167,16 +189,30 @@ def fine_tune_finbert():
 
         val_acc = accuracy_score(val_true, val_preds)
         logger.info(
-            "Epoch %d/%d  train_loss=%.4f  val_acc=%.4f",
-            epoch + 1, EPOCHS, train_loss / len(train_loader), val_acc,
+            "Epoch %d/%d  train_loss=%.4f  val_acc=%.4f%s",
+            epoch + 1, EPOCHS,
+            train_loss / len(train_loader),
+            val_acc,
+            "  [best]" if val_acc > best_val_acc else "",
         )
 
-    MODELS_DIR.mkdir(exist_ok=True)
-    model.save_pretrained(MODELS_DIR / "finbert_finetuned")
-    tokenizer.save_pretrained(MODELS_DIR / "finbert_finetuned")
-    logger.info("Model saved to models/finbert_finetuned")
+        if val_acc > best_val_acc:
+            best_val_acc = val_acc
+            best_epoch = epoch + 1
+            epochs_no_improve = 0
+            MODELS_DIR.mkdir(exist_ok=True)
+            model.save_pretrained(MODELS_DIR / "finbert_finetuned")
+            tokenizer.save_pretrained(MODELS_DIR / "finbert_finetuned")
+        else:
+            epochs_no_improve += 1
+            if epochs_no_improve >= PATIENCE:
+                logger.info("Early stopping at epoch %d (best was epoch %d)", epoch + 1, best_epoch)
+                break
 
-    print(classification_report(val_true, val_preds, zero_division=0))
+    logger.info("Best val_acc=%.4f at epoch %d — model saved to models/finbert_finetuned", best_val_acc, best_epoch)
+    print(classification_report(val_true, val_preds,
+                                target_names=["sell(0)", "hold(1)", "buy(2)"],
+                                zero_division=0))
 
 
 if __name__ == "__main__":

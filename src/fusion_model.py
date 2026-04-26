@@ -86,7 +86,9 @@ def train_fusion_model():
     y_pred = model.predict(X_test)
     acc = accuracy_score(y_test, y_pred)
     logger.info("Fusion model accuracy: %.4f", acc)
-    print(classification_report(y_test, y_pred))
+    print(classification_report(y_test, y_pred,
+                                target_names=["sell(0)", "hold(1)", "buy(2)"],
+                                zero_division=0))
 
     # Log top feature importances so you can see what's actually driving predictions
     importances = pd.Series(model.feature_importances_, index=features.columns)
