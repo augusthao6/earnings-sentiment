@@ -1,0 +1,641 @@
+EX-99.1
+2
+a2q25erfexhibit991narrative.htm
+JPMORGAN CHASE & CO. EARNINGS RELEASE - SECOND QUARTER 2025 RESULTS
+Document
+Exhibit 99.1
+JPMorgan Chase & Co.
+383 Madison Avenue, New York, NY 10179-0001
+NYSE symbol: JPM
+www.jpmorganchase.com
+JPMORGANCHASE REPORTS SECOND-QUARTER 2025 NET INCOME OF $15.0 BILLION (
+$5.24
+PER SHARE), NET INCOME, EXCLUDING A SIGNIFICANT ITEM, OF $14.2 BILLION ($4.96 PER SHARE)
+SECOND-QUARTER 2025 RESULTS
+1
+ROE
+18%
+ROTCE
+2
+21%
+CET1 Capital Ratios
+3
+Std.
+15.0%
+| Adv.
+15.1%
+Total Loss-Absorbing Capacity
+3
+$560B
+Std. RWA
+3
+$1.9T
+Cash and marketable securities
+4
+$1.5T
+Average loans
+$1.4T
+Firmwide Metrics
+n
+Reported revenue of $44.9 billion and managed revenue of $45.7 billion
+2
+n
+Expense of $23.8 billion; reported overhead ratio of 53% and managed overhead ratio
+2
+of 52%
+n
+Credit costs of $2.8 billion with $2.4 billion of net charge-offs and a $439 million net reserve build
+n
+Average loans up 5% YoY, up 3% QoQ; average deposits up 6% YoY, up 3% QoQ
+CCB
+ROE 36%
+n
+Average deposits down 1% YoY, up 1% QoQ; client investment assets up 14% YoY
+n
+Average loans up 1% YoY, flat QoQ; Card Services net charge-off rate of 3.40%
+n
+Debit and credit card sales volume
+5
+up 7% YoY
+n
+Active mobile customers
+6
+up 8% YoY
+CIB
+ROE 17%
+n
+Investment Banking fees up 7% YoY, up 12% QoQ;   #1 ranking for Global Investment Banking fees with 8.9% wallet share YTD
+n
+Markets revenue up 15% YoY, with Fixed Income Markets up 14% and Equity Markets up 15%
+n
+Average Banking & Payments loans
+7
+down 2% YoY, up 2% QoQ; average client deposits
+8
+up 16% YoY, up 5% QoQ
+AWM
+ROE
+36%
+n
+AUM
+9
+of $4.3 trillion, up 18% YoY
+n
+Average loans up 7% YoY, up 3% QoQ; average deposits up 9% YoY, up 2% QoQ
+Jamie Dimon, Chairman and CEO, commented on the financial results:
+“We reported another quarter of strong results, generating net income of $15.0 billion or net income of $14.2 billion excluding a significant item.”
+Dimon continued:
+“Each of the lines of business performed well. In the CIB, Markets revenue rose to $8.9 billion, and we supported clients as they navigated volatile market conditions at the beginning of the quarter. Meanwhile, IB activity started slow but gained momentum as market sentiment improved, and IB fees were up 7% for the quarter. In CCB, we added approximately 500,000 net new checking accounts, which drove sequential growth in checking account balances. In Card, we launched a refreshed Sapphire Reserve along with a new Sapphire Reserve for Business, with positive early reactions and strong new card acquisitions. Finally, in AWM, asset management fees rose 10%, and we saw continued client asset net inflows of $80 billion, with client assets crossing over $6.4 trillion.”
+Dimon added:
+“Earlier this month, we announced that the Board intends to increase our common dividend for the second time this year, resulting in a 20% cumulative increase compared with the fourth quarter of 2024. We also repurchased $7 billion of common stock. We ended the quarter with a 15% CET1 ratio, which remains far in excess of our required capital levels. In addition, we have an extraordinary amount of liquidity, with $1.5 trillion of cash and marketable securities.”
+Dimon added:
+“The U.S. economy remained resilient in the quarter. The finalization of tax reform and potential deregulation are positive for the economic outlook, however, significant risks persist – including from tariffs and trade uncertainty, worsening geopolitical conditions, high fiscal deficits and elevated asset prices. As always, we hope for the best but prepare the Firm for a wide range of scenarios.”
+Dimon concluded:
+“I want to thank our exceptional employees across the globe. Their passion and dedication are what set us apart and enable us to be trusted partners for our clients and communities, including consumers, small and large-sized businesses, schools, cities, states and countries.”
+SIGNIFICANT ITEMS IN 2Q25 RESULTS
+n
+$774 million income tax benefit in Corporate ($0.28 increase in EPS
+10
+)
+CAPITAL DISTRIBUTIONS
+n
+Common dividend of $3.9 billion or $1.40 per share
+n
+$7.1 billion of common stock net repurchases
+11
+n
+Net payout LTM
+11,12
+of 71%
+FORTRESS PRINCIPLES
+n
+Book value per share of $122.51, up 10% YoY; tangible book value per share
+2
+of $103.40, up 11% YoY
+n
+Basel III common equity Tier 1 capital
+3
+of $284 billion, Standardized ratio
+3
+of 15.0% and Advanced ratio
+3
+of 15.1%
+n
+Firm supplementary leverage ratio of 5.9%
+SUPPORTED CONSUMERS, BUSINESSES & COMMUNITIES
+n
+Approximately
+$1.7 trillion
+of credit and capital
+13
+raised YTD:
+n
+$135 billion
+of credit for consumers
+n
+$17 billion
+of credit for U.S. small businesses
+n
+$1.5 trillion
+of credit and capital for corporations and non-U.S. government entities
+n
+$37 billion
+of credit and capital for nonprofit and U.S. government entities, including states, municipalities, hospitals and universities
+Investor Contact: Mikael Grubb (212) 270-2479
+Media Contact: Michael Fusco (212) 270-2495
+Note: Totals may not sum due to rounding.
+1
+Percentage comparisons are for the second quarter of 2025 versus the prior-year second quarter, unless otherwise specified.
+2
+For notes on non-GAAP financial measures, including managed basis reporting, see page 6.
+For additional notes, see page 7.
+JPMorgan Chase & Co.
+News Release
+In the discussion below of Firmwide results of JPMorgan Chase & Co. (“JPMorganChase” or the “Firm”), information is presented on a managed basis, which is a non-GAAP financial measure, unless otherwise specified. The discussion below of the Firm’s business segments and Corporate is also presented on a managed basis. For more information about managed basis and non-GAAP financial measures used by management to evaluate the performance of each line of business, refer to page 6.
+Comparisons noted in the sections below are for the second quarter of 2025 versus the prior-year second quarter, unless otherwise specified.
+JPMORGANCHASE (JPM)
+Results for JPM
+1Q25
+2Q24
+($ millions, except per share data)
+2Q25
+1Q25
+2Q24
+$ O/(U)
+O/(U) %
+$ O/(U)
+O/(U) %
+Net revenue - reported
+$
+44,912
+$
+45,310
+$
+50,200
+$
+(398)
+(1)
+%
+$
+(5,288)
+(11)
+%
+Net revenue - managed
+45,680
+46,014
+50,992
+(334)
+(1)
+(5,312)
+(10)
+Noninterest expense
+23,779
+23,597
+23,713
+182
+1
+66
+—
+Provision for credit losses
+2,849
+3,305
+3,052
+(456)
+(14)
+(203)
+(7)
+Net income
+$
+14,987
+$
+14,643
+$
+18,149
+$
+344
+2
+%
+$
+(3,162)
+(17)
+%
+Earnings per share - diluted
+$
+5.24
+$
+5.07
+$
+6.12
+$
+0.17
+3
+%
+$
+(0.88)
+(14)
+%
+Return on common equity
+18
+%
+18
+%
+23
+%
+Return on tangible common equity
+21
+21
+28
+Discussion of Results:
+Net income was $15.0 billion, down 17%.
+Net revenue was $45.7 billion, down 10%. Net interest income was
+$23.3 billion
+, up
+2%
+. Noninterest revenue was $22.4 billion, down 20%.
+Net interest income excluding Markets
+2
+was $22.8 billion, down 1%, driven by the impact of lower rates and deposit margin compression, predominantly offset by higher wholesale deposit balances and higher revolving balances in Card Services, as well as the impact of securities activity including activity in prior quarters. Noninterest revenue excluding Markets
+2
+was $14.0 billion, down 31%. Excluding the $7.9 billion net gain related to Visa shares
+14
+and $546 million of securities losses in the prior year, noninterest revenue excluding Markets
+2
+was up 8%, driven by higher asset management fees in AWM and CCB, higher auto operating lease income, higher investment banking fees and higher Payments fees. Markets revenue was $8.9 billion, up 15%.
+Noninterest expense was $23.8 billion, flat to the prior year. Excluding the $1.0 billion contribution of Visa shares to the JPMorgan Chase Foundation in the prior year, noninterest expense was up 5%, driven by higher compensation, including higher revenue-related compensation and growth in front office and technology employees, as well as higher brokerage expense and distribution fees, auto lease depreciation and technology expense, partially offset by lower legal expense.
+The provision for credit losses was $2.8 billion. Net charge-offs of $2.4 billion, predominantly in Card Services, were up $179 million. The net reserve build of $439 million, primarily in Wholesale, was driven by the impact of net lending activity, largely offset by a decrease in the weight placed on the adverse scenarios. In the prior year, the provision was $3.1 billion, net charge-offs were $2.2 billion and the net reserve build was $821 million.
+The current quarter included a $774 million income tax benefit in Corporate, driven by the resolution of certain tax audits and the impact of tax regulations finalized in 2024 related to foreign currency translation gains and losses.
+2
+JPMorgan Chase & Co.
+News Release
+CONSUMER & COMMUNITY BANKING (CCB)
+Results for CCB
+1Q25
+2Q24
+($ millions)
+2Q25
+1Q25
+2Q24
+$ O/(U)
+O/(U) %
+$ O/(U)
+O/(U) %
+Net revenue
+15
+$
+18,847
+$
+18,313
+$
+17,701
+$
+534
+3
+%
+$
+1,146
+6
+%
+Banking & Wealth Management
+10,698
+10,254
+10,375
+444
+4
+323
+3
+Home Lending
+1,250
+1,207
+1,319
+43
+4
+(69)
+(5)
+Card Services & Auto
+6,899
+6,852
+6,007
+47
+1
+892
+15
+Noninterest expense
+9,858
+9,857
+9,425
+1
+—
+433
+5
+Provision for credit losses
+2,082
+2,629
+2,643
+(547)
+(21)
+(561)
+(21)
+Net income
+$
+5,169
+$
+4,425
+$
+4,210
+$
+744
+17
+%
+$
+959
+23
+%
+Discussion of Results:
+Net income was $5.2 billion, up 23%.
+Net revenue
+15
+was $18.8 billion, up 6%. Banking & Wealth Management net revenue was $10.7 billion, up 3%, predominantly driven by higher noninterest revenue, largely due to higher asset management fees in J.P. Morgan Wealth Management and higher card income. Home Lending net revenue was $1.3 billion, down 5%, predominantly driven by lower net interest income. Card Services & Auto net revenue was $6.9 billion, up 15%, predominantly driven by higher Card Services net interest income on higher revolving balances, as well as higher auto operating lease income.
+Noninterest expense was $9.9 billion, up 5%, largely driven by higher technology expense and higher auto lease depreciation.
+The provision for credit losses was $2.1 billion. Net charge-offs were $2.1 billion, up $22 million, primarily driven by Card Services. Reserves were relatively flat, as changes in the weighted-average macroeconomic outlook were offset by loan growth in Card Services. In the prior year, the provision was $2.6 billion, net charge-offs were $2.1 billion and the net reserve build was $579 million.
+3
+JPMorgan Chase & Co.
+News Release
+COMMERCIAL & INVESTMENT BANK (CIB)
+Results for CIB
+1Q25
+2Q24
+($ millions)
+2Q25
+1Q25
+2Q24
+$ O/(U)
+O/(U) %
+$ O/(U)
+O/(U) %
+Net revenue
+$
+19,535
+$
+19,666
+$
+17,917
+$
+(131)
+(1)
+%
+$
+1,618
+9
+%
+Banking & Payments
+9,248
+8,754
+8,950
+494
+6
+298
+3
+Markets & Securities Services
+10,287
+10,912
+8,967
+(625)
+(6)
+1,320
+15
+Noninterest expense
+9,641
+9,842
+9,166
+(201)
+(2)
+475
+5
+Provision for credit losses
+696
+705
+384
+(9)
+(1)
+312
+81
+Net income
+$
+6,650
+$
+6,942
+$
+5,897
+$
+(292)
+(4)
+%
+$
+753
+13
+%
+Discussion of Results:
+Net income was $6.7 billion, up 13%.
+Net revenue was $19.5 billion, up 9%. Banking & Payments revenue was $9.2 billion, up 3%. Investment Banking revenue was $2.7 billion, up 9%. Investment Banking fees were $2.5 billion, up 7%, driven by higher debt underwriting and advisory fees, partially offset by lower equity underwriting fees. Payments revenue was $4.7 billion, up 4%. Excluding the net impact of equity investments, Payments revenue was up 3%, driven by higher deposit balances and fee growth, predominantly offset by deposit margin compression. Lending revenue was $1.8 billion, down 6%, largely driven by higher losses on hedges of the retained lending portfolio.
+Markets & Securities Services revenue was $10.3 billion, up 15%. Markets revenue was $8.9 billion, up 15%. Fixed Income Markets revenue was $5.7 billion, up 14%, driven by higher revenue in Currencies & Emerging Markets, Rates and Commodities, partially offset by lower revenue in the Securitized Products Group
+16
+and Fixed Income Financing. Equity Markets revenue was $3.2 billion, up 15%, predominantly driven by higher revenue across products, notably in Derivatives. Securities Services revenue was $1.4 billion, up 12%, driven by higher deposit balances as well as fee growth on higher client activity and market levels.
+Noninterest expense was $9.6 billion, up 5%, driven by higher compensation, brokerage and technology expense, partially offset by lower legal expense.
+The provision for credit losses was $696 million, driven by a reserve build in the Commercial & Industrial portfolio, which reflected the impact of net lending activity and credit quality changes on certain exposures, partially offset by a decrease in the weight placed on the adverse scenarios. The net reserve build was $371 million and net charge-offs were $325 million. In the prior year, the provision was $384 million, the net reserve build was $220 million and net charge-offs were $164 million.
+ASSET & WEALTH MANAGEMENT (AWM)
+Results for AWM
+1Q25
+2Q24
+($ millions)
+2Q25
+1Q25
+2Q24
+$ O/(U)
+O/(U) %
+$ O/(U)
+O/(U) %
+Net revenue
+$
+5,760
+$
+5,731
+$
+5,252
+$
+29
+1
+%
+$
+508
+10
+%
+Noninterest expense
+3,733
+3,713
+3,543
+20
+1
+190
+5
+Provision for credit losses
+46
+(10)
+20
+56
+NM
+26
+130
+Net income
+$
+1,473
+$
+1,583
+$
+1,263
+$
+(110)
+(7)
+%
+$
+210
+17
+%
+Discussion of Results:
+Net income was $1.5 billion, up 17%.
+Net revenue was $5.8 billion, up 10%, driven by growth in management fees on strong net inflows and higher average market levels, as well as higher brokerage activity and higher deposit balances.
+Noninterest expense was $3.7 billion, up 5%, driven by higher compensation, including higher revenue-related compensation and continued growth in private banking advisor teams, as well as higher distribution fees.
+Assets under management were $4.3 trillion, up 18%, and client assets were $6.4 trillion, up 19%. These increases were each driven by continued net inflows and higher market levels.
+4
+JPMorgan Chase & Co.
+News Release
+CORPORATE
+Results for Corporate
+1Q25
+2Q24
+($ millions)
+2Q25
+1Q25
+2Q24
+$ O/(U)
+O/(U) %
+$ O/(U)
+O/(U) %
+Net revenue
+15
+$
+1,538
+$
+2,304
+$
+10,122
+$
+(766)
+(33)
+%
+$
+(8,584)
+(85)
+%
+Noninterest expense
+547
+185
+1,579
+362
+196
+(1,032)
+(65)
+Provision for credit losses
+25
+(19)
+5
+44
+NM
+20
+400
+Net income
+$
+1,695
+$
+1,693
+$
+6,779
+$
+2
+—
+%
+$
+(5,084)
+(75)
+%
+Discussion of Results:
+Net income was $1.7 billion, down $5.1 billion.
+Net revenue was $1.5 billion, down $8.6 billion. Net interest income was $1.5 billion, down $875 million, driven by the impact of changes in funds transfer pricing
+15
+for consumer deposits as well as lower rates, partially offset by the impact of securities activity including activity in prior quarters. Noninterest revenue was $49 million, down $7.7 billion, driven by the absence of the $7.9 billion net gain related to Visa shares in the prior year, partially offset by lower net investment securities losses.
+Noninterest expense was $547 million, down $1.0 billion, driven by the absence of the $1.0 billion contribution of Visa shares to the JPMorgan Chase Foundation in the prior year.
+The current quarter included a $774 million income tax benefit, driven by the resolution of certain tax audits and the impact of tax regulations finalized in 2024 related to foreign currency translation gains and losses.
+5
+JPMorgan Chase & Co.
+News Release
+2.    Notes on non-GAAP financial measures:
+a.
+The Firm prepares its Consolidated Financial Statements in accordance with accounting principles generally accepted in the U.S. (“U.S. GAAP”). That presentation, which is referred to as “reported” basis, provides the reader with an understanding of the Firm’s results that can be tracked consistently from year-to-year and enables a comparison of the Firm’s performance with the U.S. GAAP financial statements of other companies. In addition to analyzing the Firm’s results on a reported basis, management reviews Firmwide results, including the overhead ratio, on a “managed” basis; these Firmwide managed basis results are non-GAAP financial measures. The Firm also reviews the results of the lines of business on a managed basis. The Firm’s definition of managed basis starts, in each case, with the reported U.S. GAAP results and includes certain reclassifications to present total net revenue for the Firm as a whole and for each of the reportable business segments and Corporate on a fully taxable-equivalent basis. Accordingly, revenue from investments that receive tax credits and tax-exempt securities is presented in the managed results on a basis comparable to taxable investments and securities. These financial measures allow management to assess the comparability of revenue from year-to-year arising from both taxable and tax-exempt sources. The corresponding income tax impact related to tax-exempt items is recorded within income tax expense. These adjustments have no impact on net income as reported by the Firm as a whole or by each of the lines of business and Corporate. For a reconciliation of the Firm’s results from a reported to managed basis, refer to page 7 of the Earnings Release Financial Supplement.
+b.
+Tangible common equity (“TCE”), return on tangible common equity (“ROTCE”) and tangible book value per share (“TBVPS”) are each non-GAAP financial measures. TCE represents the Firm’s common stockholders’ equity (i.e., total stockholders’ equity less preferred stock) less goodwill and identifiable intangible assets (other than mortgage servicing rights), net of related deferred tax liabilities. For a reconciliation from common stockholders’ equity to TCE, refer to page 10 of the Earnings Release Financial Supplement. ROTCE measures the Firm’s net income applicable to common equity as a percentage of average TCE. TBVPS represents the Firm’s TCE at period-end divided by common shares at period-end. Book value per share was $122.51, $119.24 and $111.29 at June 30, 2025, March 31, 2025 and June 30, 2024, respectively. TCE, ROTCE and TBVPS are utilized by the Firm, as well as investors and analysts, in assessing the Firm’s use of equity.
+c.
+In addition to reviewing net interest income (“NII”) and noninterest revenue (“NIR”) on a managed basis, management also reviews these metrics excluding Markets, which is composed of Fixed Income Markets and Equity Markets. Markets revenue consists of principal transactions, fees, commissions and other income, as well as net interest income. These metrics, which exclude Markets, are non-GAAP financial measures. Management reviews these metrics to assess the performance of the Firm’s lending, investing (including asset-liability management) and deposit-raising activities, apart from any volatility associated with Markets activities. In addition, management also assesses Markets business performance on a total revenue basis as offsets may occur across revenue lines. For example, securities that generate net interest income may be risk-managed by derivatives that are reflected at fair value in principal transactions revenue. Management believes these measures provide investors and analysts with alternative measures to analyze the revenue trends of the Firm. For a reconciliation of NII and NIR from reported to excluding Markets, refer to page 28 of the Earnings Release Financial Supplement. For additional information on Markets revenue, refer to pages 81-82 of the Firm’s 2024 Form 10-K.
+d.
+Second-quarter 2025 net income and earnings per share excluding the $774 million income tax benefit are non-GAAP financial measures. Excluding this item resulted in a decrease of $774 million (after tax) to reported net income from $15.0 billion to $14.2 billion and a decrease of $0.28 per share to reported EPS from $5.24 to $4.96. Management believes these measures provide useful information to investors and analysts in assessing the Firm’s results.
+6
+JPMorgan Chase & Co.
+News Release
+Additional notes:
+3.
+Estimated. As of January 1, 2025, the benefit from the Current Expected Credit Losses (“CECL”) capital transition provision had been fully phased-out. Refer to Note 21 of the Firm's Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2025 and Note 27 of the Firm’s 2024 Form 10-K for additional information.
+4.
+Estimated. Cash and marketable securities include end-of-period eligible high-quality liquid assets (“HQLA”), excluding regulatory prescribed haircuts under the liquidity coverage ratio (“LCR”) rule where applicable, for both the Firm and the excess HQLA-eligible securities included as part of the excess liquidity at JPMorgan Chase Bank, N.A., which are not transferable to non-bank affiliates and thus excluded from the Firm’s LCR. Also include other end-of-period unencumbered marketable securities, such as equity and debt securities. Does not include borrowing capacity at Federal Home Loan Banks and the discount window at the Federal Reserve Bank. Refer to Liquidity Risk Management on pages 40-46 of the Firm's Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2025 and pages 108-115 of the Firm’s 2024 Form 10-K for additional information.
+5.
+Excludes Commercial Card.
+6.
+Users of all mobile platforms who have logged in within the past 90 days.
+7.
+On January 1, 2025, $5.6 billion of loans were realigned from Global Corporate Banking to Fixed Income Markets.
+8.
+Client deposits and other third party liabilities (“client deposits”) pertain to the Payments and Securities Services businesses.
+9.
+Assets under management (“AUM”).
+10.
+Earnings per share (“EPS”).
+11.
+Includes the net impact of employee issuances. Excludes excise tax and commissions.
+12.
+Last twelve months (“LTM”).
+13.
+Credit provided to clients represents new and renewed credit, including loans and lending-related commitments, as well as unused amounts of advised uncommitted lines of credit where the Firm has discretion on whether or not to make a loan under these lines. Credit and capital for corporations and non-U.S. government entities includes Individuals and Individual Entities primarily consisting of Global Private Bank clients within AWM.
+14.
+On April 8, 2024, Visa Inc. announced the commencement of an exchange offer for Visa Class B-1 common stock. On May 6, 2024, the Firm announced that Visa accepted the Firm’s tender of its 37.2 million shares of Visa Class B-1 common stock in exchange for a combination of Visa Class B-2 common stock and Visa Class C common stock. Visa’s acceptance resulted in a gain for the Firm relating to the Visa Class C common stock, which is held at fair value. Refer to pages 54 and 200 of the Firm’s 2024 Form 10-K for additional information.
+15.
+During the fourth quarter of 2024, the Firm made a change to its funds transfer pricing with respect to consumer deposits, resulting in an increase in the funding benefit reflected within CCB net interest income which is fully offset within Corporate net interest income. Refer to page 17 of the Firm's Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2025 and page 71 of the Firm’s 2024 Form 10-K for additional information.
+16.
+Securitized Products Group is comprised of Securitized Products and tax-oriented investments.
+7
+JPMorgan Chase & Co.
+News Release
+JPMorgan Chase & Co. (NYSE: JPM) is a leading financial services firm based in the United States of America (“U.S.”), with operations worldwide. JPMorganChase had
+$4.6 trillion in assets and $357 billion in stockholders’ equity as of June 30, 2025. The Firm is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing and asset management. Under the J.P. Morgan and Chase brands, the Firm serves millions of customers predominantly in the U.S., and many of the world’s most prominent corporate, institutional and government clients globally. Information about JPMorgan Chase & Co. is available at
+www.jpmorganchase.com
+.
+JPMorgan Chase & Co. will host a conference call today, July 15, 2025, at 8:30 a.m. (ET) to present second-quarter 2025 financial results. The general public can access the conference call by dialing the following numbers: 1 (888) 324-3618 in the U.S. and Canada; +1 (312) 470-7119 for international callers; use passcode 1364784#. Please dial in 15 minutes prior to the start of the call. The live audio webcast and presentation slides will be available on the Firm’s website,
+www.jpmorganchase.com
+, under Investor Relations, Events & Presentations.
+A replay of the conference call also will be available by telephone beginning at approximately 11:00 a.m. (ET) on July 15, 2025 through 11:59 p.m. (ET) on July 29, 2025 at 1 (800) 841-4034 (U.S. and Canada); +1 (203) 369-3360 (International); use passcode 67371#. The replay will be available via webcast on
+www.jpmorganchase.com
+under Investor Relations, Events & Presentations. Additional detailed financial, statistical and business-related information is included in a financial supplement. The earnings release and the financial supplement are available at
+www.jpmorganchase.com
+.
+This earnings release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements are based on the current beliefs and expectations of JPMorgan Chase & Co.’s management and are subject to significant risks and uncertainties. Actual results may differ from those set forth in the forward-looking statements. Factors that could cause JPMorgan Chase & Co.’s actual results to differ materially from those described in the forward-looking statements can be found in JPMorgan Chase & Co.’s Annual Report on Form 10-K for the year ended December 31, 2024 and Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2025, which have been filed with the Securities and Exchange Commission and are available on JPMorgan Chase & Co.’s website (
+https://jpmorganchaseco.gcs-web.com/ir/sec-other-filings/overview
+), and on the Securities and Exchange Commission’s website (
+www.sec.gov
+). JPMorgan Chase & Co. does not undertake to update any forward-looking statements.
+8

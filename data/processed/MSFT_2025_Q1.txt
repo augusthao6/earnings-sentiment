@@ -1,0 +1,63 @@
+Thank you. If you talk about the market at the moment -- because you were first with Copilot, you had identified a lot with copilots and now we're talking agents. Can you kind of -- Satya, how do you think about that? And to me, it looks like an evolution that we're discovering how to kind of productize AI better, et cetera. So how do you think about that journey between copilots, agents and maybe what's coming next?
+
+Satya Nadella--Chair and Chief Executive Officer
+
+Sure. The system we have built is Copilot, Copilot Studio, agents, and autonomous agents. You should think of that as the spectrum of things, right? So ultimately, the way we think about how this all comes together is you need humans to be able to interface with AI. So the UI layer for AI is Copilot.
+
+You can then use Copilot Studio to extend Copilot. For example, you want to connect it to your CRM system, to your office system, to your HR system. You do that through Copilot Studio by building agents effectively. You also build autonomous agents.
+
+So you can use even -- that's the announcement we made a couple of weeks ago, is you can even use Copilot Studio to build autonomous agents. Now these autonomous agents are working independently, but from time to time, they need to raise an exception, right? So autonomous agents are not fully autonomous because, at some point, they need to either notify someone or have someone input something. And when they need to do that, they need a UI layer, and that's where, again, it's Copilot. So Copilot, Copilot agents built-in Copilot Studio, autonomous agents built in Copilot Studio, that's the full system, we think, that comes together, and we feel very, very good about the position.
+
+And then, of course, we are taking the underlying system services across that entire stack that I just talked about, making it available in Azure, right? So you have the raw infrastructure if you wanted. You have the model layer independent of it. You have the AI app server in Azure AI, right? So everything is also a building block service in Azure for you to be able to build. In fact, if you want to build everything that we have built in the Copilot stack, you can build it yourself using the AI platform.
+
+So that's sort of, in simple terms, our strategy, and that's kind of how it all comes together.
+
+Raimo Lenschow--Analyst
+
+OK. Perfect. Very clear.
+
+Brett Iversen--Vice President, Investor Relations
+
+Thanks, Raimo. Operator, we have time for one last question.
+
+Operator
+
+And the last question will come from the line of Rishi Jaluria with RBC. Please proceed.
+
+Rishi Jaluria--Analyst
+
+Wonderful. Thanks. Hi, Satya. Hi, Amy.
+
+Appreciate the question. I want to go and think a little bit about Copilot, how we should be thinking about kind of numbers here with the recategorization. It seems like that was maybe softer in the past than expected or maybe with the numbers this quarter starting to pick up. Can you maybe walk us through what you're seeing on that and maybe more importantly, how we should be thinking about your overall AI strategy on consumer versus enterprise, especially now with Moustafa on the fold?
+
+Satya Nadella--Chair and Chief Executive Officer
+
+Yes. On the first part, Rishi, to your question, I think we feel very, very good about the momentum we have in the commercial Copilot, right? As I said in my remarks and Amy talked about, this is the fastest growth of a new suite in M365. If I compare it to what we saw even back -- way back in E3 or E5 or the transition from O to M, this is really much faster, right? It's the numbers of penetration of the Fortune 500 and then the fact that they're coming back for more seats and what have you. So it's very strong in that context.
+
+The other thing I'd also mention is that we want this to be something that is systemic, right, because people need to be able to put the security controls. Then they need to deploy. Then there's skilling, and then there's change management. So this is not like you just -- it's not a tool.
+
+Like when I talk about Copilot, Copilot Studio, agents, it's really as much about a new way to work. And sometimes I describe it as what happened throughout the '90s with PC penetration. After all, if you take a business process like forecasting, what was it like pre email and Excel and post email and Excel? That's the type of change that you see with Copilot. But overall, we feel great about the rate of progress and the penetration.
+
+And then on the consumer side, look, for us, the exciting part here is to be able to use the same investment we are making in the commercial where we have structural strength and then beyond the offense. One of the things that, I think, I hope you all catch in our earnings is ex TAC. Our revenue, when it comes to what we describe as search, news, and ads, is growing faster than market. So that's -- it's fantastic to see that.
+
+And so that's kind of our consumer business, which in Microsoft's large scope, it's sort -- even a $10-plus billion business sort of sometimes go missing. But in our case, it is actually a fantastic growth business that's growing faster than market. We feel good about how we will use AI in LinkedIn. In fact, LinkedIn is a consumer business as you know.
+
+You saw even this week, they announced some new capabilities for both consumers and in their case, even recruiting. So we think that AI, the same investment gets monetized even through LinkedIn's innovation. And gaming, of course, is another place where you'll see some of these things apply and Windows, right? So the place where I think I'm excited about is Copilot+ PCs. For us, it's not about having a disconnected edge.
+
+It's about having hybrid AI where the rebirth of sort of the PC as the edge of AI is going to be one of the most exciting things for developers. So we feel well positioned, quite frankly, with the same investment. So this is -- that's the thing. We're not a conglomerate here.
+
+We are sort of one company. That means we invest once, and then we have all these categories that benefit from that. And that's the theory of the firm for us. And so we feel good about all of that coming together.
+
+Amy E. Hood--Executive Vice President, Chief Financial Officer
+
+And maybe just to add one piece because I think, Rishi, now that I'm listening and thinking through the question, it feels like you're wondering, like why am I not seeing the Copilot, if you've made all this progress and the results, and the answer is you already are. In that M365 commercial number, we've seen that seat growth, but those seats that we're adding, the majority of them are driven by frontline worker and small businesses. Those have a lower ARPU point. And so it masks some of the ARPU that we're already seeing not just from E5, which continues to contribute, but also this quarter, additional impact from Copilot.
+
+So as we go forward, being able -- that is where you're going to see the impact will be in ARPU in M365 commercial, and as Satya said, I think you'll see the impact of Copilot engagement, frankly, across the same ex TAC number.
+
+Rishi Jaluria--Analyst
+
+OK. Wonderful. Thank you.
+
+Brett Iversen--Vice President, Investor Relations
+
+Thanks, Rishi. That wraps up the Q&A portion of today's earnings call. Thank you for joining us today, and we look forward to speaking with all of you again soon.

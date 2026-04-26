@@ -1,0 +1,1146 @@
+Operating cash flow -- trailing twelve months (TTM)
+$
+84,946
+$
+99,147
+$
+107,952
+$
+112,706
+$
+115,877
+$
+113,903
+15
+%
+Operating cash flow -- TTM Y/Y growth
+82
+%
+82
+%
+75
+%
+57
+%
+36
+%
+15
+%
+N/A
+Purchases of property and equipment, net of proceeds from sales and incentives -- TTM
+$
+48,133
+$
+48,998
+$
+54,979
+$
+64,959
+$
+77,658
+$
+87,978
+80
+%
+Free cash flow -- TTM (1)
+$
+36,813
+$
+50,149
+$
+52,973
+$
+47,747
+$
+38,219
+$
+25,925
+(48)
+%
+Common shares and stock-based awards outstanding
+10,788
+10,788
+10,871
+10,872
+10,876
+10,876
+1
+%
+Common shares outstanding
+10,383
+10,403
+10,490
+10,511
+10,593
+10,613
+2
+%
+Stock-based awards outstanding
+406
+385
+381
+361
+283
+263
+(32)
+%
+Stock-based awards outstanding -- % of common shares outstanding
+3.9
+%
+3.7
+%
+3.6
+%
+3.4
+%
+2.7
+%
+2.5
+%
+N/A
+Results of Operations
+Worldwide (WW) net sales
+$
+169,961
+$
+143,313
+$
+147,977
+$
+158,877
+$
+187,792
+$
+155,667
+9
+%
+WW net sales -- Y/Y growth, excluding F/X
+13
+%
+13
+%
+11
+%
+11
+%
+11
+%
+10
+%
+N/A
+WW net sales -- TTM
+$
+574,785
+$
+590,740
+$
+604,334
+$
+620,128
+$
+637,959
+$
+650,313
+10
+%
+WW net sales -- TTM Y/Y growth, excluding F/X
+12
+%
+12
+%
+12
+%
+12
+%
+11
+%
+11
+%
+N/A
+Operating income
+$
+13,209
+$
+15,307
+$
+14,672
+$
+17,411
+$
+21,203
+$
+18,405
+20
+%
+F/X impact -- favorable
+$
+85
+$
+72
+$
+29
+$
+16
+$
+14
+$
+53
+N/A
+Operating income -- Y/Y growth, excluding F/X
+379
+%
+219
+%
+91
+%
+55
+%
+60
+%
+20
+%
+N/A
+Operating margin -- % of WW net sales
+7.8
+%
+10.7
+%
+9.9
+%
+11.0
+%
+11.3
+%
+11.8
+%
+N/A
+Operating income -- TTM
+$
+36,852
+$
+47,385
+$
+54,376
+$
+60,599
+$
+68,593
+$
+71,691
+51
+%
+Operating income -- TTM Y/Y growth, excluding F/X
+197
+%
+252
+%
+205
+%
+129
+%
+86
+%
+51
+%
+N/A
+Operating margin -- TTM % of WW net sales
+6.4
+%
+8.0
+%
+9.0
+%
+9.8
+%
+10.8
+%
+11.0
+%
+N/A
+Net income
+$
+10,624
+$
+10,431
+$
+13,485
+$
+15,328
+$
+20,004
+$
+17,127
+64
+%
+Net income per diluted share
+$
+1.00
+$
+0.98
+$
+1.26
+$
+1.43
+$
+1.86
+$
+1.59
+62
+%
+Net income -- TTM
+$
+30,425
+$
+37,684
+$
+44,419
+$
+49,868
+$
+59,248
+$
+65,944
+75
+%
+Net income per diluted share -- TTM
+$
+2.90
+$
+3.56
+$
+4.18
+$
+4.67
+$
+5.53
+$
+6.13
+72
+%
+______________________________
+(1)
+Free cash flow is cash flow from operations reduced by “Purchases of property and equipment, net of proceeds from sales and incentives.”
+AMAZON.COM, INC.
+Supplemental Financial Information and Business Metrics
+(in millions)
+(unaudited)
+Q4 2023
+Q1 2024
+Q2 2024
+Q3 2024
+Q4 2024
+Q1 2025
+Y/Y %
+Change
+Segments
+North America Segment:
+Net sales
+$
+105,514
+$
+86,341
+$
+90,033
+$
+95,537
+$
+115,586
+$
+92,887
+8
+%
+Net sales -- Y/Y growth, excluding F/X
+13
+%
+12
+%
+9
+%
+9
+%
+10
+%
+8
+%
+N/A
+Net sales -- TTM
+$
+352,828
+$
+362,288
+$
+369,775
+$
+377,425
+$
+387,497
+$
+394,043
+9
+%
+Operating income
+$
+6,461
+$
+4,983
+$
+5,065
+$
+5,663
+$
+9,256
+$
+5,841
+17
+%
+F/X impact -- favorable (unfavorable)
+$
+(13)
+$
+8
+$
+8
+$
+(28)
+$
+(49)
+$
+(32)
+N/A
+Operating income -- Y/Y growth, excluding F/X
+N/A
+454
+%
+58
+%
+32
+%
+44
+%
+18
+%
+N/A
+Operating margin -- % of North America net sales
+6.1
+%
+5.8
+%
+5.6
+%
+5.9
+%
+8.0
+%
+6.3
+%
+N/A
+Operating income -- TTM
+$
+14,877
+$
+18,962
+$
+20,816
+$
+22,172
+$
+24,967
+$
+25,825
+36
+%
+Operating margin -- TTM % of North America net sales
+4.2
+%
+5.2
+%
+5.6
+%
+5.9
+%
+6.4
+%
+6.6
+%
+N/A
+International Segment:
+Net sales
+$
+40,243
+$
+31,935
+$
+31,663
+$
+35,888
+$
+43,420
+$
+33,513
+5
+%
+Net sales -- Y/Y growth, excluding F/X
+13
+%
+11
+%
+10
+%
+12
+%
+9
+%
+8
+%
+N/A
+Net sales -- TTM
+$
+131,200
+$
+134,012
+$
+135,978
+$
+139,729
+$
+142,906
+$
+144,484
+8
+%
+Operating income (loss)
+$
+(419)
+$
+903
+$
+273
+$
+1,301
+$
+1,315
+$
+1,017
+13
+%
+F/X impact -- favorable (unfavorable)
+$
+160
+$
+(3)
+$
+(94)
+$
+43
+$
+6
+$
+(56)
+N/A
+Operating income (loss) -- Y/Y growth (decline), excluding F/X
+(74)
+%
+N/A
+N/A
+N/A
+N/A
+19
+%
+N/A
+Operating margin -- % of International net sales
+(1.0)
+%
+2.8
+%
+0.9
+%
+3.6
+%
+3.0
+%
+3.0
+%
+N/A
+Operating income (loss) -- TTM
+$
+(2,656)
+$
+(506)
+$
+662
+$
+2,058
+$
+3,792
+$
+3,906
+N/A
+Operating margin -- TTM % of International net sales
+(2.0)
+%
+(0.4)
+%
+0.5
+%
+1.5
+%
+2.7
+%
+2.7
+%
+N/A
+AWS Segment:
+Net sales
+$
+24,204
+$
+25,037
+$
+26,281
+$
+27,452
+$
+28,786
+$
+29,267
+17
+%
+Net sales -- Y/Y growth, excluding F/X
+13
+%
+17
+%
+19
+%
+19
+%
+19
+%
+17
+%
+N/A
+Net sales -- TTM
+$
+90,757
+$
+94,440
+$
+98,581
+$
+102,974
+$
+107,556
+$
+111,786
+18
+%
+Operating income
+$
+7,167
+$
+9,421
+$
+9,334
+$
+10,447
+$
+10,632
+$
+11,547
+23
+%
+F/X impact -- favorable (unfavorable)
+$
+(62)
+$
+67
+$
+115
+$
+1
+$
+57
+$
+141
+N/A
+Operating income -- Y/Y growth, excluding F/X
+39
+%
+83
+%
+72
+%
+50
+%
+48
+%
+21
+%
+N/A
+Operating margin -- % of AWS net sales
+29.6
+%
+37.6
+%
+35.5
+%
+38.1
+%
+36.9
+%
+39.5
+%
+N/A
+Operating income -- TTM
+$
+24,631
+$
+28,929
+$
+32,898
+$
+36,369
+$
+39,834
+$
+41,960
+45
+%
+Operating margin -- TTM % of AWS net sales
+27.1
+%
+30.6
+%
+33.4
+%
+35.3
+%
+37.0
+%
+37.5
+%
+N/A
+AMAZON.COM, INC.
+Supplemental Financial Information and Business Metrics
+(in millions, except employee data)
+(unaudited)
+Q4 2023
+Q1 2024
+Q2 2024
+Q3 2024
+Q4 2024
+Q1 2025
+Y/Y %
+Change
+Net Sales
+Online stores (1)
+$
+70,543
+$
+54,670
+$
+55,392
+$
+61,411
+$
+75,556
+$
+57,407
+5
+%
+Online stores -- Y/Y growth, excluding F/X
+8
+%
+7
+%
+6
+%
+8
+%
+8
+%
+6
+%
+N/A
+Physical stores (2)
+$
+5,152
+$
+5,202
+$
+5,206
+$
+5,228
+$
+5,579
+$
+5,533
+6
+%
+Physical stores -- Y/Y growth, excluding F/X
+4
+%
+6
+%
+4
+%
+5
+%
+8
+%
+6
+%
+N/A
+Third-party seller services (3)
+$
+43,559
+$
+34,596
+$
+36,201
+$
+37,864
+$
+47,485
+$
+36,512
+6
+%
+Third-party seller services -- Y/Y growth, excluding F/X
+19
+%
+16
+%
+13
+%
+10
+%
+9
+%
+7
+%
+N/A
+Advertising services (4)
+$
+14,654
+$
+11,824
+$
+12,771
+$
+14,331
+$
+17,288
+$
+13,921
+18
+%
+Advertising services -- Y/Y growth, excluding F/X
+26
+%
+24
+%
+20
+%
+19
+%
+18
+%
+19
+%
+N/A
+Subscription services (5)
+$
+10,488
+$
+10,722
+$
+10,866
+$
+11,278
+$
+11,508
+$
+11,715
+9
+%
+Subscription services -- Y/Y growth, excluding F/X
+13
+%
+11
+%
+11
+%
+11
+%
+10
+%
+11
+%
+N/A
+AWS
+$
+24,204
+$
+25,037
+$
+26,281
+$
+27,452
+$
+28,786
+$
+29,267
+17
+%
+AWS -- Y/Y growth, excluding F/X
+13
+%
+17
+%
+19
+%
+19
+%
+19
+%
+17
+%
+N/A
+Other (6)
+$
+1,361
+$
+1,262
+$
+1,260
+$
+1,313
+$
+1,590
+$
+1,312
+4
+%
+Other -- Y/Y growth (decline), excluding F/X
+8
+%
+23
+%
+(6)
+%
+5
+%
+17
+%
+4
+%
+N/A
+Stock-based Compensation Expense
+Cost of sales
+$
+227
+$
+174
+$
+266
+$
+193
+$
+205
+$
+148
+(15)
+%
+Fulfillment
+$
+823
+$
+636
+$
+944
+$
+696
+$
+697
+$
+497
+(22)
+%
+Technology and infrastructure
+$
+3,533
+$
+2,772
+$
+3,670
+$
+2,961
+$
+2,747
+$
+2,060
+(26)
+%
+Sales and marketing
+$
+1,216
+$
+932
+$
+1,224
+$
+1,012
+$
+916
+$
+653
+(30)
+%
+General and administrative
+$
+520
+$
+447
+$
+618
+$
+471
+$
+430
+$
+331
+(26)
+%
+Total stock-based compensation expense
+$
+6,319
+$
+4,961
+$
+6,722
+$
+5,333
+$
+4,995
+$
+3,689
+(26)
+%
+Other
+WW shipping costs
+$
+27,326
+$
+21,834
+$
+21,965
+$
+23,501
+$
+28,549
+$
+22,495
+3
+%
+WW shipping costs -- Y/Y growth
+11
+%
+10
+%
+8
+%
+8
+%
+4
+%
+3
+%
+N/A
+WW paid units -- Y/Y growth (7)
+12
+%
+12
+%
+11
+%
+12
+%
+11
+%
+8
+%
+N/A
+WW seller unit mix -- % of WW paid units (7)
+61
+%
+61
+%
+61
+%
+60
+%
+62
+%
+61
+%
+N/A
+Employees (full-time and part-time; excludes contractors & temporary personnel)
+1,525,000
+1,521,000
+1,532,000
+1,551,000
+1,556,000
+1,560,000
+3
+%
+Employees (full-time and part-time; excludes contractors & temporary personnel) -- Y/Y growth (decline)
+(1)
+%
+4
+%
+5
+%
+3
+%
+2
+%
+3
+%
+N/A
+________________________
+(1)
+Includes product sales and digital media content where we record revenue gross. We leverage our retail infrastructure to offer a wide selection of consumable and durable goods that includes media products available in both a physical and digital format, such as books, videos, games, music, and software. These product sales include digital products sold on a transactional basis. Digital media content subscriptions that provide unlimited viewing or usage rights are included in “Subscription services.”
+(2)
+Includes product sales where our customers physically select items in a store. Sales to customers who order goods online for delivery or pickup at our physical stores are included in “Online stores.”
+(3)
+Includes commissions and any related fulfillment and shipping fees, and other third-party seller services.
+(4)
+Includes sales of advertising services to sellers, vendors, publishers, authors, and others, through programs such as sponsored ads, display, and video advertising.
+(5)
+Includes annual and monthly fees associated with Amazon Prime memberships, as well as digital video, audiobook, digital music, e-book, and other non-AWS subscription services.
+(6)
+Includes sales related to various other offerings (such as shipping services, healthcare services, and certain licensing and distribution of video content) and our co-branded credit card agreements.
+(7)
+Excludes the impact of Whole Foods Market.
+Amazon.com, Inc.
+Certain Definitions
+Customer Accounts
+•
+References to customers mean customer accounts established when a customer places an order through one of our stores. Customer accounts exclude certain customers, including customers associated with certain of our acquisitions, Amazon Payments customers, AWS customers, and the customers of select companies with whom we have a technology alliance or marketing and promotional relationship. Customers are considered active when they have placed an order during the preceding twelve-month period.
+Seller Accounts
+•
+References to sellers means seller accounts, which are established when a seller receives an order from a customer account. Sellers are considered active when they have received an order from a customer during the preceding twelve-month period.
+AWS Customers
+•
+References to AWS customers mean unique AWS customer accounts, which are unique customer account IDs that are eligible to use AWS services. This includes AWS accounts in the AWS free tier. Multiple users accessing AWS services via one account ID are counted as a single account. Customers are considered active when they have had AWS usage activity during the preceding one-month period.
+Units
+•
+References to units mean physical and digital units sold (net of returns and cancellations) by us and sellers in our stores as well as Amazon-owned items sold in other stores. Units sold are paid units and do not include units associated with AWS, certain acquisitions, certain subscriptions, rental businesses, or advertising businesses, or Amazon gift cards.
+Contacts:
+Amazon Investor Relations
+Amazon Public Relations
+amazon-ir@amazon.com
+amazon-pr@amazon.com
+amazon.com/ir
+amazon.com/pr

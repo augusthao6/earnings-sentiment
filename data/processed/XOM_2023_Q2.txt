@@ -1,0 +1,1500 @@
+EX-99.1
+2
+f8k1q23991.htm
+NEWS RELEASE
+Document
+EXHIBIT 99.1
+1Q 2023 Earnings Release
+FOR IMMEDIATE RELEASE
+April 28, 2023
+ExxonMobil Announces First-Quarter 2023 Results
+•
+Delivered record first quarter earnings of $11.4 billion, demonstrating structural earnings improvements through growth of advantaged assets, mix improvements, and cost and execution efficiencies
+•
+Increased oil and gas net production by nearly 300,000 oil-equivalent barrels per day versus first-quarter 2022, excluding divestments, entitlements, and Sakhalin-1 expropriation
+•
+Started up the Beaumont Refinery expansion and reached full capacity of 250,000 barrels of production per day to help meet global demand
+•
+Announced final investment decision for the Uaru offshore development and two new discoveries in Guyana
+•
+Grew Low Carbon Solutions business with the execution of a new long-term customer contract for carbon capture, transportation, and storage
+Results Summary
+Dollars in millions (except per share data)
+1Q23
+4Q22
+Change
+vs
+4Q22
+1Q22
+Change
+vs
+1Q22
+Earnings (U.S. GAAP)
+11,430
+12,750
+-1,320
+5,480
++5,950
+Earnings Excluding Identified Items (non-GAAP)
+11,618
+14,035
+-2,417
+8,833
++2,785
+Earnings Per Common Share ¹
+2.79
+3.09
+-0.30
+1.28
++1.51
+Earnings Excluding Identified Items Per Common Share ¹ (non-GAAP)
+2.83
+3.40
+-0.57
+2.07
++0.76
+Capital and Exploration Expenditures
+6,380
+7,463
+-1,083
+4,904
++1,476
+¹ Assuming dilution.
+IRVING, Texas – April 28, 2023
+– Exxon Mobil Corporation today announced first-quarter 2023 earnings of $11.4 billion, or $2.79 per share assuming dilution. Results included unfavorable identified items of approximately $200 million associated with additional European taxes on the energy sector
+. Capital and exploration expenditures were $6.4 billion, on track to meet the company's full year guidance of $23 billion to $25 billion.
+“Our people's hard work to execute on our strategic priorities delivered a record first quarter following a record year,” said Darren Woods, chairman and chief executive officer.
+“We are growing value by increasing production from our advantaged assets to meet global demand
+. At the same time, our Low Carbon Solutions team is rapidly growing this new
+business with an additional carbon capture, transportation and storage agreement that underscores the com
+pany's growing momentum in providing industrial customers with large-scale emission reduction solutions
+.”
+1
+4Q22 to 1Q23 Factor Analysis
+Financial Highlights
+•
+First-quarter 2023 earnings were $11.4 billion compared with $12.8 billion in the fourth quarter of 2022. Excluding the identified item associated with additional European taxes on the energy sector, earnings were $11.6 billion compared to $14.0 billion in the prior quarter. Identified items in the fourth quarter included a higher impact from the additional European taxes on the energy sector, asset impairments, and one-time adjustments related to the Sakhalin-1 expropriation.
+•
+Lower liquids and natural gas realizations coupled with the absence of favorable mark-to-market impacts on unsettled derivatives, fewer days in the quarter, and higher scheduled maintenance negatively impacted results sequentially. These impacts were partially offset by higher volumes, mix improvements driven by advantaged project growth, strong operating execution, and disciplined cost management. Results also benefited from the absence of year-end inventory effects and lower corporate and financing costs.
+•
+The company remains on track to deliver $9 billion of structural cost savings by the end of 2023 relative to 2019, having achieved cumulative structural cost savings of $7.2 billion to date.
+•
+Cash flow from operations totaled $16.3 billion, and free cash flow was $11.4 billion for the quarter. The company's debt-to-capital ratio remained at 17% and the net-debt-to-capital ratio declined to about 4%, reflecting a period-end cash balance of $32.7 billion.
+2
+Shareholder Distributions
+•
+Shareholder distributions of $8.1 billion included $4.3 billion of share repurchases, keeping the company o
+n track to repurchase up to $17.5 billion during the year.
+•
+The Corporation declared a second-quarter dividend of $0.91 per share, payable on June 9, 2023, to shareholders of record of Common Stock at the close of business on May 16, 2023.
+Reducing Emissions
+•
+The company announced as of year-end 2022, it had reduced greenhouse gas emissions intensity of its operated assets by more than 10% and methane intensity by more than 50% relative to a 2016 baseline
+1
+.
+Carbon Capture and Storage
+2
+•
+ExxonMobil and Linde, one of the world's leading global industrial gases and engineering companies, have entered into a long-term commercial agreement in which ExxonMobil, subject to government permitting, will capture, transport, and permanently store up to 2.2 million metric tons of carbon dioxide (CO
+2
+) each year
+from Linde's new clean hydrogen production facility in Beaumont, Texas, with operations starting as soon as 2025.
+1
+Scope 1 and 2 greenhouse gas emission estimates from ExxonMobil's operated assets (2022, compared to 2016 levels); the company is working to continuously improve its performance and methods to detect, measure and address greenhouse gas emissions.
+2
+The emission reduction outcome of this project is subject to the timing and regulatory approval of necessary permits, acquisition of rights of way, changes in regulatory policy, supply chain disruptions, and other market conditions
+3
+.
+EARNINGS AND VOLUME SUMMARY BY SEGMENT
+Upstream
+Dollars in millions (unless otherwise noted)
+1Q23
+4Q22
+1Q22
+Earnings/(Loss) (U.S. GAAP)
+United States
+1,632
+2,493
+2,376
+Non-U.S.
+4,825
+5,708
+2,112
+Worldwide
+6,457
+8,201
+4,488
+Earnings/(Loss) Excluding Identified Items (non-GAAP)
+United States
+1,632
+2,493
+2,376
+Non-U.S.
+4,983
+6,269
+5,367
+Worldwide
+6,615
+8,762
+7,743
+Production (koebd)
+3,831
+3,822
+3,675
+•
+Upstream earnings were $6.5 billion, a decrease of $1.7 billion from the fourth quarter. The main drivers were lower prices, with crude and natural gas realizations down 10% and 23%, respectively, and unfavorable unsettled derivatives mark-to-market effects of $2.0 billion, largely reflecting the absence of a positive mark-to-market impact in the prior quarter. These impacts were partially offset by robust cost control and seasonally lower expenses, the absence of y
+ear-end inventory effects, and favorable volume/mix effects from advantaged growth in the Permian, Guyana, and LNG.
+Identified items unfavorably impacted earnings by $158 million this quarter, down from $561 million in the previous quarter. Earnings excluding identified items decreased from $8.8 billion to $6.6 billion.
+•
+Compared to the same quarter last year, earnings increased $2 billion. The prior-year period was negatively impacted by an identified item associated with
+the Sakhalin-1 expropriation. Excluding identified items, earnings declined $1.1 billion year over year, driven by a 23% decrease in crude realizations,
+partly offset by higher production volumes.
+•
+Net productio
+n in the first quarter was 3.8 million oil-equivalent barrels per day, an increase of nearly 160,000  oil-equivalent barrels per day compared to the same quarter last year. Excluding divestments, entitlements and  the Sakhalin-1 expropriation, net production increased nearly 300,000 oil-equivalent barrels per day driven by advantaged projects in Guyana and the Perm
+ian.
+•
+The company announced its final investment decision for the Uaru development in Guyana. This is the fifth offshore project and is expected to provide an additional 250,000 oil-equivalent barrels per day of gross capacity with start-up targeted for 2026. In addition, two new exploration discoveries were made this year.
+4
+Energy Products
+Dollars in millions (unless otherwise noted)
+1Q23
+4Q22
+1Q22
+Earnings/(Loss) (U.S. GAAP)
+United States
+1,910
+2,188
+489
+Non-U.S.
+2,273
+1,882
+(684)
+Worldwide
+4,183
+4,070
+(196)
+Earnings/(Loss) Excluding Identified Items (non-GAAP)
+United States
+1,910
+2,246
+489
+Non-U.S.
+2,303
+2,508
+(684)
+Worldwide
+4,213
+4,754
+(196)
+Energy Products Sales (kbd)
+5,277
+5,423
+5,111
+•
+Energy Products earnings totaled $4.2 billion, up $113 million from the fourth quarter. Positive drivers were volume and mix improvements driven by reliable operations and the Beaumont refinery expansion start-up and the absence of unfavorable prior-quarter unsettled derivatives. Continued cost control offset the impact from higher scheduled maintenance expenses which were also partially mitigated by top-quartile
+1
+turnaround performance reducing labor costs and downtime. The absence of year-end inventory effects, foreign exchange impacts, and downtime from scheduled maintenance as well as fewer days in the quarter negatively impacted results. Earnings excluding identified items decreased to $4.2 billion from $4.8 billion.
+Identified items in the fourth quarter included a higher impact from the additional European taxes on the energy sector and asset impairments.
+•
+Compared to the same quarter last year, earnings increased $4.4 billion due to stronger industry refining margins, increased marketing and trading contributions, and favorable volume/mix impacts, partly offset by increased scheduled maintenance.
+•
+The company successfully completed the ramp-up of
+the Beaumont Refinery expansion, demonstrating
+250,000 barrels per day of
+crude distillation capacity and expanding its integration advantage by capitalizing on the growth of lighter crude oil from the Upstream's Permian assets.
+1
+Based on ExxonMobil estimates using historical benchmarking results from Solomon Associates
+5
+Chemical Products
+Dollars in millions (unless otherwise noted)
+1Q23
+4Q22
+1Q22
+Earnings/(Loss) (U.S. GAAP)
+United States
+324
+298
+770
+Non-U.S.
+47
+(48)
+636
+Worldwide
+371
+250
+1,405
+Earnings/(Loss) Excluding Identified Items (non-GAAP)
+United States
+324
+298
+770
+Non-U.S.
+47
+(48)
+636
+Worldwide
+371
+250
+1,405
+Chemical Products Sales (kt)
+4,649
+4,658
+5,018
+•
+Chemical Products earnings were $371 million, up from $250 million in the fourth quarter, mainly on improved
+margins from strengthening of the North American ethane feed advantage partly offset by higher scheduled maintenance.
+•
+Compared to the same quarter last year, earnings decreased by $1.0 billion on weaker industry margins and lower sales, reflecting softer market conditions.
+•
+The Baton Rouge polypropylene expansion, which started up in December, delivered positive earnings and cash contribution during its first full quarter of operations.
+6
+Specialty Products
+Dollars in millions (unless otherwise noted)
+1Q23
+4Q22
+1Q22
+Earnings/(Loss) (U.S. GAAP)
+United States
+451
+406
+246
+Non-U.S.
+323
+354
+230
+Worldwide
+774
+760
+476
+Earnings/(Loss) Excluding Identified Items (non-GAAP)
+United States
+451
+406
+246
+Non-U.S.
+323
+394
+230
+Worldwide
+774
+800
+476
+Specialty Product Sales (kt)
+1,940
+1,787
+2,006
+•
+Specialty Products earnings were $774 million, up $14 million from the fourth quarter. Improved finished lubes margins partially offset
+lower industry basestock prices. Unfavorable margin effects were more than offset by higher volumes supported by China demand recovery and finished lubes market position growth as well as seasonally lower expenses. In addition, earnings were impacted by the absence of favorable year-end inventory impacts.
+•
+Compared to the same quarter last year, earnings increased by $298 million, with favorable pricing actions partially offset by unfavorable foreign exchange impacts.
+Corporate and Financing
+Dollars in millions (unless otherwise noted)
+1Q23
+4Q22
+1Q22
+Earnings/(Loss) (U.S. GAAP)
+(355)
+(531)
+(694)
+Earnings/(Loss) Excluding Identified Items (non-GAAP)
+(355)
+(531)
+(596)
+•
+Corporate and Financing reported net charges of $355 million. This was a decrease of $176 million versus the fourth quarter
+driven by lower financing costs.
+•
+Compared to the same quarter last year, net charges declined $339 million due to lower financing costs. Excluding the identified item associated with the Sakhalin-1 expropriation, net charges decreased $241 million.
+7
+.
+CASH FLOW FROM OPERATIONS AND ASSET SALES EXCLUDING WORKING CAPITAL
+Dollars in millions (unless otherwise noted)
+1Q23
+4Q22
+1Q22
+Net income/(loss) including noncontrolling interests
+11,843
+13,055
+5,750
+Depreciation and depletion (includes impairments)
+4,244
+5,064
+8,883
+Changes in operational working capital, excluding cash and debt
+(302)
+(200)
+1,086
+Other
+556
+(298)
+(931)
+Cash Flow from Operating Activities (U.S. GAAP)
+16,341
+17,621
+14,788
+Proceeds from asset sales and returns of investments
+854
+1,333
+293
+Cash Flow from Operations and Asset Sales (non-GAAP)
+17,195
+18,954
+15,081
+Changes in operational working capital, excluding cash and debt
+302
+200
+(1,086)
+Cash Flow from Operations and Asset Sales excluding Working Capital (non-GAAP)
+17,497
+19,154
+13,995
+FREE CASH FLOW
+Dollars in millions (unless otherwise noted)
+1Q23
+4Q22
+1Q22
+Cash Flow from Operating Activities (U.S. GAAP)
+16,341
+17,621
+14,788
+Additions to property, plant and equipment
+(5,412)
+(5,783)
+(3,911)
+Additional investments and advances
+(445)
+(2,175)
+(417)
+Other investing activities including collection of advances
+78
+1,270
+90
+Proceeds from asset sales and returns of investments
+854
+1,333
+293
+Free Cash Flow (non-GAAP)
+11,416
+12,266
+10,843
+8
+CALCULATION OF STRUCTURAL COST SAVINGS
+Dollars in billions (unless otherwise noted)
+Twelve Months
+Ended December 31,
+Three Months
+Ended March 31,
+2019
+2022
+2022
+2023
+Components of operating costs
+From ExxonMobil’s Consolidated statement of income
+(U.S. GAAP)
+Production and manufacturing expenses
+36.8
+42.6
+10.2
+9.4
+Selling, general and administrative expenses
+11.4
+10.1
+2.4
+2.4
+Depreciation and depletion (includes impairments)
+19.0
+24.0
+8.9
+4.2
+Exploration expenses, including dry holes
+1.3
+1.0
+0.2
+0.1
+Non-service pension and postretirement benefit expense
+1.2
+0.5
+0.1
+0.2
+Subtotal
+69.7
+78.2
+21.8
+16.4
+ExxonMobil’s share of equity company expenses (non-GAAP)
+9.1
+13.0
+2.6
+2.7
+Total adjusted operating costs (non-GAAP)
+78.8
+91.2
+24.4
+19.1
+Total adjusted operating costs (non-GAAP)
+78.8
+91.2
+24.4
+19.1
+Less:
+Depreciation and depletion (includes impairments)
+19.0
+24.0
+8.9
+4.2
+Non-service pension and postretirement benefit expense
+1.2
+0.5
+0.1
+0.2
+Other adjustments (includes equity company depreciation
+and depletion)
+3.6
+3.5
+0.8
+0.8
+Total cash operating expenses (cash opex) (non-GAAP)
+55.0
+63.2
+14.6
+13.9
+Energy and production taxes (non-GAAP)
+11.0
+23.8
+5.2
+4.3
+Total cash operating expenses (cash opex) excluding energy and production taxes (non-GAAP)
+44.0
+39.4
+9.4
+9.6
+Change
+vs
+2019
+Change
+vs
+1Q22
+Estimated  Cumulative vs
+2019
+Total cash operating expenses (cash opex) excluding energy and production taxes (non-GAAP)
+-5
++0.2
+Market
++3
++0.2
+Activity /Other
+-1
++0.3
+Structural Savings
+-7
+-0.3
+-7.2
+This press release also references structural cost savings. Structural cost savings describe decreases in cash opex excluding energy and production taxes as a result of operational efficiencies, workforce reductions, and other cost-saving measures that are expected to be sustainable compared to 2019 levels. Relative to 2019, estimated cumulative structural cost savings totaled $7.2 billion, which included an additional $0.3 billion in the first three months of 2023. The total change between periods in expenses above will reflect both structural cost savings and other changes in spend, including market factors, such as inflation and foreign exchange impacts, as well as changes in activity levels and costs associated with new operations. Estimates of cumulative annual structural savings may be revised depending on whether cost reductions realized in prior periods are determined to be sustainable compared to 2019 levels. Structural cost savings are stewarded internally to support management's oversight of spending over time. This measure is useful for investors to understand the Corporation's efforts to optimize spending through disciplined expense management.
+9
+ExxonMobil will discuss financial and operating results and other matters during a webcast
+at 7:30 a.m. Cen
+tral Time on April 28, 2023. To listen to the event or access an archived replay, please visit
+www.exxonmobil.com
+.
+Cautionary Statement
+Statements related to outlooks; projections; descriptions of strategic, operating, and financial plans and objectives; statements of future ambitions and
+plans; and other statements of future events or conditions in this release, are forward-looking statements. Similarly, discussion of future carbon capture, transportation and storage,as well as biofuel, hydrogen and other plans to reduce emissions are dependent on future market factors, such as continued technological progress, policy support and timely rule-making and permitting, and represent forward-looking statements. Actual future results, including financial and operating performance; total capital expenditures and mix, including allocations of capital to low carbon solutions; structural earnings improvement and structural cost reductions and efficiency gains, including the ability to offset inflationary pressure; plans to reduce future emissions and emissions intensity; ambitions to reach Scope 1 and Scope 2 net zero from operated assets by 2050, plans to reach net zero Scope 1 and 2 emissions in Upstream Permian Basin unconventional operated assets by 2030, eliminating routine flaring in-line with World Bank Zero Routine Flaring, reaching near-zero methane emissions from its operations, meeting ExxonMobil’s emission reduction goals and plans, divestment and start-up plans, and associated project plans as well as technology efforts; timing and outcome of projects related to the capture, transportation and storage of CO
+2
+, and produced biofuels; changes in law, taxes, or regulation including environmental and tax regulations, trade sanctions, and timely granting of governmental permits and certifications; timing and outcome of hydrogen projects; cash
+flow, dividends and shareholder returns, including the timing and amounts of share repurchases; future debt levels and credit ratings; business and project plans, timing, costs, capacities and returns; and resource recoveries and production rates could differ materially due to a number of factors. These include global or regional changes in the supply and demand for oil, natural gas, petrochemicals, and feedstocks and other market factors, economic conditions and seasonal fluctuations that impact prices and differentials for our products; government policies supporting lower carbon investment opportunities such as the U.S. Inflation Reduction Act or policies limiting the attractiveness of future investment such as the additional European taxes on the energy sector; variable impacts of trading activities on our margins and results each quarter; actions of competitors and commercial counterparties; the outcome of commercial negotiations, including final agreed terms and conditions; the ability to access debt markets; the ultimate impacts of COVID-19 or other public health crises, including the effects of government responses on people and economies; reservoir performance, including variability and timing factors applicable to unconventional resources; the level and outcome of exploration projects and decisions to invest in future reserves; timely completion of development and other construction projects; final management approval of future projects and any changes in the scope, terms, or costs of such projects as approved; government policies and support and market demand for low carbon technologies; war, civil unrest, attacks against the company or industry and oth
+er political or security disturbances; expropriations, seizure, or capacity, insurance or shipping limitations by foreign governments or laws; opportunities for potential investments or divestments and satisfaction of applicable conditions to closing, including regulatory approvals; the capture of efficiencies within and between business lines and the ability to maintain near-term cost reductions as ongoing efficiencies; unforeseen technical or operating difficulties and unplanned maintenance; the development and competitiveness of alternative energy and emission reduction technologies; the results of research programs and the ability to bring new technologies to commercial scale on a cost-competitive basis; and other factors discussed under Item 1A. Risk Factors of ExxonMobil’s 2022 Form 10-K.
+Forward-looking and other statements regarding our environmental, social and other sustainability efforts and aspirations are not an indication that these statements are necessarily material to investors or requiring disclosure in our filing with the SEC. In addition, historical, current, and forward-looking environmental, social and sustainability-related statements may be based on standards for measuring progress that are still developing, internal controls and processes that continue to evolve, and assumptions that are subject to change in the future, including future rule-making.
+Frequently Used Terms and Non-GAAP Measures
+This press release includes cash flow from operations and asset sales (non-GAAP). Because of the regular nature of our asset management and divestment program, the company believes it is useful for investors to consider proceeds associated with the sales of subsidiaries, property, plant and equipment, and sales and returns of investments together with cash provided by operating activities when evaluating cash available for investment in the business and financing activities. A reconciliation to net cash provided by operating activities for the 2022 and 2023 periods is shown on page 8.
+This press release also includes cash flow from operations and asset sales excluding working capital (non-GAAP). The company believes it is useful for investors to consider these numbers in comparing the underlying performance of the company's business across periods when there are significant period-to-period differences in the amount of changes in working capital. A reconciliation to net cash provided by operating activities for the 2022 and 2023 periods is shown on page 8.
+This press release also includes earnings/(loss) excluding identified items (non-GAAP), which are earnings/(loss) excluding individually significant non-operational events with, typically, an absolute corporate total earnings impact of at least $250 million in a given quarter. The earnings/(loss) impact of an identified item for an individual segment may be less than $250 million when the item impacts several periods or several segments. Earnings/(loss) excluding identified items does include non-operational
+10
+earnings events or impacts that are generally below the $250 million threshold utilized for identified items. When the effect of these events is significant in aggregate, it is indicated in analysis of period results as part of quarterly earnings press release and teleconference materials. Management uses these figures to improve comparability of the underlying business across multiple periods by isolating and removing significant non-operational events from business results. The Corporation believes this view provides investors increased transparency into business results and trends and provides investors with a view of the business as seen through the eyes of management. Earnings excluding identified items is not meant to be viewed in isolation or as a substitute for net income/(loss) attributable to ExxonMobil as prepared in accordance with U.S. GAAP. A reconciliation to earnings is shown for 2023 and 2022 periods in Attachments II-a and II-b. Corresponding per share amounts are shown on page 1 and in Attachment II-a, including a reconciliation to earnings/(loss) per common share – assuming dilution (U.S. GAAP).
+This press release also includes total taxes including sales-based taxes. This is a broader indicator of the total tax burden on the Corporation’s products and earnings, including certain sales and value-added taxes imposed on and concurrent with revenue-producing transactions with customers and collected on behalf of governmental authorities (“sales-based taxes”). It combines “Income taxes” and “Total other taxes and duties” with sales-based taxes, which are reported net in the income statement. The company believes it is useful for the Corporation and its investors to understand the total tax burden imposed on the Corporation’s products and earnings. A reconciliation to total taxes is shown in Attachment I-a.
+This press release also references free cash flow
+(non-GAAP)
+. Free cash flow is the sum of net cash provided by operating activities and net cash flow used in investing activities. This measure is useful when evaluating cash available for financing activities, including shareholder distributions, after investment in the business. Free cash flow is not meant to be viewed in isolation or as a substitute for net cash provided by operating activities. A reconciliation to net cash provided by operating activities for the 2022 and 2023 periods is shown on page 8.
+References to resources or resource base may include quantities of oil and natural gas classified as proved reserves, as well as quantities that are not yet classified as proved reserves, but that are expected to be ultimately recoverable.
+The term “resource base” or similar terms are not intended to correspond to SEC definitions such as “probable” or “possible” reserves.
+A reconciliation of production excluding divestments, entitlements, and government mandates to actual production is contained in the Supplement to this release include
+d as Exhibit 99.2 to the Form 8-K filed the same day as this news release.
+The term “project” as used in this news release can refer to a variety of different activities and does not necessarily have the same meaning as in any government payment transparency reports. Projects or plans may not reflect investment decisions made by the company. Individual opportunities may advance based on a number of factors, including availability of supportive policy, technology for cost-effective abatement, and alignment with our partners and other stakeholders. The company may refer to these opportunities as projects in external disclosures at various stages throughout their progression.
+Reference to Earnings
+References to corporate earnings mean net income attributable to ExxonMobil (U.S. GAAP) from the consolidated income statement. Unless otherwise indicated, references to earnings, Upstream, Energy Products, Chemical Products, Specialty Products and Corporate and Financing segment earnings, and earnings per share are ExxonMobil’s share after excluding amounts attributable to noncontrolling interests.
+Exxon Mobil Corporation has numerous affiliates, many with names that include ExxonMobil, Exxon, Mobil, Esso, and XTO. For convenience and simplicity, those terms and terms such as Corporation, company, our, we, and its are sometimes used as abbreviated references to specific affiliates or affiliate groups. Similarly, ExxonMobil has business relationships with thousands of customers, suppliers, governments, and others. For convenience and simplicity, words such as venture, joint venture, partnership, co-venturer, and partner are used to indicate business and other relationships involving common activities and interests, and those words may not indicate precise legal relationships. ExxonMobil's ambitions, plans and goals do not guarantee any action or future performance by its affiliates or Exxon Mobil Corporation's responsibility for those affiliates' actions a
+nd future performance, each affiliate of which manages its own affairs.
+Throughout this press release, both Exhibit 99.1 as well as Exhibit 99.2, due to rounding, numbers presented may not add up precisely to the totals indicated.
+11
+.
+ATTACHMENT I-a
+CONDENSED CONSOLIDATED STATEMENT OF INCOME
+(Preliminary)
+Dollars in millions (unless otherwise noted)
+Three Months Ended March 31,
+2023
+2022
+Revenues and other income
+Sales and other operating revenue
+83,644
+87,734
+Income from equity affiliates
+2,381
+2,538
+Other income
+539
+228
+Total revenues and other income
+86,564
+90,500
+Costs and other deductions
+Crude oil and product purchases
+46,003
+52,388
+Production and manufacturing expenses
+9,436
+10,241
+Selling, general and administrative expenses
+2,390
+2,409
+Depreciation and depletion (includes impairments)
+4,244
+8,883
+Exploration expenses, including dry holes
+141
+173
+Non-service pension and postretirement benefit expense
+167
+108
+Interest expense
+159
+188
+Other taxes and duties
+7,221
+7,554
+Total costs and other deductions
+69,761
+81,944
+Income/(Loss) before income taxes
+16,803
+8,556
+Income tax expense/(benefit)
+4,960
+2,806
+Net income/(loss) including noncontrolling interests
+11,843
+5,750
+Net income/(loss) attributable to noncontrolling interests
+413
+270
+Net income/(loss) attributable to ExxonMobil
+11,430
+5,480
+OTHER FINANCIAL DATA
+Dollars in millions (unless otherwise noted)
+Three Months Ended March 31,
+2023
+2022
+Earnings per common share
+(U.S. dollars)
+2.79
+1.28
+Earnings per common share - assuming dilution
+(U.S. dollars)
+2.79
+1.28
+Dividends on common stock
+Total
+3,738
+3,760
+Per common share
+(U.S. dollars)
+0.91
+0.88
+Millions of common shares outstanding
+Average - assuming dilution
+4,102
+4,266
+Taxes
+Income taxes
+4,960
+2,806
+Total other taxes and duties
+8,095
+8,449
+Total taxes
+13,055
+11,255
+Sales-based taxes
+6,032
+6,100
+Total taxes including sales-based taxes
+19,087
+17,355
+ExxonMobil share of income taxes of equity companies
+1,235
+1,047
+12
+.
+ATTACHMENT I-b
+CONDENSED CONSOLIDATED BALANCE SHEET
+(Preliminary)
+Dollars in millions (unless otherwise noted)
+March
+31, 2023
+December
+31, 2022
+ASSETS
+Current assets
+Cash and cash equivalents
+32,651
+29,640
+Cash and cash equivalents – restricted
+25
+25
+Notes and accounts receivable – net
+38,808
+41,749
+Inventories
+Crude oil, products and merchandise
+19,458
+20,434
+Materials and supplies
+4,184
+4,001
+Other current assets
+2,098
+1,782
+Total current assets
+97,224
+97,631
+Investments, advances and long-term receivables
+49,044
+49,793
+Property, plant and equipment – net
+206,023
+204,692
+Other assets, including intangibles – net
+17,080
+16,951
+Total Assets
+369,371
+369,067
+LIABILITIES
+Current liabilities
+Notes and loans payable
+2,296
+634
+Accounts payable and accrued liabilities
+59,935
+63,197
+Income taxes payable
+4,435
+5,214
+Total current liabilities
+66,666
+69,045
+Long-term debt
+39,150
+40,559
+Postretirement benefits reserves
+10,183
+10,045
+Deferred income tax liabilities
+23,195
+22,874
+Long-term obligations to equity companies
+2,376
+2,338
+Other long-term obligations
+21,387
+21,733
+Total Liabilities
+162,957
+166,594
+EQUITY
+Common stock without par value
+(9,000 million shares authorized, 8,019 million shares issued)
+15,904
+15,752
+Earnings reinvested
+440,552
+432,860
+Accumulated other comprehensive income
+(13,095)
+(13,270)
+Common stock held in treasury
+(3,976 million shares at March 31, 2023, and 3,937 million shares at December 31, 2022)
+(244,676)
+(240,293)
+ExxonMobil share of equity
+198,685
+195,049
+Noncontrolling interests
+7,729
+7,424
+Total Equity
+206,414
+202,473
+Total Liabilities and Equity
+369,371
+369,067
+13
+.
+ATTACHMENT I-c
+CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS
+(Preliminary)
+Dollars in millions (unless otherwise noted)
+Three Months Ended March 31,
+2023
+2022
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net income/(loss) including noncontrolling interests
+11,843
+5,750
+Depreciation and depletion (includes impairments)
+4,244
+8,883
+Changes in operational working capital, excluding cash and debt
+(302)
+1,086
+All other items – net
+556
+(931)
+Net cash provided by operating activities
+16,341
+14,788
+CASH FLOWS FROM INVESTING ACTIVITIES
+Additions to property, plant and equipment
+(5,412)
+(3,911)
+Proceeds from asset sales and returns of investments
+854
+293
+Additional investments and advances
+(445)
+(417)
+Other investing activities including collection of advances
+78
+90
+Net cash used in investing activities
+(4,925)
+(3,945)
+CASH FLOWS FROM FINANCING ACTIVITIES
+Additions to long-term debt
+20
+—
+Reductions in short-term debt
+(126)
+(2,098)
+Additions/(Reductions) in debt with three months or less maturity
+(192)
+1,366
+Cash dividends to ExxonMobil shareholders
+(3,738)
+(3,760)
+Cash dividends to noncontrolling interests
+(115)
+(60)
+Changes in noncontrolling interests
+(16)
+(94)
+Common stock acquired
+(4,340)
+(2,067)
+Net cash provided by (used in) financing activities
+(8,507)
+(6,713)
+Effects of exchange rate changes on cash
+102
+142
+Increase/(Decrease) in cash and cash equivalents
+3,011
+4,272
+Cash and cash equivalents at beginning of period
+29,665
+6,802
+Cash and cash equivalents at end of period
+32,676
+11,074
+14
+.
+ATTACHMENT II-a
+KEY FIGURES:
+IDENTIFIED ITEMS
+Dollars in millions (unless otherwise noted)
+1Q23
+4Q22
+1Q22
+Earnings/(Loss) (U.S. GAAP)
+11,430
+12,750
+5,480
+Identified Items
+Impairments
+—
+(530)
+(2,975)
+Tax-related items
+(188)
+(1,825)
+—
+Other
+—
+1,070
+(378)
+Total Identified Items
+(188)
+(1,285)
+(3,353)
+Earnings/(Loss) Excluding Identified Items (non-GAAP)
+11,618
+14,035
+8,833
+Dollars per common share
+1Q23
+4Q22
+1Q22
+Earnings/(Loss) Per Common Share ¹ (U.S. GAAP)
+2.79
+3.09
+1.28
+Identified Items Per Common Share ¹
+Impairments
+—
+(0.13)
+(0.70)
+Tax-related items
+(0.04)
+(0.44)
+—
+Other
+—
+0.26
+(0.09)
+Total Identified Items Per Common Share ¹
+(0.04)
+(0.31)
+(0.79)
+Earnings/(Loss) Excl. Identified Items Per Common Share ¹ (non-GAAP)
+2.83
+3.40
+2.07
+¹ Assuming dilution
+15
+.
+ATTACHMENT II-b
+KEY FIGURES:
+IDENTIFIED ITEMS BY SEGMENT
+First Quarter 2023
+Upstream
+Energy Products
+Chemical Products
+Specialty Products
+Corporate & Financing
+Total
+Dollars in millions (unless otherwise noted)
+U.S.
+Non-U.S.
+U.S.
+Non-U.S.
+U.S.
+Non-U.S.
+U.S.
+Non-U.S.
+Earnings/(Loss) (U.S. GAAP)
+1,632
+4,825
+1,910
+2,273
+324
+47
+451
+323
+(355)
+11,430
+Identified Items
+Tax-related items
+—
+(158)
+—
+(30)
+—
+—
+—
+—
+—
+(188)
+Total Identified Items
+—
+(158)
+—
+(30)
+—
+—
+—
+—
+—
+(188)
+Earnings/(Loss) Excl. Identified Items (non-GAAP)
+1,632
+4,983
+1,910
+2,303
+324
+47
+451
+323
+(355)
+11,618
+Fourth Quarter 2022
+Upstream
+Energy Products
+Chemical Products
+Specialty Products
+Corporate & Financing
+Total
+Dollars in millions (unless otherwise noted)
+U.S.
+Non-U.S.
+U.S.
+Non-U.S.
+U.S.
+Non-U.S.
+U.S.
+Non-U.S.
+Earnings/(Loss) (U.S. GAAP)
+2,493
+5,708
+2,188
+1,882
+298
+(48)
+406
+354
+(531)
+12,750
+Identified Items
+Impairments
+—
+(216)
+(58)
+(216)
+—
+—
+—
+(40)
+—
+(530)
+Tax-related items
+—
+(1,415)
+—
+(410)
+—
+—
+—
+—
+—
+(1,825)
+Other
+—
+1,070
+—
+—
+—
+—
+—
+—
+—
+1,070
+Total Identified Items
+—
+(561)
+(58)
+(626)
+—
+—
+—
+(40)
+—
+(1,285)
+Earnings/(Loss) Excl. Identified Items (non-GAAP)
+2,493
+6,269
+2,246
+2,508
+298
+(48)
+406
+394
+(531)
+14,035
+First Quarter 2022
+Upstream
+Energy Products
+Chemical Products
+Specialty Products
+Corporate & Financing
+Total
+Dollars in millions (unless otherwise noted)
+U.S.
+Non-U.S.
+U.S.
+Non-U.S.
+U.S.
+Non-U.S.
+U.S.
+Non-U.S.
+Earnings/(Loss) (U.S. GAAP)
+2,376
+2,112
+489
+(684)
+770
+636
+246
+230
+(694)
+5,480
+Identified Items
+Impairments
+—
+(2,877)
+—
+—
+—
+—
+—
+—
+(98)
+(2,975)
+Other
+—
+(378)
+—
+—
+—
+—
+—
+—
+—
+(378)
+Total Identified Items
+—
+(3,255)
+—
+—
+—
+—
+—
+—
+(98)
+(3,353)
+Earnings/(Loss) Excl. Identified Items (non-GAAP)
+2,376
+5,367
+489
+(684)
+770
+636
+246
+230
+(596)
+8,833
+16
+.
+ATTACHMENT III
+KEY FIGURES:
+UPSTREAM VOLUMES
+Net production of crude oil, natural gas liquids, bitumen and synthetic oil, thousand barrels per day (kbd)
+1Q23
+4Q22
+1Q22
+United States
+820
+789
+753
+Canada/Other Americas
+670
+682
+474
+Europe
+4
+4
+4
+Africa
+220
+223
+257
+Asia
+749
+725
+738
+Australia/Oceania
+32
+38
+40
+Worldwide
+2,495
+2,461
+2,266
+Net natural gas production available for sale, million cubic feet per day (mcfd)
+1Q23
+4Q22
+1Q22
+United States
+2,367
+2,383
+2,777
+Canada/Other Americas
+94
+74
+182
+Europe
+548
+536
+770
+Africa
+134
+89
+58
+Asia
+3,597
+3,704
+3,340
+Australia/Oceania
+1,276
+1,381
+1,325
+Worldwide
+8,016
+8,167
+8,452
+Oil-equivalent production (koebd) ¹
+3,831
+3,822
+3,675
+1
+Natural gas is converted to an oil-equivalent basis at six million cubic feet per one thousand barrels.
+17
+.
+ATTACHMENT IV
+KEY FIGURES:
+MANUFACTURING THROUGHPUT AND SALES
+Refinery throughput, thousand barrels per day (kbd)
+1Q23
+4Q22
+1Q22
+United States
+1,643
+1,694
+1,685
+Canada
+417
+433
+399
+Europe
+1,189
+1,157
+1,193
+Asia Pacific
+565
+532
+537
+Other
+184
+167
+169
+Worldwide
+3,998
+3,983
+3,983
+Energy Products sales, thousand barrels per day (kbd)
+1Q23
+4Q22
+1Q22
+United States
+2,459
+2,507
+2,262
+Non-U.S.
+2,818
+2,916
+2,849
+Worldwide
+5,277
+5,423
+5,111
+Gasolines, naphthas
+2,177
+2,270
+2,114
+Heating oils, kerosene, diesel
+1,770
+1,798
+1,722
+Aviation fuels
+312
+349
+289
+Heavy fuels
+215
+210
+249
+Other energy products
+803
+796
+737
+Worldwide
+5,277
+5,423
+5,111
+Chemical Products sales, thousand metric tons (kt)
+1Q23
+4Q22
+1Q22
+United States
+1,561
+1,583
+2,032
+Non-U.S.
+3,088
+3,076
+2,986
+Worldwide
+4,649
+4,658
+5,018
+Specialty Products sales, thousand metric tons (kt)
+1Q23
+4Q22
+1Q22
+United States
+476
+455
+522
+Non-U.S.
+1,464
+1,332
+1,484
+Worldwide
+1,940
+1,787
+2,006
+18
+.
+ATTACHMENT V
+KEY FIGURES:
+CAPITAL AND EXPLORATION EXPENDITURES
+Dollars in millions (unless otherwise noted)
+1Q23
+4Q22
+1Q22
+Upstream
+United States
+2,108
+2,118
+1,369
+Non-U.S.
+2,473
+3,297
+2,510
+Total
+4,581
+5,415
+3,879
+Energy Products
+United States
+358
+343
+392
+Non-U.S.
+327
+405
+174
+Total
+685
+748
+566
+Chemical Products
+United States
+285
+332
+231
+Non-U.S.
+546
+824
+205
+Total
+831
+1,156
+436
+Specialty Products
+United States
+11
+12
+5
+Non-U.S.
+80
+90
+18
+Total
+91
+102
+23
+Other
+Other
+192
+42
+—
+Worldwide
+6,380
+7,463
+4,904
+CASH CAPITAL EXPENDITURES
+Dollars in millions (unless otherwise noted)
+1Q23
+4Q22
+1Q22
+Additions to property, plant and equipment
+5,412
+5,783
+3,911
+Net investments and advances
+367
+905
+327
+Total Cash Capital Expenditures
+5,779
+6,688
+4,238
+19
+.
+ATTACHMENT VI
+KEY FIGURES:
+YEAR-TO-DATE EARNINGS/(LOSS)
+Results Summary
+Dollars in millions (except per share data)
+1Q23
+4Q22
+Change
+vs
+4Q22
+1Q22
+Change
+vs
+1Q22
+Earnings (U.S. GAAP)
+11,430
+12,750
+-1,320
+5,480
++5,950
+Earnings Excluding Identified Items (non-GAAP)
+11,618
+14,035
+-2,417
+8,833
++2,785
+Earnings Per Common Share ¹
+2.79
+3.09
+-0.30
+1.28
++1.51
+Earnings Excluding Identified Items Per Common Share ¹ (non-GAAP)
+2.83
+3.40
+-0.57
+2.07
++0.76
+Capital and Exploration Expenditures
+6,380
+7,463
+-1,083
+4,904
++1,476
+¹ Assuming dilution
+Year-to-date Factor Analysis
+20
+.
+ATTACHMENT VII
+KEY FIGURES:
+EARNINGS/(LOSS) BY QUARTER
+Dollars in millions (unless otherwise noted)
+2023
+2022
+2021
+2020
+2019
+First Quarter
+11,430
+5,480
+2,730
+(610)
+2,350
+Second Quarter
+—
+17,850
+4,690
+(1,080)
+3,130
+Third Quarter
+—
+19,660
+6,750
+(680)
+3,170
+Fourth Quarter
+—
+12,750
+8,870
+(20,070)
+5,690
+Full Year
+—
+55,740
+23,040
+(22,440)
+14,340
+Dollars per common share ¹
+2023
+2022
+2021
+2020
+2019
+First Quarter
+2.79
+1.28
+0.64
+(0.14)
+0.55
+Second Quarter
+—
+4.21
+1.10
+(0.26)
+0.73
+Third Quarter
+—
+4.68
+1.57
+(0.15)
+0.75
+Fourth Quarter
+—
+3.09
+2.08
+(4.70)
+1.33
+Full Year
+—
+13.26
+5.39
+(5.25)
+3.36
+1
+Computed using the average number of shares outstanding during each period; assuming dilution
+21

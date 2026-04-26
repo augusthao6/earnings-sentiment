@@ -1,0 +1,153 @@
+Justin Post--Bank of America Merrill Lynch -- Analyst
+
+Thanks. Thanks for that. I'll ask about AWS. I guess the first question is, as you look forward in the fourth quarter, you mentioned you've signed some new deals.
+
+Are you seeing less cost optimization as you look forward? Or do you think it will be similar to Q3? And then second, you couldn't help but notice the big margin improvement in AWS all the way back to where you were seven quarters ago. Could you talk about the drivers and sustainability of those margins? Thank you.
+
+Andy Jassy--Chief Executive Officer
+
+Yeah, Justin. Sure. This is Andy. I think if you look at AWS, we grew 12% year over year.
+
+And I think that you saw a continued stabilization of our year-over-year growth rate. And included $919 million of incremental quarter-over-quarter revenue, which it's hard to compare and do the math across different players because not everyone discloses them clearly. But as far as we can tell, that also looks like the most absolute growth of any of the players out there. We're still seeing elevated customer optimization levels than we've seen in the last year or year before this, I should say.
+
+So, if you look at the optimization, it's more than a year ago, but it's meaningfully attenuating from where we've seen in the last few quarters. And if you look at the optimization too, what's interesting is it's not all customers deciding to shut down workloads. A very significant portion of the optimization are customers taking advantage of enhanced price performance capabilities in AWS and making use of it. So, for example, if you look at the growth of customers using EC2 instances that are Graviton based, which is our custom chip that we built for generalized CPUs, the number of people and the percentage of instances launched their Graviton base as opposed to Intel or AMD base is very substantially higher than it was before.
+
+And one of the things that customers love about Graviton is that it provides 40% better price performance than the other leading x86 processors. So, you see a lot of growth in Graviton. You also see a lot of customers who are moving from the hourly on demand rates for significant portions of their workloads to one- to three-year commitments, which we call savings plans. So, those are just good examples of some of the cost optimization that customers are making in less certain economies where it's really good for customers short and long term, and I think it's also good for us.
+
+But we're starting to see -- as I said, we're seeing that optimization attenuate. I expect that to continue over time. I remain very optimistic about AWS in the medium to long term. And it's because we have the most functionality by a large amount.
+
+We have a much larger partner ecosystem than you'll find elsewhere. We have stronger security and operational performance than you can find elsewhere. I think we're the most customer-focused. Even if you look during optimization times in this difficult economy, customers have really noticed how AWS leaned in with them for the long term.
+
+And I think that matters to customers. And then we have a $92 billion revenue run rate business where 90% of the global IT spend still resides on premises. And if you believe like we do, that equation is going to flip. There's a lot more there for us.
+
+And then you look at the very substantial gigantic new generative AI opportunity, which I believe will be tens of billions of dollars of revenue for AWS over the next several years, I think we have a unique and broad approach that's really resonating with customers. And you can see it with the array of customers I mentioned that are using us and starting to build workloads for generative AI who have already on top of us. I could see it also. Just the growth rate for us in generative AI is very fast.
+
+Again, I have seen a lot of different numbers publicly. It's real hard to measure an apples-to-apples. But in our best estimation, our -- the amount of growth we're seeing and the absolute amount of generative AI business we're seeing compares very favorably with anything else I've seen externally. So, I think that you can see that in the deals that we're doing, too.
+
+I spoke about the significant number of deals that we've closed over the last couple of months. A lot of those conversations, it's -- a big piece of it is what I mentioned earlier, the functionality, the ecosystem, the operational performance, the security, how you take care of customers, but also whether or not they like your vision and set of products that you're building in this brand-new technology space, generative AI, which I think has been very effective so far. So, to me, I think there's a lot of growth in front of AWS. I'm very optimistic about it.
+
+Brian Olsavsky--Chief Financial Officer
+
+And Justin, on your comment about -- a question about AWS margins. So, yeah, the margin improved 600 basis points quarter over quarter, an increase of income of $1.6 billion quarter over quarter for AWS, is driven by -- primarily by our headcount reductions in Q2 and also continued slowness in hiring, rehiring open positions. There's been also a lot of cost control in nonpeople categories, things like infrastructure costs and also discretionary costs. Natural gas prices and other energy costs have come down a bit in Q3 as well.
+
+So, as we've said historically, the margins on -- the operating margin for AWS is going to fluctuate quarter to quarter, and this is a good example of that.
+
+Operator
+
+Our next question is from Doug Anmuth with JPMorgan. Please proceed with your question.
+
+Doug Anmuth--JPMorgan Chase and Company -- Analyst
+
+Thanks very much. Can you just talk more about how the regional fulfillment network is exceeding your expectations? And then also, how does that support your confidence in moving North America beyond mid-single-digit margin levels? And then just perhaps on generative AI, obviously, a lot of innovation here. You talked about a number of different customers running early workloads. How should we think about the timing, just to drive some tangible monetization there? Thank you.
+
+Brian Olsavsky--Chief Financial Officer
+
+Well, I'll start. The -- on regionalization, I think it was such a significant change for us in the network. It's hard to really appreciate with a big change across so many dimensions it was that first to make such a change has all sorts of risk. And I think the team did a great job planning around it and being very thorough.
+
+I think that we were able, with our placement algorithms, to get more regional local in-stock levels than we anticipated. And then I think until you actually put all the connections together, we changed a lot of the connections from a lot of these middle connections going from fulfillment centers to sortation centers and then to delivery stations to connecting the fulfillment centers and delivery stations more directly, which, of course, is easier to do when you have more local in stock in a region. But I think that we were able -- the connections that we made and the optimization that we made there allowed us to get shorter transportation distances than we even anticipated in items to people a lot quicker. And then always one of the issues you got to worry about when you make a change that big is whether or not you end up splitting shipments and having more -- fewer items per box and per shipment.
+
+And that was also something that we really had to work through in the design and in the early stages, and we've gotten a lot better on. So, we're just across the board, we're seeing shorter transportation distances and much faster delivery to customers. And when you deliver faster delivery to customers, they actually start to consider you for a lot more items than they otherwise would. I think it's part of what -- if you look at our very significant growth rates right now in everyday essentials and consumables, a lot of it is when you -- if you're going to order something which you need in the same day or next day, you're not going to consider it if it's coming in three or four days.
+
+But when you're consistently getting it in same day or the next day, just changes what you're willing to do. I think the second question was on gen AI and the timing of monetization. What I would tell you is that we have been surprised at the pace of growth in generative AI. Our generative AI business is growing very, very quickly, as I mentioned earlier.
+
+And almost by any measure, it's a pretty significant business for us already. And yet I would also say that companies are still in the relatively early stages. I mean now you have to get perspective. My perspective is that the cloud is still in the early stages.
+
+If you think about 90% plus of the global IT spend being on-premises, where I think that equation is going to flip in 10 years. I think cloud is early. So, if you -- with that lens on, I still think we're very early in generative AI. And what's interesting, too, around generative AI because we have so many companies who are doing all sorts of prototypes and it's really accelerating very rapidly on the training side with Trainium and Inferentia and then on the application building and running side with Bedrock, is that companies are still trying to sort out for themselves what they're going to run at large-scale production in all of these areas.
+
+Because what happens is you try a model, you test the model, you like the results of the model and then you plug it into your application. And what a lot of companies figure out quickly is that using the really large -- the large models and the large sizes ends up often being more expensive than what they anticipated and what they want to spend on that application. And sometimes too much latency in getting the answers as it shovels through the really large models. And so, customers are experimenting with lots of different types of models and then different model sizes to get the cost and latency characteristics that they need for different use cases.
+
+And it's one of the things that I think is so useful about Bedrock is that customers are trying so many variants right now but to have a service that not only lets you leverage lots of third party, as well as Amazon large language models, but also lots of different sizes and then makes the transition of moving those workloads easy between them is very advantageous.
+
+Operator
+
+Our next question is from Brian Nowak with Morgan Stanley. Please proceed with your question.
+
+Brian Nowak--Morgan Stanley -- Analyst
+
+Thanks for taking my question. I have two, one on AWS, one on the retail business. On AWS AI, Andy, I recognize you have a pretty multipronged AI approach. But just could you talk us through sort of one or two of the early generative AI products where you're seeing, the most early demand and interest? And as you talk to customers, are there still hurdles or pain points that you're not quite serving in your product suite you look to solve and innovate on over the next couple of years in AI? And then the second one, you made a lot of steps on the regionalization of warehouses and making it more efficient.
+
+Where are you on robotics in the warehouses? And how should we think about the potential impact of that to drive profitability even higher?
+
+Andy Jassy--Chief Executive Officer
+
+On the AI side, I think that if you're looking for some of the products that we're offering that are -- that have a lot of early resonance and traction, I would -- I'd start with Bedrock. These customers are -- they're very excited about Bedrock. And it's making it so much easier to get applications, generative AI applications built. And again, it's machine learning and AI has been something that people have been excited about for 25 years.
+
+In my opinion, about a half dozen years ago, it took a pretty significant leap forward where it was much easier given the economics and scalability of compute and storage and then some of the tools that we built like SageMaker, it was much easier for everyday developers to start to interact with AI. But it just -- it took another meaningful step forward with generative AI, but still it's complicated to actually figure out which models you want to work, you want to use and how you actually want to employ them and trying to make sure you have the right results, trying to make sure you get safe results, trying to make sure you end up with a cost structure and a customer experience that you want. And so, it's hard. And customers will like -- there's a certain number of customers who have very deep AI expert practitioners, but most companies don't.
+
+And so, Bedrock just takes so much of the difficulty out of those decisions and those variables that people are very excited about Bedrock. They're using it in a very broad way. They're extremely excited about not just the set of models in there, but if you look at a leader like Anthropic and the ability for our customers in Bedrock to have exclusive early access to models and customization tools and fine-tuning which gives them more control, there's just -- there's a lot of buzz and a lot of usage and a lot of traction around Bedrock. I would also say our chips, Trainium and Inferentia, as most people know, there's a real shortage right now in the industry in chips.
+
+It's really hard to get the amount of GPUs that everybody wants. And so, it's just another reason why Trainium and Inferentia are so attractive to people. They have better price performance characteristics than the other options out there, but also the fact that you can get access to them. And we've done, I think, a pretty good job providing supply there and ordering meaningfully in advance as well.
+
+And so, you're seeing very large LLM providers make big bets on those chips. I think Anthropic deciding to train their future LLM model on Trainium and using Inferentia as well is really a statement. And then you look at the really hot start-up Perplexity.ai, who also just made a decision to do all their training and inference on top of Trainium and Inferentia. So, those are two examples.
+
+I'd say CodeWhisperer, too, is just, again, it's just a game changer if you can allow your engineers not to have to do the more repetitive work of cutting and pasting and building certain functions that really, if somebody knew your code base better, could do. And so, it's a real -- it's a productivity game changer for developers. And then actually launching that customization vehicle so that they actually understand your own proprietary code base, that is something that customers are quite excited about. So, those are ultimately early traction AI.
+
+There's so much more to provide, Brian. I mean there's -- I think people -- even though Bedrock is so much easier to use than people trying to build models themselves and build the applications, I think people are still looking to find ways to make it easier to look at a big corpus of data and run an agent on top of it or maybe they don't have to do all that work themselves. I think people are looking for automated ways to understand different developer environments and be able to ask any question on the developer environment. So, there's a lot more.
+
+It's going to be a long time before we run out of services. And yes, I think it's a good thing to look toward the next few months in re:Invent to see the additional things that team launches. I think on the robotics piece, it's a very significant investment for us. It has been for several years.
+
+It's made a huge difference for us. It's made a big difference for us both on the productivity side, on the cost side, as well as importantly on the safety side where we can have our teammates working on things that are even safer than what they get to work on today. We have a very substantial investment of additional robotics initiatives, I would say many of which are coming to fruition in '24 and '25 that we think will make a further additional impact on the cost and productivity and safety in our fulfillment centers.
+
+Operator
+
+Our next question comes from the line of Eric Sheridan with Goldman Sachs. Please proceed with your question.
+
+Eric Sheridan--Goldman Sachs -- Analyst
+
+Thanks so much for taking the questions. Maybe one follow-up on AWS and one on the ads business. Andy, would love your perspective. The cloud optimization theme started in the second half of '22 when there were a lot of macro concerns.
+
+And then the AI theme really only sort of came to the forefront in the last eight or nine months. What's your perspective on how turning the calendar into 2024 and there being a new IT budget cycle could possibly lead us to put the optimization theme in the background and some of the AI theme come more to the forefront when there might be more distinct budgeting around AI as a theme? That would be number one. And then in your ads business, you're approaching $50 billion run rate, and it's compounding in the mid-20s. What are you most excited about on the initiative front to continue to build scale both on Amazon properties and possibly off Amazon as a broader digital advertising player? Thanks so much.
+
+Andy Jassy--Chief Executive Officer
+
+On the AWS side, my perspective, we'll obviously all have to wait and see to some extent. But my perspective is that in 2024, you're going to -- I think a lot of the relatively low-hanging fruit on optimization has happened in 2023. It's not to say there won't be any more optimization. It's just that there's more low-hanging fruit when you have very large footprints and you've built a lot of applications on a platform for you to go decide to optimize if that's what you want to go do.
+
+And so, I think 2020 -- we're already seeing it now with the attenuation of optimization over the last several months. But I think you'll continue to see the attenuation continue, and we're already seeing more and more companies that are turning their attention to newer initiatives. And I think what you will see in '24 and '25 as well, I think -- I don't think it's a one-year deal, I think that's going to be a several-year trajectory, is that you're going to just see a lot of companies not just looking at the new generative AI workloads, but also there was a significant number of new customer transformations where companies were going to largely move from being on-premises to being in the cloud. That got stalled in 2023 because companies were being more conservative with their spend and wary of an uncertain economy.
+
+And so, I think that what you'll see increasingly is that companies will both go back to those transformations they were planning on making and working with a lot of systems integrator partners, as well as ourselves, as well as start to see the production in large scale of the generative AI applications that they're all working on and prototyping and starting to deploy into production. I think on the ad front, well, there's a lot I'm excited about on the ad side as well. I think that it's interesting what's happening in our ads business as, if you look around the industry, most advertising-heavy companies have struggled growth-wise as the economy has been difficult. And while we see companies being more cautious on the ad side and the top-of-funnel products, things like display and a little bit of video, we're still seeing a lot of strength in the lower-funnel ad products like sponsored products.
+
+And I think in these types of economies, we have fared pretty well in part because we have a number of owned and operated properties that have very large volumes that advertisers and brands want to get in front of. Even in a harder economy, there's going to be a lot of e-commerce purchasing. So, people want to be in front of our customers in our marketplace. Or take "Thursday Night Football," which is we're in our second season of "Thursday Night Football," and off to a great start, the ratings are 25% higher than they were a year ago through six weeks.
+
+But also, we're doing much better on the advertising side than we did in our first year, and that's a property that's really valuable. It's the one game that week, and advertisers want to be in front of customers because there's 13 million customers a week watching. So, I think part of it is because we have owned and operated properties that have a lot of volume. And then I think the other piece is that most of our resource in the advertising side is spent on machine learning expert practitioners who are honing algorithms to make sure that the sponsored results people get when they search on something are relevant.
+
+And because of that, those ads perform better for advertisers. So, when they have to think about budget decisions, they're going to choose the ones that have large volume and perform better. I think both of those are real advantages in our advertising area right now. In terms of additional things we're excited about.
+
+I think that we have barely scraped the surface with respect to figuring out how to intelligently integrate advertising into video, into audio and into grocery. So, I think we're early days in that. I think that we also started externalizing some of our products like sponsored products to third-party websites. And you see that with what we've done with Pinterest, Hearst Newspapers and BuzzFeed, so I think there's -- again, we're still pretty early in that area, but it's growing well, and we're very focused on continuing to in a great customer experience.
+
+Operator
+
+And our final question comes from the line of Mark Mahaney with Evercore ISI. Please proceed with your question.
+
+Mark Mahaney--Evercore ISI -- Analyst
+
+OK. On those AWS deals, Andy, that you talked about in the September quarter, was there something different about those deals, different industry, different verticals, different geographic markets? Or is it just kind of a resumption of kind of the deal flow that you've had in years past? So, that's the first question. And secondly, Brian, international. Is international finally at a point where it can be sustainably profitable going forwards, maybe except for the seasonally challenged March quarter? Have you wrung out enough efficiencies and gotten enough scales? And the oldest markets there are big enough and scalable enough and profitable enough that it offsets the newer countries? Have you finally reached that point? Thanks.
+
+Brian Olsavsky--Chief Financial Officer
+
+First, just to give Andy a break. On international, thanks for your question. Yes, the quarter was just short of breakeven. And as you pointed out, that's a departure from kind of prior trends.
+
+I would answer that question this way. There's multiple things going on internationally. In our established countries, U.K., Germany, Japan, France, those countries are profitable and have been profitable. And we continue to work on price selection and convenience.
+
+And all that retail base is essentially adding sellers, adding vendors and selection, scaling advertising and improving the cost structure of our ops network. So, many of the ops productivity initiatives, probably with the exception of regionalization, is more of a U.S. side right now. But we're working on all those productivity elements and speed concurrently globally.
+
+And you're seeing that internationally and customers are responding. On the emerging side, over the last six years, we've launched 10 new countries. History has shown us that those all take time to grow into profitability. The U.S.
+
+took 10 years -- excuse me, nine years originally. And they're all on their own journey there with growth and scale and profitability and selection and a number of other variables. So, that's -- those are all going well as well. We continue -- we're going to continue to invest internationally in things like Prime and expanding Prime benefits, and we're going to continue to build out the fulfillment and transportation networks to better serve customers.
+
+So, I can't say it's permanently we've reached a breakeven threshold for profitability. I think the trend lines are clear, though, and we'll continue to work on accelerating that journey in all countries, especially the emerging ones.
+
+Andy Jassy--Chief Executive Officer
+
+On the AWS deals, it's a really broad mix of industries and geographies. So, it's not comped up in one. Some are kind of first really big deals from customers. Some of them are very large expansions of existing agreements where they've gone from call it, 20% of their workloads to 50% of their workloads moving to AWS in the cloud.
+
+It's also -- I'm not even really including in that number, a number of really big public sector deals that we've done over the last chunk of time that won't hit for a period of time. And so, all these deals don't hit in a month. They happen over a period of time as you help those customers safely transition and migrate their workloads to AWS. But it hasn't been any one piece.
+
+And I wish I could tell you we knew exactly why they're starting to happen in faster numbers. I do think, in general, historically, deal volume tends to be lumpy, and it doesn't perfectly distribute over a calendar year. I do think though that we've seen this in '23, for sure, that the time to close deals lengthened. And I think it's all reflective of what most companies in the world have been thinking about the last year, which is just in the face of uncertain economy, you're going to be more conservative.
+
+There are going to be more people involved. You're going to spend more time on how you can save on your existing cost instead of migrating new workloads or thinking about signing new deals. And so, I think what you're just starting to see along with some of the optimization attenuation is that companies are starting to look forward again. And so, we've just seen a collection of those the last couple of months that had been -- being discussed for several months where I think, frankly, both sides thought they would close faster, but just went slower than they did.
+
+So, I just think you're starting to see companies look forward more.
+
+Dave Fildes--Director, Investor Relations
+
+Thanks for joining us today for the call and for your questions. A replay will be available on our investor relations website for at least three months. We appreciate your interest in Amazon and look forward to talking with you again next quarter.

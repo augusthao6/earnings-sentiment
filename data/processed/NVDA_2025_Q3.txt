@@ -1,0 +1,209 @@
+It could be, of course, tens of megawatts in the past, and now it's -- most data centers are now 100 megawatts to several hundred megawatts, and we're planning on gigawatt data centers, it doesn't really matter how large the data centers are. The power is limited. And when you're in the power-limited data center, the best -- the highest performance per watt translates directly into the highest revenues for our partners. And so, on the one hand, our annual road map reduces costs.
+
+But on the other hand, because our perf per watt is so good compared to anything out there, we generate for our customers the greatest possible revenues. And so, that annual rhythm is really important to us, and we have every intention of continuing to do that. And everything is on track as far as I know.
+
+Operator
+
+Your next question comes from the line of Timothy Arcuri of UBS. Your line is open.
+
+Timothy Arcuri--Analyst
+
+Thanks a lot. I'm wondering if you can talk about the trajectory of how Blackwell is going to ramp this year. I know Jensen, you did just talk about Blackwell being better than -- I think you had said several billions of dollars in January. It sounds like you're going to do more than that.
+
+But I think in recent months also, you said that Blackwell crosses over Hopper in the April quarter. So, I guess I had two questions. First of all, is that still the right way to think about it, that Blackwell will cross over Hopper in April? And then Colette, you kind of talked about Blackwell bringing down gross margin to the low 70s as it ramps. So, I guess if April is the crossover, is that the worst of the pressure on gross margin? So, you're going to be kind of in the low 70s as soon as April.
+
+I'm just wondering if you can sort of shape that for us. Thanks.
+
+Jensen Huang--President and Chief Executive Officer
+
+Colette, why don't you start?
+
+Colette M. Kress--Chief Financial Officer, Executive Vice President
+
+Sure. Let me first start with your question, Tim, thank you, regarding our gross margins. And we discussed that our gross margins, as we are ramping Blackwell in the very beginning, and the many different configurations, the many different chips that we are bringing to market, we are going to focus on making sure we have the best experience for our customers as they stand that up. We will start growing into our gross margins, but we do believe those will be in the low 70s in that first program.
+
+So, you're correct, as you look at the quarters following after that, we will start increasing our gross margins, and we hope to get to the mid-70s quite quickly as part of that round.
+
+Jensen Huang--President and Chief Executive Officer
+
+Hopper demand will continue through next year, surely the first several quarters of the next year. And meanwhile, we will ship more Blackwells next quarter than this, and we'll ship more Blackwells the quarter after that than our first quarter. And so, that kind of puts it in perspective. We are really at the beginnings of two fundamental shifts in computing that is really quite significant.
+
+The first is moving from coding that runs on CPUs to machine learning that creates neural networks that runs on GPUs. And that fundamental shift from coding to machine learning is widespread at this point. There are no companies who are not going to do machine learning. And so, machine learning is also what enables generative AI.
+
+And so, on the one hand, the first thing that's happening is $1 trillion worth of computing systems and data centers around the world is now being modernized for machine learning. On the other hand, secondarily, I guess, is that on top of these systems are going to be -- we're going to be creating a new type of capability called AI. And when we say generative AI, we're essentially saying that these data centers are really AI factories. They're generating something.
+
+Just like we generate electricity, we're now going to be generating AI. And if the number of customers is large, just as the number of consumers of electricity is large, these generators are going to be running 24/7. And today, many AI services are running 24/7, just like an AI factory. And so, we're going to see this new type of system come online, and I call it an AI factory because that's really as close to what it is.
+
+It's unlike a data center of the past. And so, these two fundamental trends are really just beginning. And so, we expect this to happen, this growth, this modernization, and the creation of a new industry to go on for several years.
+
+Operator
+
+Your next question comes from the line of Vivek Arya of Bank of America Securities. Your line is open.
+
+Vivek Arya--Analyst
+
+Thanks for taking my question. Colette, just to clarify, do you think it's a fair assumption to think NVIDIA could recover to kind of mid-70s gross margin in the back half of calendar '25? Just wanted to clarify that. And then Jensen, my main question, historically, when we have seen hardware deployment cycles, they have inevitably included some digestion along the way. When do you think we get to that phase? Or is it just too premature to discuss that because you're just at the start of Blackwell? So, how many quarters of shipments do you think is required to kind of satisfy this first wave? Can you continue to grow this into calendar '26? Just how should we be prepared to see what we have seen historically, right, a period of digestion along the way of a long-term kind of secular hardware deployment?
+
+Colette M. Kress--Chief Financial Officer, Executive Vice President
+
+OK. Vivek, thank you for the question. Let me clarify your question regarding gross margins. Could we reach the mid-70s in the second half of next year? And yes, I think it is a reasonable assumption or goal for us to do, but we'll just have to see how that mix of ramp goes.
+
+But yes, it is definitely possible.
+
+Jensen Huang--President and Chief Executive Officer
+
+The way to think through that, Vivek, is I believe that there will be no digestion until we modernize $1 trillion with the data centers. Those -- if you just look at the world's data centers, the vast majority of it is built for a time when we wrote applications by hand and we ran them on CPUs. It's just not a sensible thing to do anymore. If you have -- if every company's capex -- if they're ready to build data center tomorrow, they ought to build it for a future of machine learning and generative AI because they have plenty of old data centers.
+
+And so, what's going to happen over the course of the next X number of years, and let's assume that over the course of four years, the world's data centers could be modernized as we grow into IT, as you know, IT continues to grow about 20%, 30% a year, let's say. But let's say by 2030, the world's data centers for computing is, call it, a couple of trillion dollars. We have to grow into that. We have to modernize the data center from coding to machine learning.
+
+That's number one. The second part of it is generative AI. And we're now producing a new type of capability the world's never known, a new market segment that the world's never had. If you look at OpenAI, it didn't replace anything.
+
+It's something that's completely brand new. It's, in a lot of ways as when the iPhone came, was completely brand new. It wasn't really replacing anything. And so, we're going to see more and more companies like that.
+
+And they're going to create and generate, out of their services, essentially intelligence. Some of it would be digital artist intelligence like Runway. Some of it would be basic intelligence like OpenAI. Some of it would be legal intelligence like Harvey, digital marketing intelligence like Rider's, so on and so forth.
+
+And the number of these companies, these -- what are they called, AI-native companies, are just in hundreds. And almost every platform shift, there was -- there were Internet companies, as you recall. There were cloud-first companies. There were mobile-first companies.
+
+Now, they're AI natives. And so, these companies are being created because people see that there's a platform shift, and there's a brand-new opportunity to do something completely new. And so, my sense is that we're going to continue to build out to modernize IT, modernize computing, number one; and then number two, create these AI factories that are going to be for a new industry for the production of artificial intelligence.
+
+Operator
+
+Your next question comes from the line of Stacy Rasgon of Bernstein Research. Your line is open.
+
+Stacy Rasgon--Analyst
+
+Hi, guys. Thanks for taking my questions. Colette, I had a clarification and a question for you. The clarification, just when you say low 70s gross margins, does 73.5% count as low 70s, or do you have something else in mind? And for my question, you're guiding total revenues, and so I mean, total data center revenues in the next quarter must be up several billion dollars.
+
+But it sounds like Blackwell now should be up more than that. But you also said Hopper was still strong, so like is Hopper down sequentially next quarter? And if it is, like why? Is it because of the supply constraints? China has been pretty strong. Is China is kind of rolling off a bit into Q4? So any color you can give us on sort of the Blackwell ramp and the Blackwell versus Hopper behavior into Q4 would be really helpful. Thank you.
+
+Colette M. Kress--Chief Financial Officer, Executive Vice President
+
+So, first, starting on your first question there, Stacy, regarding our gross margin and define low. Low, of course, is below the mids, and let's say we might be at 71%, maybe about 72%, 72.5%. We're going to be in that range. We could be higher than that as well.
+
+We're just going to have to see how it comes through. We do want to make sure that we are ramping and continuing that improvement, the improvement in terms of our yields, the improvement in terms of the product as we go through the rest of the year, so we'll get up to the mid-70s by that point. The second statement was a question regarding our Hopper and what is our Hopper doing. We have seen substantial growth for H200 not only in terms of orders but the quickness in terms of those that are standing that out.
+
+It is an amazing product and it's the fastest growing and ramping that we've seen. We will continue to be selling Hopper in this quarter, in Q4 for sure. That is across the board in terms of all of our different configurations, and our configurations include what we may do in terms of China. But keep that in mind that folks are also, at the same time, looking to build out their Blackwell.
+
+So, we've got a little bit of both happening in Q4. But yes. Is it possible for Hopper to grow between Q3 and Q4? It's possible, but we'll just have to see.
+
+Operator
+
+Your next question comes from the line of Joseph Moore of Morgan Stanley. Your line is open.
+
+Joseph Moore--Analyst
+
+Great. Thank you. I wonder if you could talk a little bit about what you're seeing in the inference market. You've talked about Strawberry and some of the ramifications of longer scaling influence projects.
+
+But you've also talked about the possibility that as some of these Hopper clusters age, that you could use some of the Hopper chips for inference. So, I guess do you expect inference to outgrow training in the next kind of 12 months time frame? And just generally, your thoughts there.
+
+Jensen Huang--President and Chief Executive Officer
+
+Our hopes and dreams is that someday, the world does a ton of inference. And that's when AI has really exceeded is when every single company is doing inference inside their companies for the marketing department and forecasting department and supply chain group and their legal department and engineering, of course, and coding of course. And so, we hope that every company is doing inference 24/7 and that there will be a whole bunch of AI native start-ups, thousands of AI native start-ups that are generating tokens and generating AI. And every aspect of your computer experience from using Outlook to PowerPointing or when you're sitting there with Excel, you're constantly generating tokens.
+
+And every time you read a PDF, open a PDF, it generated a whole bunch of tokens. One of my favorite applications is NotebookLM, this Google application that came out. I used the living daylights out of it just because it's fun. And I put every PDF, every archived paper into it just to listen to it as well as scanning through it.
+
+And so, I think that's the goal is to train these models so that people use it. And there's now a whole new era of AI, if you will, a whole new genre of AI called physical AI. Just those large language models understand the human language and how the thinking process, if you will. Physical AI understands the physical world.
+
+And it understands the meaning of the structure and understands what's sensible and what's not and what could happen and what won't. And not only does it understand but it can predict, roll out a short future. That capability is incredibly valuable for industrial AI and robotics. And so, that's fired up so many AI-native companies and robotics companies and physical AI companies that you're probably hearing about.
+
+And it's really the reason why we built Omniverse. Omniverse is -- so that we can enable these AIs to be created and learn in Omniverse and learn from synthetic data generation and reinforcement, learning physics feedback. Instead of just a human feedback, it's now physics feedback. To have these capabilities, Omniverse was created so that we can enable physical AI.
+
+And so, that -- the goal is to generate tokens. The goal is to inference, and we're starting to see that growth happening. So, I'm super excited about that. Now, let me just say one more thing.
+
+Inference is super hard. And the reason why inference is super hard is because you need the accuracy to be high on the one hand. You need the throughput to be high so that the cost could be as low as possible, but you also need the latency to be low. And computers that are high-throughput as well as low latency is incredibly hard to build.
+
+And these applications have long context lengths because they want to understand. They want to be able to inference within understanding the context of what they're being asked to do. And so, the context length is growing larger and larger. On the other hand, the models are getting larger.
+
+They're multimodality. Just the number of dimensions that inference is innovating is incredible. And this innovation rate is what makes NVIDIA's architecture so great because we -- our ecosystem is fantastic. Everybody knows that if they innovate on top of CUDA and top of NVIDIA's architecture, they can innovate more quickly and they know that everything should work.
+
+And if something were to happen, it's probably likely their code and not ours. And so, that ability to innovate in every single direction at the same time, having a large installed base so that whatever you create could land on an NVIDIA computer and be deployed broadly all around the world in every single data center all the way out to the edge into robotic systems, that capability is really quite phenomenal.
+
+Operator
+
+Your next question comes from the line of Aaron Rakers of Wells Fargo. Your line is open.
+
+Aaron Rakers--Analyst
+
+Yeah. Thanks for taking the question. I wanted to ask you as we kind of focus on the Blackwell cycle and think about the data center business. When I look at the results this last quarter, Colette, you mentioned that obviously, the networking business was down about 15% sequentially.
+
+But then your comments were that you were seeing very strong demand. You mentioned also that you had multiple cloud CFP design wins for these large-scale clusters. So, I'm curious if you could unpack what's going on in the Networking business and where maybe you've seen some constraints and just your confidence in the pace of Spectrum-X progressing to that multiple billions of dollars that you previously had talked about. Thank you.
+
+Colette M. Kress--Chief Financial Officer, Executive Vice President
+
+Let's first start with the networking. The growth year over year is tremendous. And our focus since the beginning of our acquisition of Mellanox has really been about building together the work that we do in terms of in the data center. The networking is such a critical part of that.
+
+Our ability to sell our networking with many of our systems that we are doing in data center is continuing to grow and do quite well. So, this quarter is just a slight dip down and we're going to be right back up in terms of growing. We're getting ready for Blackwell and more and more systems that will be using not only our existing networking but also the networking that is going to be incorporated in a lot of these large systems we are providing them to.
+
+Operator
+
+Your next question comes from the line of Atif Malik of Citi. Your line is open.
+
+Atif Malik--Analyst
+
+Thank you for taking my question. I have two quick ones for Colette. Colette, on the last earnings call, you mentioned that sovereign demand is in low double-digit billions. Can you provide an update on that? And then can you explain the supply constrained situation in gaming? Is that because you're shifting your supply toward data center?
+
+Colette M. Kress--Chief Financial Officer, Executive Vice President
+
+So, first, starting in terms of sovereign AI, such an important part of growth, something that is really surfaced with the onset of generative AI and building models in the individual countries around the world. And we see a lot of them, and we talked about a lot of them on the call today and the work that they are doing. So, our sovereign AI and our pipeline going forward is still absolutely intact as those are working to build these foundational models in their own language, in their own culture, and working in terms of the enterprises within those countries. And I think you'll continue to see this be growth opportunities that you may see with our regional clouds that are being stood up and/or those that are focusing in terms of AI factories for many parts of the sovereign AI.
+
+This is areas where this is growing not only in terms of in Europe, but you're also seeing this in terms of growth in terms of in the Asia Pac as well. Let me flip to your second question that you asked regarding Gaming. So, our Gaming right now from a supply, we're busy trying to make sure that we can ramp all of our different products. And in this case, our gaming supply, given what we saw selling through was moving quite fast.
+
+Now, the challenge that we have is how fast could we get that supply getting ready into the market for this quarter. Not to worry, I think we'll be back on track with more supply as we turn the corner into the new calendar year. We're just going to be tight for this quarter.
+
+Operator
+
+Your next question comes from the line of Ben Reitzes of Melius Research. Your line is open.
+
+Ben Reitzes--Melius Research -- Analyst
+
+Yeah. Hi. Thanks a lot for the question. I wanted to ask Colette and Jensen with regard to sequential growth.
+
+So, very strong sequential growth this quarter, and you're guiding to about 7%. Do your comments on Blackwell imply that we reaccelerate from there as you get more supply just in the first half, there would be some catch-up. So, I was wondering how prescriptive you could be there. And then, Jensen, just overall with the change in administration that's going to take place here in the U.S.
+
+and the China situation, have you gotten any sense or any conversations about tariffs or anything with regard to your China business? Any sense of what may or may not go on? It's probably too early, but wondering if you had any thoughts there. Thanks so much.
+
+Jensen Huang--President and Chief Executive Officer
+
+We guide one quarter at a time.
+
+Colette M. Kress--Chief Financial Officer, Executive Vice President
+
+We are working right now on the quarter that we're in and building what we need to ship in terms of Blackwell. We have every supplier on the planet working seamlessly with us to that. And once we get to next quarter, we'll help you understand in terms of that ramp that we'll see to the next quarter going after that.
+
+Jensen Huang--President and Chief Executive Officer
+
+Whatever the new administration decides, we'll, of course, support the administration. And that's our -- the highest mandate. And then after that, do the best we can and just as we always do. And so, we have to simultaneously and we will comply with any regulation that comes along fully and support our customers to the best of our abilities and to compete in the marketplace.
+
+We'll do all of these three things simultaneously.
+
+Operator
+
+Your final question comes from the line of Pierre Ferragu of New Street Research. Your line is open.
+
+Pierre Ferragu--Analyst
+
+Hey, thanks for taking my question. Jensen, you mentioned in your comments, you have the pretraining, the actual language models and you have reinforcement learning that becomes more and more important in training and inference as well and then you have inference itself. And I was wondering if you have a sense like a high-level typical sense of out of an overall AI ecosystem, like maybe one of your clients or one of the large models that are out there today, how much of the compute goes into each of these buckets? How much for the pretraining? How much for the reinforcement? And how much into inference today? Do you have any sense for how it's splitting and where the growth is the most important as well?
+
+Jensen Huang--President and Chief Executive Officer
+
+Well, today, it's vastly in pretraining a foundation model because, as you know, post-training, the new technologies are just coming online. And whatever you could do in pretraining and post-training, you would try to do so that the inference cost could be as low as possible for everyone. However, there are only so many things that you could do a priority. And so, you'll always have to do on-the-spot thinking and in-context thinking and reflection.
+
+And so, I think that the fact that all three are scaling is actually very sensible based on where we are. And in the area foundation model, now we have multimodality foundation models, and the amount of petabytes video that these foundation models are going to be trained on, it's incredible. And so, my expectation is that for the foreseeable future, we're going to be scaling pretraining, post-training, as well as inference time scaling and which is the reason why I think we're going to need more and more compute. And we're going to have to drive as hard as we can to keep increasing the performance by X factors out of time so that we can continue to drive down the cost and continue to increase the revenues and get the AI revolution going.
+
+Operator
+
+Thank you. I'd like to turn the call back over to Jensen Huang for closing remarks.
+
+Jensen Huang--President and Chief Executive Officer
+
+Thank you. The tremendous growth in our business is being fueled by two fundamental trends that are driving global adoption of NVIDIA computing. First, the computing stack is undergoing a reinvention, a platform shift from coding to machine learning, from executing code on CPUs to processing neural networks on GPUs. The $1 trillion installed base of traditional data center infrastructure is being rebuilt for Software 2.0, which applies machine learning to produce AI.
+
+Second, the age of AI is in full steam. Generative AI is not just a new software capability but a new industry with AI factories manufacturing digital intelligence, a new industrial revolution that can create a multi-trillion-dollar AI industry. Demand for Hopper and anticipation for Blackwell, which is now in full production, are incredible for several reasons. There are more foundation model makers now than there were a year ago.
+
+The computing scale of pretraining and post-training continues to grow exponentially. There are more AI-native start-ups than ever, and the number of successful inference services is rising. And with the introduction of ChatGPT o1, OpenAI o1, a new scaling law called test time scaling has emerged. All of these consume a great deal of computing.
+
+AI is transforming every industry, company, and country. Enterprises are adopting agentic AI to revolutionize workflows. Over time, AI coworkers will assist employees in performing their jobs faster and better. Investments in industrial robotics are surging due to breakthroughs in physical AI, driving new training infrastructure demand as researchers train world foundation models on petabytes of video and Omniverse synthetically generated data.
+
+The age of robotics is coming. Countries across the world recognize the fundamental AI trends we are seeing and have awakened to the importance of developing their national AI infrastructure. The age of AI is upon us, and it's large and diverse. NVIDIA's expertise, scale, and ability to deliver full stack and full infrastructure lets us serve the entire multitrillion-dollar AI and robotics opportunities ahead from every hyperscale cloud, enterprise private cloud to sovereign regional AI clouds, on-prem to industrial edge and robotics.
+
+Thanks for joining us today, and catch up next time.

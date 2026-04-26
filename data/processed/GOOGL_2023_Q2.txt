@@ -1,0 +1,219 @@
+Brian Nowak--Morgan Stanley -- Analyst
+
+Thanks for taking my questions. I have two. The first one, for Sundar. Sundar, I'd be curious to learn about some of your early learnings and surprises around consumer behavior and how people are using Bard versus Search, and what new behaviors or consumer utility are you most excited about as you think about what Gemini could provide for people over the course of the next year or so.
+
+And then, the second one for Ruth. Ruth, congrats on the new position. One question is about the durable expense comments. I think last quarter, you talked about the idea that expenses could grow slower than revenue in 2024.
+
+Is that still the right way to think about it? And just to confirm, does that include the impact of depreciation in those comments? Thanks.
+
+Sundar Pichai--Chief Executive Officer
+
+Thanks, Brian. I'll take the first part. You know, it's definitely early days, but both across Bard and Search and rate of experience, you know, feedback has been very positive from our users. I think we are definitely now able to serve, you know, I would say, deeper and broader information use cases, which is very exciting.
+
+Now, you know, I wouldn't say surprised. So, for example, people really using it to -- for coding. You know, something we understood, but it's definitely on the new side. There's a lot of excitement around -- we integrated Google Lens into Bard.
+
+We have known how big Google Lens can be. We see that in the visual searches we get and how much it has grown over the last two years. And so, we've been doing this for a while. But definitely that and Bard has been super well received.
+
+So, which gives me a sense that as given Gemini is being built from the ground up to be multimodal, I think that's an area that's going to excite users. And I go back many years ago when we did universal search, whenever -- for users, we can abstract different content types and put them in a seamless way. They tend to receive it well. And so, I'm definitely excited about what's ahead.
+
+Ruth Porat--Chief Financial Officer
+
+And on your second question, Brian, we are really pleased with the operating performance in the second quarter. We've been saying for some time that we are focused on revenue growth ahead of expense growth and achieved that for the first time in some time, and that is cost of sales plus operating expense overall. And we do remain very focused on durably reengineering our cost base. There are a lot of work streams that are in flight, and I mentioned a couple of them in opening comments.
+
+This remains a major priority as Sundar and I both commented on.
+
+Brian Nowak--Morgan Stanley -- Analyst
+
+Great. Thank you both.
+
+Operator
+
+Thank you. The next question comes from Eric Sheridan of Goldman Sachs. Please go ahead.
+
+Eric Sheridan--Goldman Sachs -- Analyst
+
+Thank you so much for taking the questions. Maybe one for Sundar and one also for Ruth. Sundar, can you talk a little bit about elements of open source versus closed and things like custom silicon and how you're thinking about AI offerings broadly developing over the next couple of years and what you see as some of the key differentiation points that Google, either through the cloud business or the consumer offerings, are going to bring to market, and how we should think about differentiation playing out to a greater degree in AI in the years ahead. That would be number one.
+
+Then, Ruth, I'll echo Brian's congrats as well on the new role. You know, maybe both of you could talk to why this type of role might be important at this point in time for Alphabet, and, Ruth, what you're looking to sort of drive into the organization from this new role as you move into it in the fall. Thanks.
+
+Sundar Pichai--Chief Executive Officer
+
+Thanks, Eric. On the first part, you know, obviously, a big topic. You know, I would broadly say the investments for AI, when you look at the type of deep computer science work, the talent we have worked hard to bring to the company, and from the ground up, the infrastructure we have built from the earliest days Google has been a company, we've thought about the switches in our data centers, wherever we think we can do the best and get an advantage by innovating. We have chosen to do so.
+
+We have done that on AI on the silicon side. But what's important to us is really, you know, stay focused on our users and customers and support all the innovations that's needed. So, for example, with cloud, we've been -- we really embraced open architecture. We have, you know, embraced customers wanting to be multi-cloud when it makes sense for them.
+
+So, similarly, you would see with AI, we will embrace -- you know, we will offer not just our first-party models, we'll offer third-party models, including open-source models. I think open source has a critical role to play in this ecosystem. Google contributes -- we are one of the largest contributors to -- if you look at hugging face and in terms of the contribution there, when you look at projects like Android, Chromium, and so on, Kubernetes, and so on. So, we'll embrace that, and we'll stay at the cutting edge of technology.
+
+And I think that'll serve us well for the long term. On the second part of your question, first of all, I'm very grateful and thankful to all the work that Ruth has done for the company. It's too invaluable to capture in words. I am super thrilled that she's going to continue on an impactful new role and at the scale of our company with the broad changes in technology.
+
+I think it's more important than ever before to engage on these issues globally at scale, you know, and advocate on the economic opportunity of the investments we make across Alphabet and Google. I'm glad that she's going to continue as CFO. And so, no changes there. And we'll take the time to find a successor.
+
+And Ruth will be closely involved not just on that, but also our long-range planning, including 2024. Ruth, anything to add?
+
+Ruth Porat--Chief Financial Officer
+
+Just to underscore, when you asked the point about impact, one of the places Sundar and I have discussed quite a bit is landing well the 2024 capital plan and the multiyear plan and completing all of the very important efforts we have underway. We're excited about what they mean, setting the company up well to be able to invest for long-term growth, and so we're continuing to execute against those. And then, I think Sundar summarized it well. We see technology can make such a difference in the lives of so many and the lives of economies.
+
+And to be able to focus on the impact on economic growth and the opportunity for people, for organizations, for countries, I think is a privilege. I'm really excited about it in particular with this amazing company. And so, focusing there as well as the investments that we make across Alphabet to drive economic growth globally across numerous sectors.
+
+Eric Sheridan--Goldman Sachs -- Analyst
+
+Great. Thank you.
+
+Operator
+
+Thank you. The next question comes from Doug Anmuth of JPMorgan. Please go ahead.
+
+Doug Anmuth--JPMorgan Chase and Company -- Analyst
+
+Thanks for taking questions, one for Sundar and one for Ruth. For Sundar, I'm curious, how do you think about timing for more broadly integrating generative AI into Search? And more specifically, what are some of the things you'll need to see to do that? And then, Ruth, just on capex, the 2Q capex lower than expected, as you explained, do you still expect modestly higher capex in '23 versus '22? And then, I know it's getting a little bit ahead, but how should we think about kind of timing of that real estate and office optimization efforts, you know, through '23 and then also into '24? Thanks.
+
+Sundar Pichai--Chief Executive Officer
+
+Look, on the Search generative experience, you know, we definitely wanted to make sure we're thinking deeply from first principles. While it's exciting new technology, we've constantly been bringing in, you know, AI innovations into search for the past few years, and this is the next step in the journey. But it is a big change, so we thought about from first principles. It really gives us a chance to now not always be constrained in the way Search was working before, allowed us to think outside the box.
+
+And, you know, I see that play out in the experience. So, I would say, you know, we are ahead of where I thought we'd be at this point in time. And the feedback has been very positive. We've just improved our efficiency pretty dramatically since the product launch.
+
+The latency has improved significantly. We are keeping a very high bar, but I would say we are ahead on all the metrics in terms of how we look at it internally, and so couldn't be more pleased with it. And so, you will see us continue to bring it to more and more users. And over time, this will just be how search works.
+
+And so, while, you know, we are taking deliberate steps, you know, we are building the next major revolution in search, and I'm pleased with how it's going so far.
+
+Ruth Porat--Chief Financial Officer
+
+In terms of capex, I tried to lay out sort of the cadence of capex and the point, what's an important one, that the sequential step-up in the second quarter was lower than anticipated for the two reasons I noted. One, the work that we're doing around office facilities, and then the delays in certain data center construction projects. But that's why we wanted to be really clear that we do expect elevated levels of investment in our technical infrastructure, and that would be increasing through the back half of 2023, consistent with the comments we've made previously that we had expected 2023 to be higher and given the slower start at the front half of the year and then continuing to grow into 2024. And the primary driver of this, as you know well, is to support the opportunities we see in AI across the company, including the investments that we've already talked about, proprietary TPUs, all that we're doing with GPUs, as well as data center capacity.
+
+And as we continue to see the pace of innovation accelerate, we just want to make sure we're positioned to address the opportunity across Alphabet. And to the other part of your question, when we look at real estate optimization, that's one of many work streams that are important when we talk about durably reengineering our cost base to create capacity for investments and support long-term sustainable financial value. And we're continuing to work against that.
+
+Doug Anmuth--JPMorgan Chase and Company -- Analyst
+
+Thank you both.
+
+Operator
+
+Thank you. The next question comes from Lloyd Walmsley of UBS. Please go ahead.
+
+Lloyd Walmsley--UBS -- Analyst
+
+Thanks a lot for taking the question. I wanted to just follow up on some of the SGE questions and just get a sense, I know it's early, but what are you seeing in terms of monetization? And how do you guys think about that as you scale up the deployment of SGE? Is that -- I think there's a lot of concern out there that maybe in the short term, it's a bit of a headwind, but over the longer term, maybe query growth from a more useful product can kind of make up for that. But how do you guys see that playing out, and what can you share there?
+
+Sundar Pichai--Chief Executive Officer
+
+Maybe I can give some color here. You know, we have obviously been focused on bringing this experience and making sure it works well for users. And it's very clear to me, first of all, as a user myself, there are certain queries for which the answers are so significantly better. It's a clear quality win.
+
+And so, I think we are definitely headed in the right direction, and we can see it in our metrics and the feedback we are getting from our users as well. And the thing that doesn't change with these experiences is that many -- you know, a lot of user journeys are commercial in nature that are inherent commercial user needs. And what's exciting to me is that SGE gives us an opportunity to serve those needs, again, better, right, and better. So, it's clearly an exciting area and as part of that, the fundamentals don't change.
+
+Users have commercial needs, and they are looking for choices, and there are merchants and advertisers looking to provide those choices. So, those fundamentals are true in SGE as well. And, you know, we have a number of experiments in flight, including ads. And we are pleased with the early results we are seeing.
+
+And so, you know, we will continue to evolve the experience, but I'm comfortable at what we are seeing. And we have a lot of experience working through these transitions, and we'll bring all those learnings here as well.
+
+Lloyd Walmsley--UBS -- Analyst
+
+All right, thank you.
+
+Operator
+
+Thank you. The next question comes from Justin Post of Bank of America. Please go ahead.
+
+Justin Post--Bank of America Merrill Lynch -- Analyst
+
+Great, thank you. I'll just ask about the Cloud. It really looks like revenue growth stabilized despite optimization. So, could you talk about the pipeline and the client wins in the quarter, how you feel about those? And then, any uptick are you seeing related to AI spending in the total revenues this quarter or in the second half? Thank you.
+
+Sundar Pichai--Chief Executive Officer
+
+Thanks, Justin. OK, it is an exciting moment overall in Cloud because there is definitely a lot of interest from customers on AI, and they definitely are engaging in many more conversations with us. So, I would say, you know, without commenting on the short term, but when I think about it long term, I view the AI opportunity as expanding our total addressable market and allows us to win new customers. You know, scale of investments that we can directly bring to Cloud now.
+
+As I said earlier, we have over 80 models across Vertex, enterprise search, and conversational AI. And we are taking all of them, translating it into deep industry solutions. So, you know, I'm excited about it. Second, it gives us an opportunity to upsell and cross-sell into our install base.
+
+So, for example, if you think about Duet AI in Google Workspace now, it's a collection of all our generative AI-powered collaboration features. We can bring it and make it available to more than 9 million paying Google Workspace customers. Similarly, Duet AI in Google Cloud, again, allows us to go back to our install base and engage in deeper conversations. Finally, I think AI helps us differentiate our core products.
+
+For example, if you take a look at cybersecurity, we are deeply incorporating AI to drive profound changes there. Overall, I'm excited, and I view this as a long-term opportunity. And all the investments we are doing in AI across Alphabet, including, you know, the work we are doing in Google DeepMind and Google Research on Gemini and so on are directly applicable to cloud as well. So, excited about it.
+
+Justin Post--Bank of America Merrill Lynch -- Analyst
+
+Great, thank you. Maybe one follow-up for Ruth. Did the infrastructure cloud grow faster than Workspace again this quarter?
+
+Ruth Porat--Chief Financial Officer
+
+So, we -- I don't think we commented on that. Yes, in the second quarter, GCP growth was above the growth rate for cloud overall.
+
+Justin Post--Bank of America Merrill Lynch -- Analyst
+
+Great, thank you.
+
+Operator
+
+Thank you. The next question comes from Michael Nathanson of MoffettNathanson. Please go ahead.
+
+Michael Nathanson--MoffettNathanson -- Analyst
+
+Thanks. I have one for Philipp, one for Sundar. Philipp, can you talk about the ad market? If you step back, you're seeing real signs now of weakness in linear TV. Ad agencies, smaller digital companies are all slowing.
+
+And the macro backdrop is definitely cloudy. Yet, you guys have accelerated your growth this quarter. What factors are you looking at -- do you see that would identify why are you growing while others are really struggling and slowing down? And then, Sundar, I think you spent over $100 billion on R&D over the past five years, and yet there's a narrative that it's so competitive and so expensive to compete going forward. Can you talk a bit about how you're revisiting that R&D spend? Any near-term cadence updates you can give us for growth? And any factors that could change the growth going forward for research and development spending for you guys? Thanks.
+
+Sundar Pichai--Chief Executive Officer
+
+Maybe I can comment on how we think about R&D. And look, if anything, I think, two things. We are always committed to driving deep computer science research and innovation. That's the foundation on which the company is built.
+
+And taking that and applying it and building new products and services and generating value is the virtuous cycle. And if nothing changes in that fundamental thesis, we are definitely, you know, both -- you know, as Ruth mentioned on AI investments, we are going to be committed to making sure we invest, realize the opportunity. But all the work we are doing on efficiency and optimization applies to -- on the AI side as well. So, we are bringing all that lens there so that we do this responsibly.
+
+But no overall changes in our philosophy or approach there. Maybe I'll let Philipp comment on the overall market dynamics.
+
+Philipp Schindler--Senior Vice President and Chief Business Officer
+
+Yes. Look, I can't comment on others, but our focus continues obviously to be helping customers through whatever uncertainty or complexity they're facing. And a lot of companies are focused on profitability, driving efficiencies, and they're carefully evaluating the effectiveness of their budgets. And our goal is really to help them maximize efficiency and drive stronger ROI.
+
+And I think we have the proven AI power tools and solutions to actually do it. I called out Search and other revenues being led by solid growth in the retail vertical. We talked about the DR and brand side on the YouTube side. I think those are the key points I would make.
+
+Michael Nathanson--MoffettNathanson -- Analyst
+
+Thank you.
+
+Operator
+
+Thank you. The next question comes from Ken Gawrelski of Wells Fargo. Please go ahead.
+
+Ken Gawrelski--Wells Fargo Securities -- Analyst
+
+Yes, thank you so much for the opportunity. I appreciate that. Can I ask on Performance Max? You've had great success there. Could you talk about any vertical or use case expansions? And how long until we possibly get to the point of more automated AI-generated creative and production?
+
+Philipp Schindler--Senior Vice President and Chief Business Officer
+
+Yeah, look, this is a great question. AI is a foundational component that really allows us to help users, advertisers, pubs, partners at scale. And we've been on a journey for years to take the key components of advertising, whether it's bidding, targeting, and creatives, as well as innovation, frankly, in the core advertiser and publisher experiences, and improve them dramatically through AI. And Performance Max is an example of how all this comes together at scale for advertisers.
+
+They provide us with a business goal, a set of assets, and we can then take care of the rest to meet consumer demand and really deliver on advertiser ROI. As you heard at GML, we've seen over many quarters, we continue to build new AI features really on top of this. I think I talked a bit in my prepared remarks about where we're taking some of our products from a gen AI perspective. And if you take a look at some of the things we announced there, it's fair to say, whether you look at our revamped asset creation flow and Performance Max, whether you look at automatically created assets, whether you look at product studio and so on, then we're on a right path to deliver some really exciting new innovation in automated, let me call it, asset creation in the broader sense.
+
+Ken Gawrelski--Wells Fargo Securities -- Analyst
+
+Thank you.
+
+Operator
+
+Thank you. Our last question comes from Mark Mahaney of Evercore. Please go ahead.
+
+Mark Mahaney--Evercore ISI -- Analyst
+
+OK. Actually, I'll follow up on that last question, Philipp. You pointed out AI's been used to improve the advertising mousetrap at Google, you know, for many years. Do you view generative AI as just a material accelerant of your ability to improve return on ad spend for the millions of marketers who use Google? And if you think about where generative AI would have the most impact, could you peel it apart? What's your guess now, over the next couple of years, where it's going to have the most impact on the creative, on the audience creation, on the campaign optimization? Where do you think the most impact will come from generative AI just for all the -- you're advertising customers? Thanks.
+
+Philipp Schindler--Senior Vice President and Chief Business Officer
+
+Well, look, as I said earlier, generative AI is supercharging new and existing ads, products with really tons of potential ahead. And we're really helping advertisers here make better decisions, solve problems, enhance creativity. And I covered this earlier. For example, we launched a new conversational experience in Google Ads, the asset creation flow, in PMax, I mentioned the automatically created assets, the product studio, and so on.
+
+When I talk to customers, they're very excited about AI and understandably have some questions. One of the top questions is, for example, what's the next best step I should take? And this is a key reason why we launched our Google Ads AI Essentials, which was a big announcement at GML. It's a checklist of simple steps customers can take right now to unlock the power of AI. And it has to do with the foundation of data and measurement.
+
+It has to do with taking action with our AI products. And it really is a mindset shift to set up organizations for AI success. So, those are just some of the examples. If you extrapolate those going forward, those are some of the examples where I see a lot of upside, apart from the points that Sundar already mentioned.
+
+Sundar Pichai--Chief Executive Officer
+
+And I think all of this is before we have multimodal capabilities really in the mix. And so, looking at the early innovations there, I think it's going to be an exciting couple of years ahead. Thanks, Mark.
+
+Mark Mahaney--Evercore ISI -- Analyst
+
+Thank you, Sundar. Thank you, Philipp. Congratulations, Ruth.
+
+Operator
+
+Thank you. And that concludes our question-and-answer session for today. I'd like to turn the conference back over to Jim Friedland for any further remarks.
+
+Jim Friedland--Director, Investor Relations
+
+Thanks, everyone, for joining us today. We look forward to speaking with you again on our third quarter 2023 call. Thank you, and have a good evening.

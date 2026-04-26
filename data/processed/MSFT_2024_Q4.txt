@@ -1,0 +1,161 @@
+Thank you very much and congrats on a great year -- fiscal year ending. A question for you, Amy. When you look at the capex, how do you ring efficiencies out of the capex? You've disclosed that 50% of the infrastructure, the other 50% tech, is very useful. So, in other words, do you have to keep growing capex at these elevated rates? Or could you slow down capex and still get that consistent revenue growth rate in your Azure and Generative AI? That's the main question in my mind.
+
+Thank you so much.
+
+Amy E. Hood--Executive Vice President, Chief Financial Officer
+
+Thanks, Kash. That's a very good question. There's really two pieces, I think, as I heard your question that I would reflect on. The first is, could we see sort of consistent revenue growth without maybe what you would say is more of this sort of elevated capital expense number or something that continues to accelerate? And the answer to that is yes because there's two different pieces, right? You're seeing half of this go toward long-term builds that Satya mentioned, the pace at which we fill those builds with CPUs or GPUs will be demand-driven.
+
+And so, if we see differences in demand signal, we can throttle that investment on the CPU side, which we've done for I guess, a long time at this point, as I reflect, and we'll use all that same learning and demand signal understanding to do the same thing on the GPU side. And so, you're right that you could see relatively consistent revenue patterns and yet see these inconsistencies and capital spend quarter to quarter. The other thing I would note, Kash, is you'll also notice there's a growing distinction between our capex number, and on occasion, the cash that we pay for PP&E and you're going to start to see that more often in this period because it happens when we use leases. Leases sort of show up all at once.
+
+And so, you'll see a little bit more volatility. I've mentioned that in my comments before, but I'll mention it again just because you're starting to see that distinction in my comments and hopefully that's helpful context.
+
+Satya Nadella--Chair and Chief Executive Officer
+
+Just one other thing, Amy, if I want to add. I think as people think about capital spend, I think it's important to separate out leases from build. And when it comes to build, I think it's important for us to think about -- we think about it in terms of what's the total percentage of cost that goes into each line item, land which obviously has a very different duration and a very different lead time. So, those are the other two considerations.
+
+We think about lead time and duration of the asset. Land, network, construction, the system or the kit and then the ongoing cost. And so, if you think about it that way, then you know how to even adjust, if you will, the capital spend based on demand signal.
+
+Kash Rangan--Analyst
+
+Thank you. It was triggered by the jump in capex. And as Amy pointed out, you're guiding to accelerating Azure revenue growth rate, which, I guess, follows the capex surge. Thank you so much once again.
+
+Brett Iversen--Vice President, Investor Relations
+
+Thanks, Cash.
+
+Operator
+
+The next question comes from the line of Brent Thill with Jefferies. Please proceed.
+
+Brent Thill--Analyst
+
+Thanks. Amy, the magnitude to beat this quarter was a little lower than we've seen in the past. Was there anything unusual on sales cycle that close rate that you saw off? Thanks.
+
+Amy E. Hood--Executive Vice President, Chief Financial Officer
+
+Thanks, Brent. Actually, no. As I was talking on the quarter, I mean Commercial bookings were much better than we expected going into the quarter. Commitments were very good execution across both the core sort of annuity renewal motion was good, as expected, the larger long-term commitments were better than we expected.
+
+So, Brent, I would not say there was anything really unusual in how I thought about what we saw in our commercial execution through the quarter.
+
+Brent Thill--Analyst
+
+Thank you.
+
+Brett Iversen--Vice President, Investor Relations
+
+Thanks, Brent.
+
+Operator
+
+The next question comes from the line of Karl Keirstead with UBS. Please proceed.
+
+Karl Keirstead--Analyst
+
+OK. Great. So, maybe I'll direct this to Amy. Amy, I know when you set your Azure guidance, you're always looking to meet or beat the high end the 30% you put up in the June quarter, amazing number given the scale of Azure, but it did come in at the low end of your range.
+
+And I'd just love for you to maybe elaborate on the delta. I guess as I reflect on what you said in your comments, there's two things that I heard you say. One, it sounded like there's persistent capacity constraints that you think might get alleviated in the second half. And then secondly, you mentioned perhaps some modest softness in Europe.
+
+I presume that's a little bit more economic rather than Azure-specific. Is that the right way to frame the performance in the quarter? Thank you.
+
+Amy E. Hood--Executive Vice President, Chief Financial Officer
+
+Thanks, Karl. Yes, that's exactly right. Maybe I'll just repeat it, just so people can hear it in my words as well to that 30% to 31% guide for Q4 and coming in at the lower end of 30%. You're exactly right.
+
+The distinguishing between being at the higher end or at the lower end, really was some softness we saw in a few European geos on non-AI consumption really made the difference in that number. And we've assumed that going forward into H1 inclusive of my guide 28% to 29% going forward. And then let me separate which was your larger point, which is what are the other factors you see ongoing. Number one, you're right, capacity constraints, particularly on AI and Azure will remain in Q4 and will remain in H1.
+
+So, hopefully, that's helpful.
+
+Karl Keirstead--Analyst
+
+Yeah. Thank you, Amy.
+
+Brett Iversen--Vice President, Investor Relations
+
+Thanks, Karl.
+
+Operator
+
+The next question comes from the line of Brad Zelnick with Deutsche Bank. Please proceed.
+
+Brad Zelnick--Analyst
+
+Great. Thank you very much. Amy, with Azure demand, once again greater than available capacity, I appreciate the capex investments and the build-out and acceleration you expect in the back half. But as we think about Cloud capacity and AI services specifically, can you talk about both the near-term and long-term strategy around the AI partnerships that you're signing with the likes of Oracle and Cohere, for example? Thank you.
+
+Amy E. Hood--Executive Vice President, Chief Financial Officer
+
+Thanks, Brad. Maybe separate a couple of things. We've talked about now for quite a few quarters, we are constrained on AI capacity. And because of that, actually, we've, to your point, have signed up with third parties to help us as we are behind with some leases on AI capacity.
+
+We've done that with partners who are happy to help us extend the Azure platform, to be able to serve this Azure AI demand. And you do see us investing quite a bit as we've talked about in builds so that we can get back in a more balanced place.
+
+Satya Nadella--Chair and Chief Executive Officer
+
+Yes. I mean, to me, it's no different than leases that we would have done in the past. Even say sometimes buying from Oracle, maybe even more efficient leases because they're even shorter date.
+
+Brad Zelnick--Analyst
+
+Excellent. Thanks for the color.
+
+Brett Iversen--Vice President, Investor Relations
+
+Thanks, Brad.
+
+Operator
+
+The next question comes from the line of Mark Murphy with JPMorgan. Please proceed.
+
+Mark Murphy--JPMorgan Chase and Company -- Analyst
+
+Thank you very much. With a couple of quarters of Copilot for M365 availability under your belt now, how are you assessing the capability of Copilots to replicate the productivity gains that they've created for developers, which seem to be very high, and to do something similar for the broader population of knowledge workers? For instance, you're mentioning the 10,000 feet deals, the repeat purchases, is it possible to eventually see Copilot penetration rates equally high in Office as they will be in GitHub?
+
+Satya Nadella--Chair and Chief Executive Officer
+
+Yeah, that's a great question. In fact, the GitHub design system and the GitHub Copilot workspace design system, which now, for example, you start with an issue, you create a plan, from a plan, you create a spec, or you create a spec and from a spec, you create a plan and then you go operate across the full repo. That's effectively the design system that is getting replicated inside of even the M365 Copilot. And you see this even now -- for example, you get an email, you're in sales, you want to respond to the customer.
+
+The data from the email is essentially context for a prompt but you expand by bringing in all of your CRM data, right? So, this customer email is in the context of some order, all of the CRM record gets completed in context and a reply gets generated with the CRM data. That's the type of stuff that's already happening. Then you take something like Copilot Studio, you can start even grounding it in more data and then completing workflows. So, you could say that this email comes from a customer whose order date has a particular issue with it.
+
+You can then go and escalate it to somebody else who gets a notification in Teams. And those are the kinds of workflows that are getting built within IT or by end users themselves, what used to be line of business applications to us are Copilot extensions going forward. So, we think of this as really a new design system for knowledge and frontline work to drive productivity, which would be very akin to what has happened in software engineering. So, when you think about marketing or finance or sales or customer service, we will effectively replicate what you just said, which is the type of productivity we've seen in developers, will come to all of these functions as they think about their work, workflow, and work artifact, all being driven by Copilots.
+
+Mark Murphy--JPMorgan Chase and Company -- Analyst
+
+Thank you very much.
+
+Brett Iversen--Vice President, Investor Relations
+
+Thanks, Mark. Operator, we have time for one last question.
+
+Operator
+
+And the last question will come from the line of Keith Bachman with BMO Capital Markets. Please proceed.
+
+Keith Bachman--Analyst
+
+Hi. Good evening, and thank you for the opportunity to ask the question. I actually wanted to veer toward gaming, if I could, for a second. Xbox Content Services revenue grew 61%, 58 points held from Activision.
+
+So, net is about 3 points of growth. How should investors think about the longer-term growth potential in this area? You've made significant investments, including the Activision deal. But how should investors be thinking about the growth potential of gaming? Or what are the puts and takes to help make considerations here? Thank you.
+
+Satya Nadella--Chair and Chief Executive Officer
+
+Yeah. For us, our investment in gaming fundamentally was to have, I would say, the right portfolio of both what we love about gaming and always have loved about gaming, which is Xbox, and the content for the console and expand from there so that we have content for everywhere people play games, starting with the PC. So, when I think about the Activision portfolio, it comes with great assets for us to cover both the PC and the console. And then, of course, assets to cover mobile sockets, which we never have.
+
+So, we feel that now we have both the content and the ability to access all the traditional high-scale platforms where people play games, which is the console, PC, and mobile. But we're also excited about these new sockets, right? I mean the fact that even in this last quarter, we expanded X Cloud to Amazon TV, I forget the name of what it's called. But that's the type of new access that really helps us a lot, reach new gamers or the same gamer everywhere they want to play. And that ultimately will show up in that software plus services and transaction revenue for us, which is really our long-term KPI, and that's what we're building toward.
+
+And that was the strategy behind Activision as an asset. Amy, if you want to add to it?
+
+Amy E. Hood--Executive Vice President, Chief Financial Officer
+
+No, I do think the real goal here is to be able to take a broad set of content to more users in more places, and really build what looks more like to us, the software annuity and subscription business. with enhanced transactions and the ownership of IP, which is quite valuable long term. As Satya mentioned, things were with the ownership of IP, it can be monetized in multiple ways. And I think we're really encouraged by some of the progress and how we're making progress with Game Pass as well with some of the new announcements.
+
+Thank you, Keith.
+
+Brett Iversen--Vice President, Investor Relations
+
+Thanks, Keith. That wraps up the Q&A portion of today's earnings call. Thank you for joining us today, and we look forward to speaking with all of you soon.
+
+Amy E. Hood--Executive Vice President, Chief Financial Officer
+
+Thank you.
+
+Satya Nadella--Chair and Chief Executive Officer
+
+Thank you, all.

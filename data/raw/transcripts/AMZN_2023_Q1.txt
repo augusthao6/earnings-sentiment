@@ -1,0 +1,2164 @@
+EX-99.1
+2
+amzn-20221231xex991.htm
+EX-99.1
+Document
+Exhibit 99.1
+AMAZON.COM ANNOUNCES FOURTH QUARTER RESULTS
+SEATTLE—(BUSINESS WIRE) February 2, 2023—Amazon.com, Inc. (NASDAQ: AMZN) today announced financial results for its fourth quarter ended December 31, 2022.
+Fourth Quarter 2022
+•
+Net sales
+increased 9% to $149.2 billion in the fourth quarter, compared with $137.4 billion in fourth quarter 2021. Excluding the $5.0 billion unfavorable impact from year-over-year changes in foreign exchange rates throughout the quarter, net sales increased 12% compared with fourth quarter 2021.
+•
+North America segment sales increased 13% year-over-year to $93.4 billion, or increased 14% excluding changes in foreign exchange rates.
+•
+International segment sales decreased 8% year-over-year to $34.5 billion, or increased 5% excluding changes in foreign exchange rates.
+•
+AWS segment sales increased 20% year-over-year to $21.4 billion.
+•
+Operating income
+decreased to $2.7 billion in the fourth quarter, compared with $3.5 billion in fourth quarter 2021. Fourth quarter 2022 operating income includes approximately $2.7 billion of charges for changes in estimates related to self-insurance liabilities, impairments of property and equipment and operating leases, and estimated severance costs. These charges primarily impacted the North America segment.
+•
+North America segment operating loss was $0.2 billion, compared with operating loss of $0.2 billion in fourth quarter 2021.
+•
+International segment operating loss was $2.2 billion, compared with operating loss of $1.6 billion in fourth quarter 2021.
+•
+AWS segment operating income was $5.2 billion, compared with operating income of $5.3 billion in fourth quarter 2021.
+•
+Net income
+decreased to $0.3 billion in the fourth quarter, or $0.03 per diluted share, compared with $14.3 billion, or $1.39 per diluted share, in fourth quarter 2021. All share and per share information for comparable prior year periods throughout this release have been retroactively adjusted to reflect the 20-for-1 stock split effected on May 27, 2022.
+•
+Fourth quarter 2022 net income includes a pre-tax valuation loss of $2.3 billion included in non-operating income (expense) from the common stock investment in Rivian Automotive, Inc., compared to a pre-tax valuation gain of $11.8 billion from the investment in fourth quarter 2021.
+Full Year 2022
+•
+Net sales
+increased 9% to $514.0 billion in 2022, compared with $469.8 billion in 2021. Excluding the $15.5 billion unfavorable impact from year-over-year changes in foreign exchange rates throughout the year, net sales increased 13% compared with 2021.
+•
+North America segment sales increased 13% year-over-year to $315.9 billion.
+•
+International segment sales decreased 8% year-over-year to $118.0 billion, or increased 4% excluding changes in foreign exchange rates.
+•
+AWS segment sales increased 29% year-over-year to $80.1 billion.
+•
+Operating income
+decreased to $12.2 billion in 2022, compared with $24.9 billion in 2021.
+•
+North America segment operating loss was $2.8 billion, compared with operating income of $7.3 billion in 2021.
+•
+International segment operating loss was $7.7 billion, compared with operating loss of $0.9 billion in 2021.
+•
+AWS segment operating income was $22.8 billion, compared with operating income of $18.5 billion in 2021.
+•
+Net loss
+was $2.7 billion in 2022, or $0.27 per diluted share, compared with net income of $33.4 billion, or $3.24 per diluted share, in 2021.
+•
+2022 net loss includes a pre-tax valuation loss of $12.7 billion included in non-operating income (expense) from the common stock investment in Rivian Automotive, Inc., compared to a pre-tax valuation gain of $11.8 billion from the investment in 2021.
+•
+Operating cash flow
+increased 1% to $46.8 billion for the trailing twelve months, compared with $46.3 billion for the trailing twelve months ended December 31, 2021.
+•
+Free cash flow
+decreased to an outflow of $11.6 billion for the trailing twelve months, compared with an outflow of $9.1 billion for the trailing twelve months ended December 31, 2021.
+•
+Free cash flow less principal repayments of finance leases and financing obligations
+increased to an outflow of $19.8 billion for the trailing twelve months, compared with an outflow of $20.4 billion for the trailing twelve months ended December 31, 2021.
+•
+Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations
+increased to an outflow of $12.8 billion for the trailing twelve months, compared with an outflow of $14.3 billion for the trailing twelve months ended December 31, 2021.
+“Our relentless focus on providing the broadest selection, exceptional value, and fast delivery drove customer demand in our Stores business during the fourth quarter that exceeded our expectations—and we’re appreciative of all our customers who turned to Amazon this past holiday season,” said Andy Jassy, Amazon CEO. “We’re also encouraged by the continued progress we’re making in reducing our cost to serve in the operations part of our Stores business. In the short term, we face an uncertain economy, but we remain quite optimistic about the long-term opportunities for Amazon. The vast majority of total market segment share in both Global Retail and IT still reside in physical stores and on-premises datacenters; and as this equation steadily flips, we believe our leading customer experiences in these areas along with the results of our continued hard work and invention to improve every day, will lead to significant growth in the coming years. When you also factor in our investments and innovation in several other broad customer experiences (e.g. streaming entertainment, customer-first healthcare, broadband satellite connectivity for more communities globally), there’s additional reason to feel optimistic about what the future holds.”
+Highlights
+Obsessing over the customer experience
+Amazon obsesses over how to make customers’ lives better and easier every day. This is true for consumers, sellers, brands, developers, enterprises, and creators. For example, in the past quarter, Amazon:
+•
+Had a record-breaking holiday season with customers purchasing nearly half a billion items from small businesses in the U.S. During Amazon’s biggest Thanksgiving-through-Cyber-Monday holiday shopping weekend ever, customers around the world purchased hundreds of millions of products, and small businesses in the U.S. generated more than $1 billion in sales over the five-day period.
+•
+Made Same-Day Delivery even faster in major metropolitan areas in the U.S., such as Los Angeles, San Francisco, Phoenix, Sacramento, and Portland, Oregon, where customers can now receive hundreds of thousands of items within hours. Amazon’s new Same-Day Delivery site in Sacramento is set to be the world’s first logistics facility certified as Zero Carbon by the International Living Future Institute. In the EU, Same-Day Delivery is now available in Belgium.
+•
+Attracted more than 100 million viewers worldwide to the first season of
+The Lord of the Rings: The Rings of Power
+, making it the most watched Amazon Original series in every region of the world, with more than 24 billion minutes streamed, and driving more Prime sign-ups worldwide during its launch window than any previous Prime Video content. Amazon Studios also announced the all-female slate of directors—Charlotte Brändström, Sanaa Hamri, and Louise Hooper—for Season Two of
+The Lord of the Rings: The Rings of Power
+, which is currently in production in the UK.
+•
+Finished the
+Thursday Night Football (TNF)
+season with the youngest median age of any NFL broadcast package since 2013 and viewership up 11% from last season among hard-to-reach 18- to 34-year-olds, according to Nielsen Media Research.
+TNF
+featured the most streamed NFL games ever, with an average audience of 11.3 million viewers, according to combined data from Amazon’s first-party measurement metrics and Nielsen Media Research. Prime Video also made history as the first streamer to place on
+Variety’s
+Top 100 Primetime Telecasts of 2022, with four of its
+TNF
+telecasts making the list.
+•
+Premiered several Original series and films, including Western drama
+The English
+, with Emily Blunt;
+family-friendly competition show
+Dr. Seuss Baking Challenge
+;
+My Policeman
+,
+starring Harry Styles;
+and documentary
+Good Night Oppy
+. Prime Video also released new seasons of existing series, including the fourth volume of Rihanna’s annual fashion experience
+Savage X Fenty
+and the third season of
+Tom Clancy’s Jack Ryan
+, starring John Krasinski.
+Wednesday
+, an MGM-produced series on Netflix, debuted at No. 1 on Nielsen’s weekly streaming charts and earned Golden Globe nominations for Best Musical or Comedy Series and Best Actress in a Musical or Comedy Series (Jenna Ortega).
+•
+Brought HBO back to Prime Video Channels in the U.S., after reaching an agreement with Warner Bros. Discovery. For $15.99 per month, customers who subscribe to HBO Max have access to approximately 15,000 hours of curated premium content.
+•
+Announced new commitments and migrations from AWS customers.
+•
+Nasdaq completed the migration of its MRX core trading system to the cloud, delivering a 10% performance improvement for market participants and marking a major milestone in Nasdaq’s journey to deliver the first cloud-based U.S. options exchange.
+•
+NFL and AWS announced the NFL Contact Detection Challenge, which invites experts to use machine learning (ML) and computer vision to predict and prevent injuries.
+•
+Yahoo Ad Tech selected AWS as its preferred cloud provider to develop tailored and immersive solutions for brands to better connect with their audiences.
+•
+Stability AI selected AWS as its preferred cloud provider to build and train artificial intelligence (AI) models for the best performance at the lowest cost.
+•
+Descartes Labs is going all-in on AWS to give customers timely, actionable insights to tackle challenges like enhancing food security and mitigating climate change.
+•
+Brookfield Asset Management selected AWS as a preferred cloud provider to advance renewable energy use globally.
+•
+Duke Energy is working with AWS on smart grid solutions to improve reliability and resiliency in preparation for rapid electric vehicle adoption.
+•
+Wallbox migrated to AWS, enabling customers to return excess energy to the grid and reducing the company’s IT costs by 70%.
+•
+American Family Insurance named AWS as its preferred cloud provider to unlock personalized service and security for its 13.1 million policyholders.
+•
+Launched AWS Regions in Spain and Switzerland as well as a second Region in India to continue expanding AWS’s infrastructure footprint, delivering the most secure, extensive, and reliable cloud technology to millions of customers around the world. As of the end of 2022, AWS has 96 Availability Zones within 30 geographic Regions globally, with announced plans to launch 15 more Availability Zones and five more AWS Regions.
+•
+Expanded the AWS Partner Network to help customers accelerate innovation in their organizations and speed their journey to the cloud. Professional services company Accenture launched a platform that helps customers drive business outcomes up to 50% faster on AWS. Atos, a provider of managed infrastructure services, will collaborate with AWS to enable customers with large-scale infrastructure outsourcing contracts to accelerate digital transformation and workload migrations to the cloud. Global business and technology consulting company Slalom will develop vertical solutions and accelerators on AWS for joint customers.
+Inventing on behalf of customers
+Amazon is driven by a passion for invention across all of its business areas. The company builds new products and services that customers ask for, and also invents new ones that customers didn’t know they wanted but make their lives or businesses better in some meaningful way. For example, this past quarter, Amazon:
+•
+Expanded Buy with Prime to all eligible U.S. merchants, letting more merchants offer Prime customers fast, free delivery, a seamless checkout experience, and easy returns on their websites. Data shows that shopper conversion increases an average of 25% when merchants use Buy with Prime. Amazon also introduced a capability for Buy with Prime merchants to display customer reviews from Amazon.com within their own online stores and announced an integration with BigCommerce, an ecommerce platform, that will help merchants easily enable Buy with Prime on their storefronts with no coding required.
+•
+Introduced Sparrow into the company’s first fulfillment center. Sparrow is a robotic system that can detect, select, and handle individual products in Amazon’s inventory—a major technological advancement that allows employees to shift their time and energy to other tasks. Sparrow also improves health and safety by reducing the repetitive tasks done by employees.
+•
+Delivered the 10 millionth package using electric delivery vehicles from Rivian, custom-designed from the ground up with input from delivery services providers and their drivers. With thousands of miles driven, drivers have said the vehicle design and features make their jobs easier and more comfortable, the driving experience is improved, and they feel safe while driving. Amazon plans to have 100,000 electric delivery vehicles from Rivian on the road by 2030, saving millions of metric tons of carbon per year.
+•
+Launched Amazon Clinic, a message-based virtual health service that delivers convenient, personalized, affordable care for more than 20 common conditions. Amazon Clinic lets customers choose from a network of leading telehealth providers based on their preferences. Amazon also recently launched RxPass, a new Prime membership benefit from Amazon Pharmacy that offers access to unlimited eligible prescription medications for only $5 per month including free shipping. Amazon’s mission in healthcare is to make it dramatically easier for anyone to find, choose, and afford what they need to get and stay healthy.
+•
+Announced AWS Graviton3E chips, which deliver the best price performance for high performance computing workloads on AWS; new AWS Nitro Cards, which deliver the highest network bandwidth, the highest packet rate performance, and the best price performance for network-intensive workloads; and Inf2 instances, powered by AWS Inferentia2 chips, which deliver the lowest latency at the lowest cost for ML inference on Amazon EC2.
+•
+Announced Amazon Security Lake, a service that automatically centralizes an organization’s security data from cloud and on-premises sources into a purpose-built data lake in a customer’s AWS account so customers can act on security data faster.
+•
+Announced Amazon DataZone, a new data management service that unlocks customer data across organizational boundaries, including the cloud, on-premises infrastructure, and third-party SaaS applications. With AWS DataZone, customers can catalog, discover, and share data with governance and access controls.
+•
+Announced AWS Supply Chain, an application that helps businesses increase supply chain visibility to make faster, more-informed decisions that mitigate risks, lower costs, and improve customer experiences.
+•
+Announced AWS SimSpace Weaver, a fully managed simulation service that helps customers build, operate, and run large-scale spatial simulations. With AWS SimSpace Weaver, customers can deploy spatial simulations to model dynamic systems with many data points, like traffic patterns across an entire city, crowd flows in a venue, or factory floor layouts, and use the simulations to visualize physical spaces, perform immersive training, and garner insights on different scenarios to make informed decisions.
+•
+Announced AWS Clean Rooms, which helps companies across industries easily and securely analyze and collaborate on combined datasets without sharing or revealing underlying data. AWS Clean Rooms provide a broad set of built-in data access controls to protect sensitive data, while allowing customers to create secure data clean rooms to generate unique insights about advertising campaigns, investment decisions, clinical research, and more.
+•
+Launched Inspire, a feed in the U.S. Amazon shopping app with content from customers, influencers, and brands to help customers discover products personalized for their selected interests.
+•
+Partnered with Snapchat to launch an augmented reality shopping experience that allows millions of Snapchatters to digitally try-on thousands of Amazon eyewear styles via Snapchat and seamlessly purchase those items in the Amazon store. This experience is enabled by Amazon’s 3D Asset technology, which easily integrates with third-party apps like Snapchat, to provide 3D assets for augmented reality-based shopping and dynamically supply up-to-date product details, pricing, and availability.
+Empowering employees and delivery service partners
+In addition to its focus on customers, Amazon strives to make every day better for its employees and delivery service providers. For example, in the fourth quarter, the company:
+•
+Surpassed 100,000 participants in Career Choice, an education benefit that empowers employees to learn new skills for career success through a range of options, including prepaid college tuition, foundational skills training, and industry certifications. In 2022 in the U.S., the company celebrated 3,000 graduates of its new English language proficiency program.
+•
+Continued to make its workplace more accessible and inclusive for employees who are deaf and hard of hearing. For example, Amazon rolled out new video stations over the past year at more than 200 sites across eight countries in North America and Europe to help employees learn the basics of sign language for their region and improve communication with colleagues who are deaf and hard of hearing.
+•
+Expanded the Amazon Mentoring Program to support new people managers with opportunities to receive mentoring from experienced Amazon people managers and develop the foundational skills to be an effective people leader. Since its launch, the program grew from 18,800 employees in 2016 to over 159,000 employees in 2022.
+•
+Launched a new Alexa feature where customers can say “Alexa, thank my driver” to an Alexa-enabled device, the Alexa app, or the Amazon mobile shopping app, and the driver who delivered their most recent package would be notified. Nearly 8 million “thank yous” have been received.
+Supporting communities and protecting the environment
+Amazon believes that success and scale bring broad responsibility to help the planet, future generations, and local communities in which the company has a significant presence. Amazon employees have passion for investing in these areas, and a sampling of the efforts from this past quarter are that Amazon:
+•
+Advanced its goal to decarbonize its transportation network globally. For example, Amazon partnered with TVS Motor Company to deploy a fleet of electric two-wheelers and three-wheelers for last mile deliveries in India. The agreement is part of Amazon’s plan to bring 10,000 electric delivery vehicles to India by 2025.
+•
+Released a report detailing Amazon’s progress and methods to reduce packaging, including through the use of innovative technologies, processes, and materials. Since 2015, these efforts have helped reduce the weight of packaging per shipment by 38% and eliminated the use of more than 1.5 million tons of packaging materials. Amazon continues to take steps to reduce single-use plastics in outbound packaging, recently announcing that it reduced average plastic packaging weight per shipment by over 7% in 2021 across its global operations network.
+•
+Unveiled its largest on-site solar energy installation in Europe at a fulfillment center in Seville, Spain that is fitted with more than 13,300 solar panels and is expected to produce more than 6 million kilowatt hours per year—enough energy to power the equivalent of more than 1,500 Spanish homes annually.
+•
+Set a goal for AWS to be water positive by 2030, returning more water to communities than it uses in its direct operations, and announced that it achieved an industry-leading 2021 global water use efficiency metric of 0.25 liters of water per kilowatt-hour.
+•
+Signed a memorandum of understanding confirming AWS’s continued cooperation in 2023 with the Ukraine government. Since the start of the war, AWS has played a crucial role in helping the Ukraine government maintain continuity and provide critical services to its citizens. To date, Amazon has committed more than $75 million in support to help the people of Ukraine address immediate and long-term needs.
+•
+Released its latest Community Impact Report, which detailed program milestones, including 85 million pounds of food donated through a partnership with Feeding America; 20 million relief items donated to date; $1.6 billion invested to create or preserve more than 11,000 affordable homes through Amazon’s Housing Equity Fund; computer science education provided to 600,000 students across 5,000 schools through Amazon Future Engineer; and $96 million donated to more than 190 nonprofits in the Puget Sound, Washington region in 2021, making it the Seattle area’s top corporate philanthropist that year.
+Financial Guidance
+The following forward-looking statements reflect Amazon.com’s expectations as of February 2, 2023, and are subject to substantial uncertainty. Our results are inherently unpredictable and may be materially affected by many factors, such as uncertainty regarding the impacts of the COVID-19 pandemic, fluctuations in foreign exchange rates, changes in global economic and geopolitical conditions and customer demand and spending (including the impact of recessionary fears), inflation, interest rates, regional labor market and global supply chain constraints, world events, the rate of growth of the Internet, online commerce, and cloud services, and the various factors detailed below.
+First Quarter 2023 Guidance
+•
+Net sales are expected to be between $121.0 billion and $126.0 billion, or to grow between 4% and 8% compared with first quarter 2022. This guidance anticipates an unfavorable impact of approximately 210 basis points from foreign exchange rates.
+•
+Operating income is expected to be between $0 and $4.0 billion, compared with $3.7 billion in first quarter 2022.
+•
+This guidance assumes, among other things, that no additional business acquisitions, restructurings, or legal settlements are concluded.
+A conference call will be webcast live today at 2:30 p.m. PT/5:30 p.m. ET, and will be available for at least three months at amazon.com/ir. This call will contain forward-looking statements and other material information regarding the Company’s financial and operating results.
+These forward-looking statements are inherently difficult to predict. Actual results and outcomes could differ materially for a variety of reasons, including, in addition to the factors discussed above, the amount that Amazon.com invests in new business opportunities and the timing of those investments, the mix of products and services sold to customers, the mix of net sales derived from products as compared with services, the extent to which we owe income or other taxes, competition, management of growth, potential fluctuations in operating results, international growth and expansion, the outcomes of claims, litigation, government investigations, and other proceedings, fulfillment, sortation, delivery, and data center optimization, risks of inventory management, variability in demand, the degree to which the Company enters into, maintains, and develops commercial agreements, proposed and completed acquisitions and strategic transactions, payments risks, and risks of fulfillment throughput and productivity. Other risks and uncertainties include, among others, risks related to new products, services, and technologies, system interruptions, government regulation and taxation, and fraud. In addition, global economic and geopolitical conditions and additional or unforeseen circumstances, developments, or events may give rise to or amplify many of these risks. More information about factors that potentially could affect Amazon.com’s financial results is included in Amazon.com’s filings with the Securities and Exchange Commission (“SEC”), including its most recent Annual Report on Form 10-K and subsequent filings.
+Our investor relations website is amazon.com/ir and we encourage investors to use it as a way of easily finding information about us. We promptly make available on this website, free of charge, the reports that we file or furnish with the SEC, corporate governance information (including our Code of Business Conduct and Ethics), and select press releases, which may contain material information about us, and you may subscribe to be notified of new information posted to this site.
+About Amazon
+Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking. Amazon strives to be Earth’s Most Customer-Centric Company, Earth’s Best Employer, and Earth’s Safest Place to Work. Customer reviews, 1-Click shopping, personalized recommendations, Prime, Fulfillment by Amazon, AWS, Kindle Direct Publishing, Kindle, Career Choice, Fire tablets, Fire TV, Amazon Echo, Alexa, Just Walk Out technology, Amazon Studios, and The Climate Pledge are some of the things pioneered by Amazon. For more information, visit amazon.com/about and follow @AmazonNews.
+AMAZON.COM, INC.
+Consolidated Statements of Cash Flows
+(in millions)
+(unaudited)
+Three Months Ended
+December 31,
+Twelve Months Ended
+December 31,
+2021
+2022
+2021
+2022
+CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, BEGINNING OF PERIOD
+$
+30,177
+$
+35,178
+$
+42,377
+$
+36,477
+OPERATING ACTIVITIES:
+Net income (loss)
+14,323
+278
+33,364
+(2,722)
+Adjustments to reconcile net income (loss) to net cash from operating activities:
+Depreciation and amortization of property and equipment and capitalized content costs, operating lease assets, and other
+9,867
+12,685
+34,433
+41,921
+Stock-based compensation
+3,680
+5,606
+12,757
+19,621
+Other expense (income), net
+(11,932)
+3,445
+(14,306)
+16,966
+Deferred income taxes
+(3,623)
+(3,367)
+(310)
+(8,148)
+Changes in operating assets and liabilities:
+Inventories
+(1,915)
+3,180
+(9,487)
+(2,592)
+Accounts receivable, net and other
+(6,556)
+(8,788)
+(18,163)
+(21,897)
+Accounts payable
+7,989
+9,852
+3,602
+2,945
+Accrued expenses and other
+9,333
+5,777
+2,123
+(1,558)
+Unearned revenue
+920
+505
+2,314
+2,216
+Net cash provided by (used in) operating activities
+22,086
+29,173
+46,327
+46,752
+INVESTING ACTIVITIES:
+Purchases of property and equipment
+(18,935)
+(16,592)
+(61,053)
+(63,645)
+Proceeds from property and equipment sales and incentives
+2,465
+1,152
+5,657
+5,324
+Acquisitions, net of cash acquired, and other
+(381)
+(831)
+(1,985)
+(8,316)
+Sales and maturities of marketable securities
+12,537
+5,683
+59,384
+31,601
+Purchases of marketable securities
+(8,266)
+(233)
+(60,157)
+(2,565)
+Net cash provided by (used in) investing activities
+(12,580)
+(10,821)
+(58,154)
+(37,601)
+FINANCING ACTIVITIES:
+Common stock repurchased
+—
+—
+—
+(6,000)
+Proceeds from short-term debt, and other
+2,667
+10,607
+7,956
+41,553
+Repayments of short-term debt, and other
+(2,659)
+(15,797)
+(7,753)
+(37,554)
+Proceeds from long-term debt
+200
+8,235
+19,003
+21,166
+Repayments of long-term debt
+(1,001)
+(1,257)
+(1,590)
+(1,258)
+Principal repayments of finance leases
+(2,260)
+(1,640)
+(11,163)
+(7,941)
+Principal repayments of financing obligations
+(47)
+(62)
+(162)
+(248)
+Net cash provided by (used in) financing activities
+(3,100)
+86
+6,291
+9,718
+Foreign currency effect on cash, cash equivalents, and restricted cash
+(106)
+637
+(364)
+(1,093)
+Net increase (decrease) in cash, cash equivalents, and restricted cash
+6,300
+19,075
+(5,900)
+17,776
+CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, END OF PERIOD
+$
+36,477
+$
+54,253
+$
+36,477
+$
+54,253
+SUPPLEMENTAL CASH FLOW INFORMATION:
+Cash paid for interest on debt
+$
+367
+$
+629
+$
+1,098
+$
+1,561
+Cash paid for operating leases
+1,693
+2,365
+6,722
+8,633
+Cash paid for interest on finance leases
+114
+84
+521
+374
+Cash paid for interest on financing obligations
+37
+55
+153
+207
+Cash paid for income taxes, net of refunds
+334
+1,695
+3,688
+6,035
+Assets acquired under operating leases
+5,808
+4,769
+25,369
+18,800
+Property and equipment acquired under finance leases, net of remeasurements and modifications
+1,608
+317
+7,061
+675
+Property and equipment recognized during the construction period of build-to-suit lease arrangements
+1,969
+310
+5,846
+3,187
+Property and equipment derecognized after the construction period of build-to-suit lease arrangements, with the associated leases recognized as operating
+55
+1,851
+230
+5,158
+AMAZON.COM, INC.
+Consolidated Statements of Operations
+(in millions, except per share data)
+(unaudited)
+Three Months Ended
+December 31,
+Twelve Months Ended
+December 31,
+2021
+2022
+2021
+2022
+Net product sales
+$
+71,416
+$
+70,531
+$
+241,787
+$
+242,901
+Net service sales
+65,996
+78,673
+228,035
+271,082
+Total net sales
+137,412
+149,204
+469,822
+513,983
+Operating expenses:
+Cost of sales
+82,835
+85,640
+272,344
+288,831
+Fulfillment
+22,445
+23,103
+75,111
+84,299
+Technology and content
+15,313
+20,814
+56,052
+73,213
+Sales and marketing
+10,810
+12,818
+32,551
+42,238
+General and administrative
+2,525
+3,333
+8,823
+11,891
+Other operating expense (income), net
+24
+759
+62
+1,263
+Total operating expenses
+133,952
+146,467
+444,943
+501,735
+Operating income
+3,460
+2,737
+24,879
+12,248
+Interest income
+118
+445
+448
+989
+Interest expense
+(482)
+(694)
+(1,809)
+(2,367)
+Other income (expense), net
+11,838
+(3,450)
+14,633
+(16,806)
+Total non-operating income (expense)
+11,474
+(3,699)
+13,272
+(18,184)
+Income (loss) before income taxes
+14,934
+(962)
+38,151
+(5,936)
+Benefit (provision) for income taxes
+(612)
+1,227
+(4,791)
+3,217
+Equity-method investment activity, net of tax
+1
+13
+4
+(3)
+Net income (loss)
+$
+14,323
+$
+278
+$
+33,364
+$
+(2,722)
+Basic earnings per share
+$
+1.41
+$
+0.03
+$
+3.30
+$
+(0.27)
+Diluted earnings per share
+$
+1.39
+$
+0.03
+$
+3.24
+$
+(0.27)
+Weighted-average shares used in computation of earnings per share:
+Basic
+10,157
+10,220
+10,117
+10,189
+Diluted
+10,324
+10,308
+10,296
+10,189
+AMAZON.COM, INC.
+Consolidated Statements of Comprehensive Income (Loss)
+(in millions)
+(unaudited)
+Three Months Ended
+December 31,
+Twelve Months Ended
+December 31,
+2021
+2022
+2021
+2022
+Net income (loss)
+$
+14,323
+$
+278
+$
+33,364
+$
+(2,722)
+Other comprehensive income (loss):
+Foreign currency translation adjustments, net of tax of $12, $(36), $47, and $100
+(67)
+2,075
+(819)
+(2,586)
+Net change in unrealized gains (losses) on available-for-sale debt securities:
+Unrealized gains (losses), net of tax of $41, $162, $72, and $159
+(234)
+272
+(343)
+(823)
+Reclassification adjustment for losses (gains) included in “Other income (expense), net,” net of tax of $0, $0, $13, and $0
+—
+281
+(34)
+298
+Net unrealized gains (losses) on available-for-sale debt securities
+(234)
+553
+(377)
+(525)
+Total other comprehensive income (loss)
+(301)
+2,628
+(1,196)
+(3,111)
+Comprehensive income (loss)
+$
+14,022
+$
+2,906
+$
+32,168
+$
+(5,833)
+AMAZON.COM, INC.
+Segment Information
+(in millions)
+(unaudited)
+Three Months Ended
+December 31,
+Twelve Months Ended
+December 31,
+2021
+2022
+2021
+2022
+North America
+Net sales
+$
+82,360
+$
+93,363
+$
+279,833
+$
+315,880
+Operating expenses
+82,566
+93,603
+272,562
+318,727
+Operating income (loss)
+$
+(206)
+$
+(240)
+$
+7,271
+$
+(2,847)
+International
+Net sales
+$
+37,272
+$
+34,463
+$
+127,787
+$
+118,007
+Operating expenses
+38,899
+36,691
+128,711
+125,753
+Operating loss
+$
+(1,627)
+$
+(2,228)
+$
+(924)
+$
+(7,746)
+AWS
+Net sales
+$
+17,780
+$
+21,378
+$
+62,202
+$
+80,096
+Operating expenses
+12,487
+16,173
+43,670
+57,255
+Operating income
+$
+5,293
+$
+5,205
+$
+18,532
+$
+22,841
+Consolidated
+Net sales
+$
+137,412
+$
+149,204
+$
+469,822
+$
+513,983
+Operating expenses
+133,952
+146,467
+444,943
+501,735
+Operating income
+3,460
+2,737
+24,879
+12,248
+Total non-operating income (expense)
+11,474
+(3,699)
+13,272
+(18,184)
+Benefit (provision) for income taxes
+(612)
+1,227
+(4,791)
+3,217
+Equity-method investment activity, net of tax
+1
+13
+4
+(3)
+Net income (loss)
+$
+14,323
+$
+278
+$
+33,364
+$
+(2,722)
+Segment Highlights:
+Y/Y net sales growth (decline):
+North America
+9
+%
+13
+%
+18
+%
+13
+%
+International
+(1)
+(8)
+22
+(8)
+AWS
+40
+20
+37
+29
+Consolidated
+9
+9
+22
+9
+Net sales mix:
+North America
+60
+%
+63
+%
+60
+%
+61
+%
+International
+27
+23
+27
+23
+AWS
+13
+14
+13
+16
+Consolidated
+100
+%
+100
+%
+100
+%
+100
+%
+AMAZON.COM, INC.
+Consolidated Balance Sheets
+(in millions, except per share data)
+(unaudited)
+December 31, 2021
+December 31, 2022
+ASSETS
+Current assets:
+Cash and cash equivalents
+$
+36,220
+$
+53,888
+Marketable securities
+59,829
+16,138
+Inventories
+32,640
+34,405
+Accounts receivable, net and other
+32,891
+42,360
+Total current assets
+161,580
+146,791
+Property and equipment, net
+160,281
+186,715
+Operating leases
+56,082
+66,123
+Goodwill
+15,371
+20,288
+Other assets
+27,235
+42,758
+Total assets
+$
+420,549
+$
+462,675
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable
+$
+78,664
+$
+79,600
+Accrued expenses and other
+51,775
+62,566
+Unearned revenue
+11,827
+13,227
+Total current liabilities
+142,266
+155,393
+Long-term lease liabilities
+67,651
+72,968
+Long-term debt
+48,744
+67,150
+Other long-term liabilities
+23,643
+21,121
+Commitments and contingencies
+Stockholders’ equity:
+Preferred stock ($0.01 par value; 500 shares authorized; no shares issued or outstanding)
+—
+—
+Common stock ($0.01 par value; 100,000 shares authorized; 10,644 and 10,757 shares issued; 10,175 and 10,242 shares outstanding)
+106
+108
+Treasury stock, at cost
+(1,837)
+(7,837)
+Additional paid-in capital
+55,437
+75,066
+Accumulated other comprehensive income (loss)
+(1,376)
+(4,487)
+Retained earnings
+85,915
+83,193
+Total stockholders’ equity
+138,245
+146,043
+Total liabilities and stockholders’ equity
+$
+420,549
+$
+462,675
+AMAZON.COM, INC.
+Supplemental Financial Information and Business Metrics
+(in millions, except per share data)
+(unaudited)
+Q3 2021
+Q4 2021
+Q1 2022
+Q2 2022
+Q3 2022
+Q4 2022
+Y/Y %
+Change
+Cash Flows and Shares
+Operating cash flow -- trailing twelve months (TTM)
+$
+54,671
+$
+46,327
+$
+39,324
+$
+35,574
+$
+39,665
+$
+46,752
+1
+%
+Operating cash flow -- TTM Y/Y growth (decline)
+(1)
+%
+(30)
+%
+(41)
+%
+(40)
+%
+(27)
+%
+1
+%
+N/A
+Purchases of property and equipment, net of proceeds from sales and incentives -- TTM
+$
+52,119
+$
+55,396
+$
+57,951
+$
+59,061
+$
+59,351
+$
+58,321
+5
+%
+Principal repayments of finance leases -- TTM
+$
+11,271
+$
+11,163
+$
+10,534
+$
+9,789
+$
+8,561
+$
+7,941
+(29)
+%
+Principal repayments of financing obligations -- TTM
+$
+124
+$
+162
+$
+174
+$
+205
+$
+233
+$
+248
+53
+%
+Equipment acquired under finance leases -- TTM (1)
+$
+5,738
+$
+4,422
+$
+2,764
+$
+1,621
+$
+868
+$
+299
+(93)
+%
+Principal repayments of all other finance leases -- TTM (2)
+$
+582
+$
+687
+$
+714
+$
+751
+$
+706
+$
+670
+(3)
+%
+Free cash flow -- TTM (3)
+$
+2,552
+$
+(9,069)
+$
+(18,627)
+$
+(23,487)
+$
+(19,686)
+$
+(11,569)
+28
+%
+Free cash flow less principal repayments of finance leases and financing obligations -- TTM (4)
+$
+(8,843)
+$
+(20,394)
+$
+(29,335)
+$
+(33,481)
+$
+(28,480)
+$
+(19,758)
+(3)
+%
+Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations -- TTM (5)
+$
+(3,892)
+$
+(14,340)
+$
+(22,279)
+$
+(26,064)
+$
+(21,493)
+$
+(12,786)
+(11)
+%
+Common shares and stock-based awards outstanding
+10,451
+10,455
+10,454
+10,551
+10,597
+10,627
+2
+%
+Common shares outstanding
+10,139
+10,175
+10,171
+10,183
+10,198
+10,242
+1
+%
+Stock-based awards outstanding
+311
+280
+283
+368
+399
+384
+37
+%
+Stock-based awards outstanding -- % of common shares outstanding
+3.1
+%
+2.8
+%
+2.8
+%
+3.6
+%
+3.9
+%
+3.8
+%
+N/A
+Results of Operations
+Worldwide (WW) net sales
+$
+110,812
+$
+137,412
+$
+116,444
+$
+121,234
+$
+127,101
+$
+149,204
+9
+%
+WW net sales -- Y/Y growth, excluding F/X
+15
+%
+10
+%
+9
+%
+10
+%
+19
+%
+12
+%
+N/A
+WW net sales -- TTM
+$
+457,965
+$
+469,822
+$
+477,748
+$
+485,902
+$
+502,191
+$
+513,983
+9
+%
+WW net sales -- TTM Y/Y growth, excluding F/X
+30
+%
+21
+%
+14
+%
+11
+%
+12
+%
+13
+%
+N/A
+Operating income
+$
+4,852
+$
+3,460
+$
+3,669
+$
+3,317
+$
+2,525
+$
+2,737
+(21)
+%
+F/X impact -- favorable (unfavorable)
+$
+(20)
+$
+57
+$
+126
+$
+165
+$
+357
+$
+213
+N/A
+Operating income -- Y/Y decline, excluding F/X
+(21)
+%
+(50)
+%
+(60)
+%
+(59)
+%
+(55)
+%
+(27)
+%
+N/A
+Operating margin -- % of WW net sales
+4.4
+%
+2.5
+%
+3.2
+%
+2.7
+%
+2.0
+%
+1.8
+%
+N/A
+Operating income -- TTM
+$
+28,292
+$
+24,879
+$
+19,683
+$
+15,298
+$
+12,971
+$
+12,248
+(51)
+%
+Operating income -- TTM Y/Y growth (decline), excluding F/X
+41
+%
+8
+%
+(30)
+%
+(49)
+%
+(57)
+%
+(54)
+%
+N/A
+Operating margin -- TTM % of WW net sales
+6.2
+%
+5.3
+%
+4.1
+%
+3.1
+%
+2.6
+%
+2.4
+%
+N/A
+Net income (loss)
+$
+3,156
+$
+14,323
+$
+(3,844)
+$
+(2,028)
+$
+2,872
+$
+278
+(98)
+%
+Net income (loss) per diluted share
+$
+0.31
+$
+1.39
+$
+(0.38)
+$
+(0.20)
+$
+0.28
+$
+0.03
+(98)
+%
+Net income (loss) -- TTM
+$
+26,263
+$
+33,364
+$
+21,413
+$
+11,607
+$
+11,323
+$
+(2,722)
+(108)
+%
+Net income (loss) per diluted share -- TTM
+$
+2.56
+$
+3.24
+$
+2.08
+$
+1.13
+$
+1.10
+$
+(0.27)
+(108)
+%
+______________________________
+(1)
+For the twelve months ended December 31, 2021 and 2022, this amount relates to equipment included in “Property and equipment acquired under finance leases, net of remeasurements and modifications” of $7,061 million and $675 million.
+(2)
+For the twelve months ended December 31, 2021 and 2022, this amount relates to property included in “Principal repayments of finance leases” of $11,163 million and $7,941 million.
+(3)
+Free cash flow is cash flow from operations reduced by “Purchases of property and equipment, net of proceeds from sales and incentives.”
+(4)
+Free cash flow less principal repayments of finance leases and financing obligations is free cash flow reduced by “Principal repayments of finance leases” and “Principal repayments of financing obligations.”
+(5)
+Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations is free cash flow reduced by equipment acquired under finance leases, which is included in “Property and equipment acquired under finance leases, net of remeasurements and modifications,” principal repayments of all other finance lease liabilities, which is included in “Principal repayments of finance leases,” and “Principal repayments of financing obligations.”
+AMAZON.COM, INC.
+Supplemental Financial Information and Business Metrics
+(in millions)
+(unaudited)
+Q3 2021
+Q4 2021
+Q1 2022
+Q2 2022
+Q3 2022
+Q4 2022
+Y/Y %
+Change
+Segments
+North America Segment:
+Net sales
+$
+65,557
+$
+82,360
+$
+69,244
+$
+74,430
+$
+78,843
+$
+93,363
+13
+%
+Net sales -- Y/Y growth, excluding F/X
+10
+%
+9
+%
+8
+%
+10
+%
+20
+%
+14
+%
+N/A
+Net sales -- TTM
+$
+272,819
+$
+279,833
+$
+284,711
+$
+291,591
+$
+304,877
+$
+315,880
+13
+%
+Operating income (loss)
+$
+880
+$
+(206)
+$
+(1,568)
+$
+(627)
+$
+(412)
+$
+(240)
+17
+%
+F/X impact -- favorable
+$
+14
+$
+32
+$
+42
+$
+61
+$
+95
+$
+76
+N/A
+Operating income (loss) -- Y/Y growth (decline), excluding F/X
+(62)
+%
+(108)
+%
+(147)
+%
+(122)
+%
+(158)
+%
+53
+%
+N/A
+Operating margin -- % of North America net sales
+1.3
+%
+(0.2)
+%
+(2.3)
+%
+(0.8)
+%
+(0.5)
+%
+(0.3)
+%
+N/A
+Operating income (loss) -- TTM
+$
+10,423
+$
+7,271
+$
+2,253
+$
+(1,521)
+$
+(2,813)
+$
+(2,847)
+(139)
+%
+Operating margin -- TTM % of North America net sales
+3.8
+%
+2.6
+%
+0.8
+%
+(0.5)
+%
+(0.9)
+%
+(0.9)
+%
+N/A
+International Segment:
+Net sales
+$
+29,145
+$
+37,272
+$
+28,759
+$
+27,065
+$
+27,720
+$
+34,463
+(8)
+%
+Net sales -- Y/Y growth (decline), excluding F/X
+15
+%
+3
+%
+0
+%
+(1)
+%
+12
+%
+5
+%
+N/A
+Net sales -- TTM
+$
+127,982
+$
+127,787
+$
+125,897
+$
+122,241
+$
+120,816
+$
+118,007
+(8)
+%
+Operating loss
+$
+(911)
+$
+(1,627)
+$
+(1,281)
+$
+(1,771)
+$
+(2,466)
+$
+(2,228)
+37
+%
+F/X impact -- favorable (unfavorable)
+$
+24
+$
+(58)
+$
+(79)
+$
+(231)
+$
+(216)
+$
+(331)
+N/A
+Operating loss -- Y/Y growth (decline), excluding F/X
+(330)
+%
+(533)
+%
+(196)
+%
+(526)
+%
+147
+%
+17
+%
+N/A
+Operating margin -- % of International net sales
+(3.1)
+%
+(4.4)
+%
+(4.5)
+%
+(6.5)
+%
+(8.9)
+%
+(6.5)
+%
+N/A
+Operating income (loss) -- TTM
+$
+1,066
+$
+(924)
+$
+(3,457)
+$
+(5,590)
+$
+(7,145)
+$
+(7,746)
+738
+%
+Operating margin -- TTM % of International net sales
+0.8
+%
+(0.7)
+%
+(2.7)
+%
+(4.6)
+%
+(5.9)
+%
+(6.6)
+%
+N/A
+AWS Segment:
+Net sales
+$
+16,110
+$
+17,780
+$
+18,441
+$
+19,739
+$
+20,538
+$
+21,378
+20
+%
+Net sales -- Y/Y growth, excluding F/X
+39
+%
+40
+%
+37
+%
+33
+%
+28
+%
+20
+%
+N/A
+Net sales -- TTM
+$
+57,164
+$
+62,202
+$
+67,140
+$
+72,070
+$
+76,498
+$
+80,096
+29
+%
+Operating income
+$
+4,883
+$
+5,293
+$
+6,518
+$
+5,715
+$
+5,403
+$
+5,205
+(2)
+%
+F/X impact -- favorable (unfavorable)
+$
+(58)
+$
+83
+$
+163
+$
+335
+$
+478
+$
+468
+N/A
+Operating income -- Y/Y growth (decline), excluding F/X
+40
+%
+46
+%
+53
+%
+28
+%
+1
+%
+(10)
+%
+N/A
+Operating margin -- % of AWS net sales
+30.3
+%
+29.8
+%
+35.3
+%
+29.0
+%
+26.3
+%
+24.3
+%
+N/A
+Operating income -- TTM
+$
+16,803
+$
+18,532
+$
+20,887
+$
+22,409
+$
+22,929
+$
+22,841
+23
+%
+Operating margin -- TTM % of AWS net sales
+29.4
+%
+29.8
+%
+31.1
+%
+31.1
+%
+30.0
+%
+28.5
+%
+N/A
+AMAZON.COM, INC.
+Supplemental Financial Information and Business Metrics
+(in millions, except employee data)
+(unaudited)
+Q3 2021
+Q4 2021
+Q1 2022
+Q2 2022
+Q3 2022
+Q4 2022
+Y/Y %
+Change
+Net Sales
+Online stores (1)
+$
+49,942
+$
+66,075
+$
+51,129
+$
+50,855
+$
+53,489
+$
+64,531
+(2)
+%
+Online stores -- Y/Y growth (decline), excluding F/X
+3
+%
+1
+%
+(1)
+%
+0
+%
+13
+%
+2
+%
+N/A
+Physical stores (2)
+$
+4,269
+$
+4,688
+$
+4,591
+$
+4,721
+$
+4,694
+$
+4,957
+6
+%
+Physical stores -- Y/Y growth, excluding F/X
+12
+%
+16
+%
+16
+%
+13
+%
+10
+%
+6
+%
+N/A
+Third-party seller services (3)
+$
+24,252
+$
+30,320
+$
+25,335
+$
+27,376
+$
+28,666
+$
+36,339
+20
+%
+Third-party seller services -- Y/Y growth, excluding F/X
+18
+%
+12
+%
+9
+%
+13
+%
+23
+%
+24
+%
+N/A
+Subscription services (4)
+$
+8,148
+$
+8,123
+$
+8,410
+$
+8,716
+$
+8,903
+$
+9,189
+13
+%
+Subscription services -- Y/Y growth, excluding F/X
+23
+%
+16
+%
+13
+%
+14
+%
+14
+%
+17
+%
+N/A
+Advertising services (5)
+$
+7,612
+$
+9,716
+$
+7,877
+$
+8,757
+$
+9,548
+$
+11,557
+19
+%
+Advertising services -- Y/Y growth, excluding F/X
+52
+%
+33
+%
+25
+%
+21
+%
+30
+%
+23
+%
+N/A
+AWS
+$
+16,110
+$
+17,780
+$
+18,441
+$
+19,739
+$
+20,538
+$
+21,378
+20
+%
+AWS -- Y/Y growth, excluding F/X
+39
+%
+40
+%
+37
+%
+33
+%
+28
+%
+20
+%
+N/A
+Other (6)
+$
+479
+$
+710
+$
+661
+$
+1,070
+$
+1,263
+$
+1,253
+77
+%
+Other -- Y/Y growth, excluding F/X
+15
+%
+19
+%
+28
+%
+135
+%
+168
+%
+80
+%
+N/A
+Stock-based Compensation Expense
+Cost of sales
+$
+126
+$
+179
+$
+146
+$
+213
+$
+190
+$
+208
+16
+%
+Fulfillment
+$
+473
+$
+565
+$
+498
+$
+763
+$
+727
+$
+757
+34
+%
+Technology and content
+$
+1,627
+$
+1,903
+$
+1,645
+$
+2,814
+$
+3,036
+$
+3,126
+64
+%
+Sales and marketing
+$
+657
+$
+726
+$
+665
+$
+990
+$
+1,128
+$
+1,092
+51
+%
+General and administrative
+$
+297
+$
+307
+$
+296
+$
+429
+$
+475
+$
+423
+38
+%
+Total stock-based compensation expense
+$
+3,180
+$
+3,680
+$
+3,250
+$
+5,209
+$
+5,556
+$
+5,606
+52
+%
+Other
+WW shipping costs
+$
+18,108
+$
+23,656
+$
+19,560
+$
+19,304
+$
+19,942
+$
+24,714
+4
+%
+WW shipping costs -- Y/Y growth
+20
+%
+10
+%
+14
+%
+9
+%
+10
+%
+4
+%
+N/A
+WW paid units -- Y/Y growth (7)
+8
+%
+3
+%
+0
+%
+1
+%
+11
+%
+8
+%
+N/A
+WW seller unit mix -- % of WW paid units (7)
+56
+%
+56
+%
+55
+%
+57
+%
+58
+%
+59
+%
+N/A
+Employees (full-time and part-time; excludes contractors & temporary personnel)
+1,468,000
+1,608,000
+1,622,000
+1,523,000
+1,544,000
+1,541,000
+(4)
+%
+Employees (full-time and part-time; excludes contractors & temporary personnel) -- Y/Y growth (decline)
+30
+%
+24
+%
+28
+%
+14
+%
+5
+%
+(4)
+%
+N/A
+________________________
+(1)
+Includes product sales and digital media content where we record revenue gross. We leverage our retail infrastructure to offer a wide selection of consumable and durable goods that includes media products available in both a physical and digital format, such as books, videos, games, music, and software. These product sales include digital products sold on a transactional basis. Digital product subscriptions that provide unlimited viewing or usage rights are included in “Subscription services.”
+(2)
+Includes product sales where our customers physically select items in a store. Sales to customers who order goods online for delivery or pickup at our physical stores are included in “Online stores.”
+(3)
+Includes commissions and any related fulfillment and shipping fees, and other third-party seller services.
+(4)
+Includes annual and monthly fees associated with Amazon Prime memberships, as well as digital video, audiobook, digital music, e-book, and other non-AWS subscription services.
+(5)
+Includes sales of advertising services to sellers, vendors, publishers, authors, and others, through programs such as sponsored ads, display, and video advertising.
+(6)
+Includes sales related to various other offerings, such as certain licensing and distribution of video content and shipping services, and our co-branded credit card agreements.
+(7)
+Excludes the impact of Whole Foods Market.
+Amazon.com, Inc.
+Certain Definitions
+Customer Accounts
+•
+References to customers mean customer accounts established when a customer places an order through one of our stores. Customer accounts exclude certain customers, including customers associated with certain of our acquisitions, Amazon Payments customers, AWS customers, and the customers of select companies with whom we have a technology alliance or marketing and promotional relationship. Customers are considered active when they have placed an order during the preceding twelve-month period.
+Seller Accounts
+•
+References to sellers means seller accounts, which are established when a seller receives an order from a customer account. Sellers are considered active when they have received an order from a customer during the preceding twelve-month period.
+AWS Customers
+•
+References to AWS customers mean unique AWS customer accounts, which are unique customer account IDs that are eligible to use AWS services. This includes AWS accounts in the AWS free tier. Multiple users accessing AWS services via one account ID are counted as a single account. Customers are considered active when they have had AWS usage activity during the preceding one-month period.
+Units
+•
+References to units mean physical and digital units sold (net of returns and cancellations) by us and sellers in our stores as well as Amazon-owned items sold in other stores. Units sold are paid units and do not include units associated with AWS, certain acquisitions, certain subscriptions, rental businesses, or advertising businesses, or Amazon gift cards.
+Contacts:
+Amazon Investor Relations
+Amazon Public Relations
+Dave Fildes, amazon-ir@amazon.com
+Dan Perlet, amazon-pr@amazon.com
+amazon.com/ir
+amazon.com/pr

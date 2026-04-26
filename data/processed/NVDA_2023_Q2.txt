@@ -1,0 +1,763 @@
+EX-99.1
+2
+q1fy24pr.htm
+Q1FY24 PRESS RELEASE
+Document
+FOR IMMEDIATE RELEASE:
+NVIDIA Announces Financial Results for First Quarter Fiscal 2024
+•
+Quarterly revenue of $7.19 billion, up 19% from previous quarter
+•
+Record Data Center revenue of $4.28 billion
+•
+Second quarter fiscal 2024 revenue outlook of $11.00 billion
+SANTA CLARA, Calif.-May 24, 2023-
+NVIDIA (NASDAQ: NVDA) today reported revenue for the first quarter ended April 30, 2023, of $7.19 billion, down 13% from a year ago and up 19% from the previous quarter.
+GAAP earnings per diluted share for the quarter were $0.82, up 28% from a year ago and up 44% from the previous quarter. Non-GAAP earnings per diluted share were $1.09, down 20% from a year ago and up 24% from the previous quarter.
+“The computer industry is going through two simultaneous transitions — accelerated computing and generative AI,” said Jensen Huang, founder and CEO of NVIDIA.
+“A trillion dollars of installed global data center infrastructure will transition from general purpose to accelerated computing as companies race to apply generative AI into every product, service and business process.
+“Our entire data center family of products — H100, Grace CPU, Grace Hopper Superchip, NVLink, Quantum 400 InfiniBand and BlueField-3 DPU — is in production. We are significantly increasing our supply to meet surging demand for them,” he said.
+During the first quarter of fiscal 2024, NVIDIA returned to shareholders $99 million in cash dividends.
+NVIDIA will pay its next quarterly cash dividend of $0.04 per share on June 30, 2023, to all shareholders of record on June 8, 2023.
+Q1 Fiscal 2024 Summary
+GAAP
+($ in millions, except earnings per share)
+Q1 FY24
+Q4 FY23
+Q1 FY23
+Q/Q
+Y/Y
+Revenue
+$7,192
+$6,051
+$8,288
+Up 19%
+Down 13%
+Gross margin
+64.6
+%
+63.3
+%
+65.5
+%
+Up 1.3 pts
+Down 0.9 pts
+Operating expenses
+$2,508
+$2,576
+$3,563
+Down 3%
+Down 30%
+Operating income
+$2,140
+$1,257
+$1,868
+Up 70%
+Up 15%
+Net income
+$2,043
+$1,414
+$1,618
+Up 44%
+Up 26%
+Diluted earnings per share
+$0.82
+$0.57
+$0.64
+Up 44%
+Up 28%
+Non-GAAP
+($ in millions, except earnings per share)
+Q1 FY24
+Q4 FY23
+Q1 FY23
+Q/Q
+Y/Y
+Revenue
+$7,192
+$6,051
+$8,288
+Up 19%
+Down 13%
+Gross margin
+66.8
+%
+66.1
+%
+67.1
+%
+Up 0.7 pts
+Down 0.3 pts
+Operating expenses
+$1,750
+$1,775
+$1,608
+Down 1%
+Up 9%
+Operating income
+$3,052
+$2,224
+$3,955
+Up 37%
+Down 23%
+Net income
+$2,713
+$2,174
+$3,443
+Up 25%
+Down 21%
+Diluted earnings per share
+$1.09
+$0.88
+$1.36
+Up 24%
+Down 20%
+Outlook
+NVIDIA’s outlook for the second quarter of fiscal 2024 is as follows:
+•
+Revenue is expected to be $11.00 billion, plus or minus 2%.
+•
+GAAP and non-GAAP gross margins are expected to be 68.6% and 70.0%, respectively, plus or minus 50 basis points.
+•
+GAAP and non-GAAP operating expenses are expected to be approximately $2.71 billion and $1.90 billion, respectively.
+•
+GAAP and non-GAAP other income and expense are expected to be an income of approximately $90 million, excluding gains and losses from non-affiliated investments.
+•
+GAAP and non-GAAP tax rates are expected to be 14.0%, plus or minus 1%, excluding any discrete items.
+Highlights
+NVIDIA achieved progress since its previous earnings announcement in these areas:
+Data Center
+•
+First-quarter revenue was a record $4.28 billion, up 14% from a year ago and up 18% from the previous quarter.
+•
+Launched four inference platforms that combine the company’s full-stack inference software with the latest NVIDIA Ada, NVIDIA Hopper
+™
+and NVIDIA Grace Hopper
+™
+processors.
+•
+Announced that Google Cloud is the first cloud provider offering the new NVIDIA L4 Tensor Core GPU to accelerate generative AI applications.
+•
+Introduced NVIDIA AI Foundations to help businesses create and operate custom large language models and generative AI models trained with their own proprietary data for domain-specific tasks.
+•
+Unveiled the NVIDIA cuLitho software library for computational lithography to accelerate the design and manufacturing of next-gen semiconductors.
+•
+Expanded its partners offering new products and services based on the NVIDIA H100 Tensor Core GPU — including Amazon Web Services, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure.
+•
+Partnered with ServiceNow to build generative AI across enterprise IT.
+•
+Announced a collaboration with Medtronic to build an AI platform for medical devices.
+•
+Joined with Dell Technologies in Project Helix to deliver full-stack solutions to help enterprises build and deploy trustworthy generative AI applications.
+•
+Announced it is integrating NVIDIA AI Enterprise software into Microsoft’s Azure Machine Learning to help enterprises accelerate their AI initiatives.
+Gaming
+•
+First-quarter revenue was $2.24 billion, down 38% from a year ago and up 22% from the previous quarter.
+•
+Announced the GeForce RTX
+™
+4060 family of GPUs, bringing the advancements of NVIDIA Ada Lovelace architecture and DLSS, starting at $299.
+•
+Launched the GeForce RTX 4070 GPU based on the Ada architecture, which enables DLSS 3, real-time ray-tracing and the ability to run most modern games at over 100 frames per second at 1440p resolution.
+•
+Added 36 DLSS gaming titles, bringing the total number of games and apps to 300.
+•
+Made path tracing available for the first time on a major gaming title through collaboration with CD PROJEKT RED on an update to
+Cyberpunk 2077
+.
+•
+Expanded GeForce NOW’s game titles to more than 1,600, including the first Microsoft Xbox game,
+Gears 5
+.
+Professional Visualization
+•
+First-quarter revenue was $295 million, down 53% from a year ago and up 31% from the previous quarter.
+•
+Announced NVIDIA Omniverse
+™
+Cloud, a fully managed service running in Microsoft Azure, for the development and deployment of industrial metaverse applications.
+•
+Expanded its collaboration with Microsoft to connect Microsoft 365 applications with Omniverse.
+•
+Announced six new NVIDIA RTX
+™
+GPUs for mobile and desktop workstations based on the Ada architecture.
+Automotive
+•
+First-quarter revenue was a record $296 million, up 114% from a year ago and up 1% from the previous quarter.
+•
+Announced that its automotive design win pipeline has grown to $14 billion over the next six years, up from $11 billion a year ago.
+•
+Announced that the world’s leading electric vehicle maker BYD will extend its use of NVIDIA DRIVE Orin
+™
+across new models.
+CFO Commentary
+Commentary on the quarter by Colette Kress, NVIDIA’s executive vice president and chief financial officer, is available at https://investor.nvidia.com/.
+Conference Call and Webcast Information
+NVIDIA will conduct a conference call with analysts and investors to discuss its first quarter fiscal 2024 financial results and current financial prospects today at 2 p.m. Pacific time (5 p.m. Eastern time). A live webcast (listen-only mode) of the conference call will be accessible at NVIDIA’s investor relations website, https://investor.nvidia.com. The webcast will be recorded and available for replay until NVIDIA’s conference call to discuss its financial results for its second quarter of fiscal 2024.
+Non-GAAP Measures
+To supplement NVIDIA’s condensed consolidated financial statements presented in accordance with GAAP, the company uses non-GAAP measures of certain components of financial performance. These non-GAAP measures include non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP income from operations, non-GAAP other income (expense), net, non-GAAP net income, non-GAAP net income, or earnings, per diluted share, and free cash flow. For NVIDIA’s investors to be better able to compare its current results with those of previous periods, the company has shown a reconciliation of GAAP to non-GAAP financial measures. These reconciliations adjust the related GAAP financial measures to exclude acquisition termination costs, stock-based compensation expense, acquisition-related and other costs, IP-related costs, legal settlement costs,
+other, losses from non-affiliated investments, interest expense related to amortization of debt discount, and the associated tax impact of these items where applicable. Free cash flow is calculated as GAAP net cash provided by operating activities less both purchases of property and equipment and intangible assets and principal payments on property and equipment and intangible assets. NVIDIA believes the presentation of its non-GAAP financial measures enhances the user’s overall understanding of the company’s historical financial performance. The presentation of the company’s non-GAAP financial measures is not meant to be considered in isolation or as a substitute for the company’s financial results prepared in accordance with GAAP, and the company’s non-GAAP measures may be different from non-GAAP measures used by other companies.
+About NVIDIA
+Since its founding in 1993, NVIDIA (NASDAQ: NVDA) has been a pioneer in accelerated computing. The company’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined computer graphics, ignited the era of modern AI and is fueling the creation of the industrial metaverse. NVIDIA is now a full-stack computing company with data-center-scale offerings that are reshaping industry. More information at https://nvidianews.nvidia.com/.
+###
+For further information, contact:
+Simona Jankowski
+Robert Sherbin
+Investor Relations
+Corporate Communications
+NVIDIA Corporation
+NVIDIA Corporation
+sjankowski@nvidia.com
+rsherbin@nvidia.com
+Certain statements in this press release including, but not limited to, statements as to: the computer industry going through two simultaneous transitions – accelerated computing and generative AI; installed global data center infrastructure transitioning from general purpose to accelerated computing as companies race to apply generative AI into every product, service and business process; NVIDIA’s entire data center family of products being in production; NVIDIA significantly increasing supply to meet surging demand; NVIDIA’s next quarterly cash dividend; NVIDIA’s financial outlook and expected tax rates for the second quarter of fiscal 2024; the benefits, impact, performance, features and availability of our products and technologies, including NVIDIA Ada, NVIDIA Hopper, NVIDIA Grace Hopper CPU, NVIDIA L4 Tensor Core GPU, NVIDIA AI Foundations, NVIDIA cuLitho software library, NVIDIA H100 Tensor Core GPU, NVIDIA AI Enterprise, GeForce RTX GPUs, DLSS 3, GeForce NOW, NVIDIA Omniverse Cloud, Omniverse, NVIDIA RTX GPUs, and NVIDIA DRIVE Orin; and the benefits and impact of our collaborations, including with Google Cloud, Amazon Web Services, Microsoft Azure, Oracle Cloud Infrastructure, ServiceNow, Medtronic, Dell Technologies, CD PROJEKT RED, Microsoft, and BYD are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, package and test our products; the impact of technological development and competition; development of new products and technologies or enhancements to our existing product and technologies; market acceptance of our products or our partners’ products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q. Copies of reports filed with the SEC are posted on the company’s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+© 2023 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, GeForce, GeForce NOW, GeForce RTX, NVIDIA DRIVE Orin, NVIDIA Grace Hopper, NVIDIA Hopper, NVIDIA Omniverse, and NVIDIA RTX are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and/or other countries. Other company and product names may be trademarks of the respective companies with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.
+NVIDIA CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(In millions, except per share data)
+(Unaudited)
+Three Months Ended
+April 30,
+May 1,
+2023
+2022
+Revenue
+$
+7,192
+$
+8,288
+Cost of revenue
+2,544
+2,857
+Gross profit
+4,648
+5,431
+Operating expenses
+Research and development
+1,875
+1,618
+Sales, general and administrative
+633
+592
+Acquisition termination cost
+—
+1,353
+Total operating expenses
+2,508
+3,563
+Income from operations
+2,140
+1,868
+Interest income
+150
+18
+Interest expense
+(66)
+(68)
+Other, net
+(15)
+(13)
+Other income (expense), net
+69
+(63)
+Income before income tax
+2,209
+1,805
+Income tax expense
+166
+187
+Net income
+$
+2,043
+$
+1,618
+Net income per share:
+Basic
+$
+0.83
+$
+0.65
+Diluted
+$
+0.82
+$
+0.64
+Weighted average shares used in per share computation:
+Basic
+2,470
+2,506
+Diluted
+2,490
+2,537
+NVIDIA CORPORATION
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(In millions)
+(Unaudited)
+April 30,
+January 29,
+2023
+2023
+ASSETS
+Current assets:
+Cash, cash equivalents and marketable securities
+$
+15,320
+$
+13,296
+Accounts receivable, net
+4,080
+3,827
+Inventories
+4,611
+5,159
+Prepaid expenses and other current assets
+872
+791
+Total current assets
+24,883
+23,073
+Property and equipment, net
+3,740
+3,807
+Operating lease assets
+1,094
+1,038
+Goodwill
+4,430
+4,372
+Intangible assets, net
+1,541
+1,676
+Deferred income tax assets
+4,568
+3,396
+Other assets
+4,204
+3,820
+Total assets
+$
+44,460
+$
+41,182
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+Accounts payable
+$
+1,141
+$
+1,193
+Accrued and other current liabilities
+4,869
+4,120
+Short-term debt
+1,250
+1,250
+Total current liabilities
+7,260
+6,563
+Long-term debt
+9,704
+9,703
+Long-term operating lease liabilities
+939
+902
+Other long-term liabilities
+2,037
+1,913
+Total liabilities
+19,940
+19,081
+Shareholders' equity
+24,520
+22,101
+Total liabilities and shareholders' equity
+$
+44,460
+$
+41,182
+NVIDIA CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In millions)
+(Unaudited)
+Three Months Ended
+April 30,
+May 1,
+2023
+2022
+Cash flows from operating activities:
+Net income
+$
+2,043
+$
+1,618
+Adjustments to reconcile net income to net cash
+provided by operating activities:
+Stock based compensation expense
+735
+578
+Depreciation and amortization
+384
+334
+Losses on investments in non affiliates, net
+14
+17
+Deferred income taxes
+(1,135)
+(542)
+Acquisition termination cost
+—
+1,353
+Other
+(34)
+23
+Changes in operating assets and liabilities, net of acquisitions:
+Accounts receivable
+(252)
+(788)
+Inventories
+566
+(560)
+Prepaid expenses and other assets
+(215)
+(1,261)
+Accounts payable
+11
+255
+Accrued liabilities and other current liabilities
+689
+634
+Other long-term liabilities
+105
+70
+Net cash provided by operating activities
+2,911
+1,731
+Cash flows from investing activities:
+Proceeds from maturities of marketable securities
+2,512
+5,947
+Proceeds from sales of marketable securities
+—
+1,029
+Purchases of marketable securities
+(2,801)
+(3,932)
+Purchase related to property and equipment and intangible assets
+(248)
+(361)
+Acquisitions, net of cash acquired
+(83)
+(36)
+Investments and other, net
+(221)
+(35)
+Net cash provided by (used in) investing activities
+(841)
+2,612
+Cash flows from financing activities:
+Proceeds related to employee stock plans
+246
+204
+Payments related to tax on restricted stock units
+(507)
+(532)
+Dividends paid
+(99)
+(100)
+Principal payments on property and equipment and intangible assets
+(20)
+(22)
+Payments related to repurchases of common stock
+—
+(1,996)
+Net cash provided by (used in) financing activities
+(380)
+(2,446)
+Change in cash and cash equivalents
+1,690
+1,897
+Cash and cash equivalents at beginning of period
+3,389
+1,990
+Cash and cash equivalents at end of period
+$
+5,079
+$
+3,887
+NVIDIA CORPORATION
+RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES
+(In millions, except per share data)
+(Unaudited)
+Three Months Ended
+April 30,
+January 29,
+May 1,
+2023
+2023
+2022
+GAAP gross profit
+$
+4,648
+$
+3,833
+$
+5,431
+GAAP gross margin
+64.6
+%
+63.3
+%
+65.5
+%
+Acquisition-related and other costs (A)
+119
+120
+94
+Stock-based compensation expense (B)
+27
+30
+38
+IP-related costs
+8
+16
+—
+Non-GAAP gross profit
+$
+4,802
+$
+3,999
+$
+5,563
+Non-GAAP gross margin
+66.8
+%
+66.1
+%
+67.1
+%
+GAAP operating expenses
+$
+2,508
+$
+2,576
+$
+3,563
+Stock-based compensation expense (B)
+(708)
+(709)
+(540)
+Acquisition-related and other costs (A)
+(54)
+(54)
+(55)
+Acquisition termination cost
+—
+—
+(1,353)
+Legal settlement costs
+—
+—
+(7)
+Other (C)
+4
+(38)
+—
+Non-GAAP operating expenses
+$
+1,750
+$
+1,775
+$
+1,608
+GAAP income from operations
+$
+2,140
+$
+1,257
+$
+1,868
+Total impact of non-GAAP adjustments to income from operations
+912
+967
+2,087
+Non-GAAP income from operations
+$
+3,052
+$
+2,224
+$
+3,955
+GAAP other income (expense), net
+$
+69
+$
+32
+$
+(63)
+Losses from non-affiliated investments
+14
+10
+17
+Interest expense related to amortization of debt discount
+1
+1
+1
+Non-GAAP other income (expense), net
+$
+84
+$
+43
+$
+(45)
+GAAP net income
+$
+2,043
+$
+1,414
+$
+1,618
+Total pre-tax impact of non-GAAP adjustments
+927
+978
+2,105
+Income tax impact of non-GAAP adjustments (D)
+(257)
+(218)
+(280)
+Non-GAAP net income
+$
+2,713
+$
+2,174
+$
+3,443
+Three Months Ended
+April 30,
+January 29,
+May 1,
+2023
+2023
+2022
+Diluted net income per share
+GAAP
+$
+0.82
+$
+0.57
+$
+0.64
+Non-GAAP
+$
+1.09
+$
+0.88
+$
+1.36
+Weighted average shares used in diluted net income per share computation
+2,490
+2,477
+2,537
+GAAP net cash provided by operating activities
+$
+2,911
+$
+2,249
+$
+1,731
+Purchases related to property and equipment and intangible assets
+(248)
+(509)
+(361)
+Principal payments on property and equipment and intangible assets
+(20)
+(4)
+(22)
+Free cash flow
+$
+2,643
+$
+1,736
+$
+1,348
+(A) Acquisition-related and other costs are comprised of amortization of intangible assets, transaction costs, and certain compensation charges and are included in the following line items:
+Three Months Ended
+April 30,
+January 29,
+May 1,
+2023
+2023
+2022
+Cost of revenue
+$
+119
+$
+120
+$
+94
+Research and development
+$
+12
+$
+10
+$
+9
+Sales, general and administrative
+$
+42
+$
+44
+$
+46
+(B) Stock-based compensation consists of the following:
+Three Months Ended
+April 30,
+January 29,
+May 1,
+2023
+2023
+2022
+Cost of revenue
+$
+27
+$
+30
+$
+38
+Research and development
+$
+524
+$
+527
+$
+384
+Sales, general and administrative
+$
+184
+$
+182
+$
+156
+(C) Other consists of assets held for sale related adjustments.
+(D) Income tax impact of non-GAAP adjustments, including the recognition of excess tax benefits or deficiencies related to stock-based compensation under GAAP accounting standard (ASU 2016-09).
+NVIDIA CORPORATION
+RECONCILIATION OF GAAP TO NON-GAAP OUTLOOK
+Q2 FY2024 Outlook
+($ in millions)
+GAAP gross margin
+68.6
+%
+Impact of stock-based compensation expense, acquisition-related costs, and other costs
+1.4
+%
+Non-GAAP gross margin
+70.0
+%
+GAAP operating expenses
+$
+2,710
+Stock-based compensation expense, acquisition-related costs, and other costs
+(810)
+Non-GAAP operating expenses
+$
+1,900

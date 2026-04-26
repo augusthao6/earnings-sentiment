@@ -1,0 +1,113 @@
+It's moving very quickly and the margins are lower than what they -- I think they will be over time. The same was true with AWS. If you looked at our margins around the time you were citing, in 2010, they were pretty different than they are now. I think as the market matures over time, there are going to be very healthy margins here in the generative AI space.
+
+Operator
+
+And the next question comes from the line of Brian Nowak with Morgan Stanley. Please proceed with your question.
+
+Brian Nowak--Analyst
+
+Thanks for taking my questions. Hey, Andy. I have two. The first one, I feel like we talk a lot about your targets and sort of North Stars for domestic profitability.
+
+Can you talk to us a little bit about how you think about the drivers of international retail profitability from here and sort of how you think conceptually where the margins could go and what drives them there? And then the second one, I wanted to sort of ask you more about the robotics that you mentioned. I know you've been investing in robotics now for quite a few years. Where are you now in that journey? And how do we think about the next largest areas of investment in robotics in the warehouse network? Thanks.
+
+Brian T. Olsavsky--Senior Vice President, Chief Financial Officer
+
+Thanks. This is Brian. Let me take the first part of that question on international segment profitability. So, if you've looked at the trends, we see quarter-to-quarter fluctuations certainly in operating profit in the international segment.
+
+But we're starting to see clear trend lines that are moving positive and above zero. And for each of the last seven quarters, as I mentioned, we've had year-over-year improvement in op margin. And in the last quarter, operating income was up $1.4 billion versus the prior year. So, really, it is a lot of the same factors you're seeing in North America, lower cost to serve, greater contribution from advertising, improved selection, faster delivery speeds, which help drive consumer demand.
+
+And if you step back further, international is really a mix of our established countries where we've been operating for a long time, the U.K., Europe, and Germany -- excuse me, Europe and Japan, and a number of emerging countries, including 10 new countries that we launched in the last seven years. So, there's a lot under the hood there and there's different stories in each country. Each of them is on a different point in the path from launching to customer adoption, just scaling toward profitability to then making consistent operating profit. So, I think our expectations in each of those countries mirror those in North America.
+
+And we intend, over the fullness of time, that we're going to aim for North America margins, which are not static themselves. So, we're happy with the performance. Glad to see a number above zero in many of the last few quarters, but really to the story on a country-by-country basis that we're working hard. On the robotics piece, what I would say is even though we believe we have more expansive and advanced automation, and robotics capabilities in our fulfillment network than other peers, it's so early with respect to what we're going to do automation, robotics-wise in our fulfillment network.
+
+We're just at the stage right now where we're starting to roll out. We had about a five or six very significant new robotics capabilities in the areas of stowing, picking, packing, and shipping that we are finally put into one facility to get the entire workflow. It's a facility in Shreveport, Louisiana that was just launched a few weeks ago. And as I mentioned in my opening comments, we're seeing very encouraging results there.
+
+And of course, the reason why we're trying to have more robotics and automation in our fulfillment network is it allows us to fast -- to ship more quickly, to ship more cost effectively, and to make conditions even safer for our fulfillment teammates than what they already have today. And I think something that the team has done in a very disciplined way, and I talked about this a little bit in my annual letter, my shareholder letter is just they have been very thoughtful about defining what are the primitive foundational building blocks that you need, that you can then use in lots of different combinations to build additional automation/robotics capabilities down the road that we can move even more quickly with the next generation of robotics capabilities? And that team has invested in those and they're already working on the next generation. And the last piece I would add to that is we really do believe that AI is going to be a big piece of what we do in our robotics network. We had a number of efforts going on there.
+
+We just hired a number of people from an incredibly strong robotics AI organization. And I think that will be a very central part of what we do moving forward, too.
+
+Operator
+
+And the next question comes from the line of Eric Sheridan with Goldman Sachs. Please proceed with your question.
+
+Eric Sheridan--Analyst
+
+Thanks for taking the question. Maybe a two-part, if I can. Looking at the results in the commerce business, there's a clear sort of pattern emerging with respect to ASPs versus unit growth. Can you talk a little bit about what you're seeing in terms of consumer behavior and the propensity to be receptive to either lower ASP items or discounts among consumer behavior? And then the second part would be, can you talk a little bit about some of the strategic initiatives you're building for the long term around capitalizing on lower ASP items and the potential shift to more consumables and the base of consumption habits on the platform? Thanks so much.
+
+Andrew R. Jassy--President and Chief Executive Officer
+
+Eric, thank you for your question. Yes, you're right. Q3 unit volume was strong, 12% worldwide. It's pretty similar in North America versus international.
+
+And the consumer factors, we've seen a continuation of many of the things we've discussed over last few quarters. Customers looking for deals and are price conscious. This matches up well with our Prime events where we were -- which were well received and saved billions of dollars for our Prime members. It also led to Prime member -- paid Prime member growth accelerating in the quarter, which is hugely impactful for us.
+
+A lot of our best offers and deliveries are tuned to Prime membership, and it's the best deal in retail. So, with all the benefits you get for the subscription price, so those are all positive signs. When you look at the split between revenue growth and unit growth, you do see some impact of the lower ASP products that we're selling, as well as some of the trade down that consumers are doing. But we take that as a real positive, seeing the growth in everyday essential categories, which are really predicated on speed.
+
+So, you have to have fast delivery to be able to sell those products to customers. And when you do, it results in a stickier consumer relationship, higher orders, building larger baskets, which help our ship economics, and repeat orders are stronger. So, those are all positive signs, and we'll take any short-term degradation in ASP because what we're focused on primarily is free cash flow here. And we see the ability to unlock whole new elements of the consumer spend.
+
+Brian T. Olsavsky--Senior Vice President, Chief Financial Officer
+
+And I'll just add, Eric, on the lower ASP strategy. There's an expression that we've used a lot of times over the years that it's easy to lower prices but it's much harder to be able to afford to lower prices. And the same thing is probably true about lower ASP items. It's pretty easy to choose to supply them but it's much harder to be able to afford to economically supply them.
+
+And so, one of the reasons that we have been so maniacal about cost to serve over the last few years is that as we're able to take our cost to serve down, it just opens up the aperture for more items, particularly lower ASP items that we're able to supply in an economic way. And when you layer on top of that the broader selection, you layer on top of that faster speed and what we're able to do in getting items and fulfillment nodes local and close to our end customers, what we're able to do in expanding our same-day network, which allows us to ship same-day but also is one of our lowest-cost way to ship is it just lets us serve so many more of customers' shopping missions. And that's what we're seeing in our business right now. But again, I think there's a lot of opportunity to continue to expand that.
+
+Operator
+
+The next question comes from the line of Colin Sebastian with Baird. Please proceed with your question.
+
+Colin Sebastian--Analyst
+
+Great. Thanks, guys. Good afternoon. A question on online stores.
+
+The third-party unit mix declined a little bit in Q3, which is unusual. So, just wondering if there are any specific drivers of that shift. And then secondly, you made a lot of progress with the AI agents on AWS and for sellers and Rufus for buyers. I wonder with all the underlying data that you have and leveraging those agent capabilities if you could provide any perspective on what a next-generation Alexa might look like and your opportunities there to perhaps drive incremental revenues.
+
+Thank you.
+
+Andrew R. Jassy--President and Chief Executive Officer
+
+Sure, Colin. Thanks for your question. On the first one, third-party sellers, yes, the percent of paid units was 60% in Q3. And if you look over the last two years, essentially, it was at 59%, stepping up to 60%, stepping up to 61% pretty much every second quarter.
+
+So, what we're seeing is still in a tight band between 59% and 61%. But what we're seeing is the impact of the everyday essentials. There's -- 3P demand is still strong and unit volumes are strong. It's just the everyday essentials tend to skew more to 1P than 3P.
+
+David Fildes--Vice President, Investor Relations
+
+And on your second question, Colin, around Alexa, I think we have a really broad number of Alexa devices all over people's homes and offices and automobiles and hospitality suites. We've about 0.5 billion devices out there with a couple of hundred million active endpoints. And when we first were pursuing Alexa, we had this vision of it being the world's best personal assistant and people thought that was kind of a crazy idea. And I think if you look at what's happened in generative AI over the last couple of years, I think you're kind of missing the boat if you don't believe that's going to happen.
+
+It absolutely is going to happen. So, we have a really broad footprint where we believe if we rearchitect the brains of Alexa with next-generation foundational models, which we're in the process of doing, we have an opportunity to be the leader in that space. And I think if you look at a lot of the applications today that use generative AI, there's a large number of them that are having success in cost avoidance and productivity. And then you're increasingly seeing more applications have success in really impacting the customer experience and being really good at taking large corpuses of data and being able to summarize and aggregate and answer questions, but not that many yet that are really good on top of that in taking actions for customers.
+
+And I think that the next generation of these assistants and the generative AI applications will be better at not just answering questions and summarizing the indexing and aggregating data, but also taking actions. And you can imagine us being pretty good at that with Alexa.
+
+Operator
+
+And our final question comes from the line of Justin Post with Bank of America. Please proceed with your question.
+
+Justin Post--Analyst
+
+Great, thank you. Maybe a couple of questions. Just on the cloud, are you at all capacity constrained, and will the new Trainium or NVIDIA chips maybe even drive sales growth faster? And then secondly and I know there's been some competition from some of the more traditional retailers growing quickly online. Maybe talk about maybe the advantages that Amazon has with a fulfillment center distribution versus store distribution.
+
+Any thoughts on that? Thank you.
+
+Andrew R. Jassy--President and Chief Executive Officer
+
+Well, on cloud, Justin, what I would tell you is that I believe we have more demand that we could fulfill if we had even more capacity today. I think pretty much everyone today has less capacity than they have demand for, and it's really primarily chips that are the area where companies could use more supply. And so, we're growing at a very rapid rate and have grown a pretty big business here in the AI space. and it's early days, but I actually believe that the rate of growth there has a chance to improve over time as we have bigger and bigger capacity.
+
+And I think that one of the reasons I mentioned in my opening comments that we have a very deep partnership with NVIDIA. We tend to be their lead partner on most of their new chips. We were the first to offer H200s in EC2 instances. And I expect us to have a partnership for a very long time that matters.
+
+It's also true that for customers that start to scale out their implementations on the inference side, particularly, they realize pretty quickly that it can get costly. And it's really why we have pursued building Trainium and Inferentia, which is our custom silicon. And the second version of Trainium, Trainium2 will start to ramp up in the next few weeks. And I think it's going to be very compelling for customers on a price-performance basis.
+
+And we have a lot of customer interest. We have gone back to our manufacturing partners a couple of times now to produce a lot more Trainium than we anticipated. Some of that, for sure, is due to the fact that we have very large demand, and we want more capacity and supply to be able to provide them. But a lot of it is that customers are excited about the price performance that they believe they're going to get in Trainium.
+
+So, I think it's a very significant opportunity for us in the AWS space, and it's going to be a very significant opportunity for customers. I think on the retail side, I'd start by just saying that we've always believed that competition is very positive and very healthy. It's good for consumers, good for businesses. It's actually great for innovation.
+
+And if you look at the retail space, it's a very, very large market segment. I mean, we have a pretty big retail business, and yet we're only about 1% of the market segment share of the worldwide global retail market segment. And still, about 80% to 85% of that market segment share lives in physical stores. And so, if you believe that equation is going to flip in the next 10 to 20 years, which we do, there's just a lot of opportunity not just for us but for several players.
+
+There won't be only one successful player. I do think that we have some elements of our customer experience that are really unusual and unlike others. I think we have meaningfully broader selection than almost all the players that you probably have seen and heard of. We have low prices with very significant deals that we go work with our third-party selling partners around key holiday shopping occasions.
+
+And then we have very significant advantages and speed of delivery to customers. And we just continue to see in every bit of testing and analysis that we do, that the faster that we're able to promise customers that we can get them their items, the more frequently they buy and the more they actually use Amazon for their shopping needs. And so, those are things that are pretty different. I also think we have a way of prioritizing customers that I think is unusual.
+
+Our orientation, our DNA, and our core at Amazon starts with the customer, and everything moves backwards from that. Any meeting you go to inside of Amazon, we're always asking ourselves what do customers want. What do customers say? What do they not like about the experience? What could be better? And that customer orientation is very important not just in how you take care of customers, but the world changes quickly all the time. And the technology is changing really quickly.
+
+And so, if you have the combination of strong technical aptitude, propensity, and a passion for inventing and then also a customer orientation where it drives everything you do, I think you have an opportunity to continue to build great trust in a business over a long period of time.
+
+David Fildes--Vice President, Investor Relations
+
+Thanks for joining us on the call today and for your questions. A replay will be available on our investor relations website for at least three months. We appreciate your interest in Amazon and look forward to talking with you again next quarter.

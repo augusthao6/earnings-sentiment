@@ -1,0 +1,261 @@
+All the -- and then cybersecurity that we knew we were going to need to deliver that functionality, sending a navigation to destination from your phone to the vehicle, and so we’re doing that now with the ride-hailing app, but it's something that we've made available to customers for years. Seeing the progress on route in the mobile app, that's something you'll need for the ride-hailing app. But again, we released it in the meantime. So it's not like we're just starting to think about this stuff right now while we're building out the early stages of our ride-hailing network. We've been thinking about this for quite a long time, and we're excited to get the functionality out there.
+
+Elon Musk:Yeah. And we do expect to roll out ride-hailing in California, Texas next year to the public. But not the California is somewhat there's quite a long regulatory approval process. I think we should get approval next year, but it's contingent upon regulatory approval. Texas is a lot faster. So it's, I'd say, like, we're -- we'll definitely have available at Texas, and probably have it available in California subject to regulatory approval. And then -- and maybe some other states actually, next year as well, but at least California and Texas. So that'd be very exciting. There's really a profound change. Tesla becomes more than a sort of vehicle and battery manufacturing company, at that point.
+
+So we published our Q3 vehicle safety report, which shows one impact for every 7 million miles of autopilot, that compares to the U.S. average of one crash roughly every 700,000 miles. So it's currently showing a 10x safety improvement relative to the U.S. average. And we continue to expand our AI training capacity to accommodate the needs of both FSD and Optimus. We're currently not a training compute constraint. That's probably the biggest factors that the FSD is actually getting so good that it takes us a while to actually find mistakes.
+
+And when you start getting to where it could take 10,000 miles to find a mistake, it takes a while to actually figure out which it is -- is this soccer ball better than -- is soccer ball A better than soccer ball B? It actually takes a while to figure it out because neither one of them are making mistakes, or takes take a long time to make mistakes. So that's actually the single [Indiscernible] based on many factors. How long does it take us to figure out which version is better? So that’s sort of high class problem. Obviously, having a giant fleet is very helpful for breaking this out.
+
+And then with Optimus, we show a massive improvement in Optimus's dexterity movement on October 10. And our next-gen, hand and forearm, which has 22 degrees of freedom double - which is double the prior hand and forearm, it's extremely human like. And also it's much better tactile sensing. It's really - I feel confident in saying that we have most advanced humanoid robot by long shot. And we're moreover the only company that really has all of the ingredients necessary to scale humanoid robots. Because the things that what other companies are missing is that they're missing the AI brain, and they're missing the ability to really scale to very high volume production.
+
+So some have seen some impressive video demos, but what but they’re [lacking is] (ph) localized AI and the [going] (ph) to scale volume to very high numbers. As I've said on a few occasions before, I think Optimus will ultimately be the most valuable product. So I think it has a good chance of being the most valuable product ever made. For the energy business, that's doing extremely well. And there's the opportunity ahead is gigantic. The Lathrop Megapack factory, reached 200 Megapacks a week, which is now a 40 gigawatt hour a year run rate.
+
+And, we have a second factory in Shanghai that will begin with a 20 gigawatt hour a year run rate in Q1 next year, so next quarter. And, that will also scale up. It won't be long before, we're shipping a 100 gigawatt hours a year, stationary storage at Tesla. And that'll ultimately grow I think to multiple terawatt hours per year. It has to actually in order to have a sustainable energy future. If you're not at the terawatt scale, you're not really moving the needle. So if you look at our admittedly very complicated last master plan, which I think actually is too much detail. I'll -- maybe I'll ask [Vaibhav] (ph) to analyze it.
+
+Unidentified Company Representative:Sure Elon.
+
+Elon Musk:Can give us the TLDR on the last master plan. But we showed in that last plan that it is possible to take all of us to a fully sustainable energy situation, using sustainable energy power generation and batteries and electric transport. And there are no fundamental material limitations. Like, there's not some very rare material that we don't have enough of on earth. We actually have enough of raw materials to, yeah, take all of human civilization make it fully sustainable. And even if civilization dramatically increased its electricity usage, it would still be fully sustainable. One way to think of the progress of a civilization, it's based out a little esoteric, but is percentage completion of Kardashev scale.
+
+So Kardashev Scale 1 would be you're using all the power of a planet. We were we're currently less than 1% on Kardashev Level 1. Level 2 would be using all the power of the sun. And level 3, all the power of the galaxy. So we have a long way to go. Long way to go. When you think in Kardashev terms, it becomes obvious that by far the biggest source of energy is the sun. Everything else is in the noise. So in conclusion, Tesla is focused on building the future of energy, transport, robotics, and AI. And this is a time when others are just focused on managing around near term trends.
+
+We think what we're doing is the right approach. And, if we execute on our objectives, then I think we will. Tesla my prediction is Tesla will become the most valuable company in the world and probably by a long by a long shot. I want to thank the Tesla team once again for strong execution in a tough operating environment, and we're looking forward to building, an incredibly exciting future. Thank you.
+
+Travis Axelrod:Great. Thank you very much, Elon. And I'll let Vaibhav pass some more big remarks as well.
+
+Vaibhav Taneja:Yeah. Thanks. Our Q3 results were positive and once again, demonstrate the scale to which businesses evolved. What they use with the generation of record operating cash flows of $6.3 billion. Our automotive revenues grew both quarter-on-quarter, year-on-year. While we had unit volume growth, we did experience reduction in ASPs, primarily due to the impact of financing incentives. As a reminder, we are providing these incentives primarily using third-party banks and financial institution and recognize the cost of these incentives as an upfront reduction to them. We released FSD for Cybertruck and other features like Actually Smart Summon, like Elon talked about in North America, which contributed $326 million of revenues in the quarter.
+
+We continue to see elevated levels of regular 2 week credit sales with over $2 billion of revenues so far this year. To expand on this at an industrial level, China continues to outperform U.S. and Europe by a factor of three. And if there is something to be learned from that, this gives a signal of what is to come in other regions. As customers’ acceptance of EV growth. And we feel that is the right strategy to build affordable and more compelling leads. Our focus remains on growing unit volume, while avoiding a build-up of inventory. To support this strategy, we're continuing to offer extremely compelling vehicle financing options in every market.
+
+When you compare any vehicle in our lineup with other OEMs, believe our vehicles provide much better value, particularly when you consider the safety features, performance, and unparalleled software functionalities, like David also talked about, include also what, Ashok talked about around autonomy, music options, parental controls, and much more. While every vehicle in our lineup comes up with these capabilities, there is an awareness gap, not just with buyers, but at times, even with existing owners. We plan on making these more visible in our interactions with both existing and future customers. Automotive margins improved quarter over quarter as a result of a 50 features released discussed before.
+
+Increase in our overall production and delivery volume, albeit benefit from the marketing pricing, and more localized deliveries in region, which resulted in lower freight and duties. Sustaining these margins in Q4, however, will be challenging given the current economic environment. Note that we are focused on the cost per vehicle, and there are numerous work streams within the company to squeeze that cost without compromising on customer experience.
+
+Elon Musk:Yes. I'm assuming that's a helpful -- hopefully, a helpful macro trend is if there's a decline in interest rates, this has a massive effect on the, automotive demand. The vast majority of people is or the demand is driven by the monthly payment. Can they put monthly payment? So, like, most likely, we'll see continue to decline interest rates, which helps with affordability vehicles.
+
+Vaibhav Taneja:Yeah. I mean, that is one trend which we observed in the industry that, because of affordability being impacted because of interest rates, People are willing to take cars longer, especially in the U.S. And that is actually having an impact on all our industry too. As we discussed, earlier, as we discussed impact orders, energy deployments fluctuate quarter over quarter due to customer readiness, location of orders being fulfilled, and not necessarily an indicator of demand or production within the quarter. While we did see a decline in Q3, we expect to grow our deployment sequentially in Q4 to end the year with more than doubled of last year.
+
+Energy margins in Q3 were a record at more than 30%. This is a function of mix of projects being deployed in the quarter. Note that there will be fluctuation in margins as we manage through deployments and our inventory. Our pipeline and backlog continue to grow quarter over quarter as we fill our 2025 production slots, and we're doing our little best to keep up with the demand. Just coming back on automotive margins, I talked about -- sorry. I talked about what is happening. One other thing which I want to also share is that we're -- that we will continue to keep whatever we can to squeeze like I said before about squeezing out the cost.
+
+But this is something which we also are very capable of. I mean, just in Q3, we reached our lowest cost per micro. And that is a trend which we will keep focus on. Then going on to service and other, we continue to show improvements in Q3. This was a result of better performance, both in our service business, which includes collision part sales and merchandise, and continued growth in supercharging. These field based revenues will continue to grow as the overall fleet size increases. Our operating expenses declined quarter over quarter in a year on year basis. This is partially due to the restructuring we undertook in Q2.
+
+Cost savings from these initiatives were partially offset by increase in costs related to our AI efforts. We've started using the GPU cluster based out of our factory house and ahead of schedule, and are on track to get 50k GPUs deployed in Texas by the end of this month. One thing which I'd like to elaborate is that we're being very judicious on our AI compute spend too and saying how best we can utilize the existing infrastructure before making further investments. On the CapEx front, we had about $3.5 billion in the quarter. This was a sequential increase largely because of investments in AI compute.
+
+We now expect our CapEx for the year to be in excess of $11 billion. We shared our vision for the future at the real world event at the beginning of the month. The Tesla team is hyper focused on delivering on that version, and all efforts are underway to make it a reality. While we've achieved significant progress this year, it will take time to get this as we find a new and incredibly complex technologies and navigate a fragmented regulatory landscape. Future is incredibly bright, and I want to thank the Tesla team once again for all their help.
+
+A - Travis Axelrod:Great. Thank you very much, Vaibhav. Now we'll go to investor questions. The first one is, is Tesla still on track to deliver the more affordable model next year as mentioned by Elon earlier? And how does it align with your AI product roadmap?
+
+Lars Moravy:Sure. I mean, as Elon and Vaibhav both said, you are in plan, to meet that in the first half of next year. Our mission has always been to lower the cost of our vehicles to increase the adoption of sustainable energy and transport. Part of that is lowering the cost for current vehicles, which is where, all of the personally owned vehicles that we sell today come in. But the next stage in that really is it fits into AI roadmap is when we bring in robotaxis, which lowers the initial cost of getting into an EV. And those -- that's really where we see the marriage of EV road map and the AI road map.
+
+Elon Musk:Yeah. It'll be with incentive sub-30k, which is kind of a key threshold.
+
+Travis Axelrod:Great. Thank you very much. Similar, question next. When can we expect Tesla to give us the $25,000 non-robotaxi regular car model?
+
+Elon Musk:We're not breaking it on.
+
+Lars Moravy:Yeah. All our vehicles today are road jets.
+
+Elon Musk:I think we've made very clear that, we're the future is autonomous. It I mean, I it's going to be you know, I've actually said this many years ago, but that, in my strong belief, and I believe that is panning out to be true. So and I'll be very obvious in retrospect, is that the future is autonomous electric vehicles, and, non-autonomous gasoline vehicles in the future will be like riding a horse and using a foot bone. It's not that there are no horses. Yeah. There are some horses, but they're unusual. They're niche. And so it just everything's going to be electric autonomous.
+
+I think this is like it should be frankly blindingly obvious at this point that is the future. So a lot of automotive companies or most automotive companies have not internalized this, which is surprising, because we've been shouting this from the rooftops for such a long time, and it will accrue to their detriment in the future. But all of our vehicles in the future will be autonomous. Yes. So all the vehicles that we've really made, all the 7 million vehicles, vast majority are capable of autonomy. And, we're currently making on the order of 35,000 autonomous vehicles a week. Compare that to, say, Waymo's entire fleet is less than – they’ve have less than a 1,000 cars.
+
+We make 35,000 a week.
+
+Lars Moravy:Yeah. And our cars look normal.
+
+Elon Musk:Yeah. They mostly look normal. The Cybertruck looks abnormal. And the, Cybercab/robotaxi. We wanted to have something futuristic working. I think it does look futuristic. And it's worth noting with respect to the Cybercab. It's not it's especially not just a revolutionary vehicle design, but a revolution in vehicle manufacturing that is also coming with the Cybercab. The cycle time, like, the, the units per hour of the Cybercab line it is -- like, this is just really something special. I mean, this is probably a yeah. Half order of magnitude better than other car manufacturing lines. Like not in the same league is what I'm saying. Not in the same league.
+
+So it's -- and I said, like, several years ago that the -- maybe the most I mean, the hottest Tesla product to copy will be the factory. Just like buy a factory.
+
+Lars Moravy:Yeah. In camera versus near a factory, that's up to my --
+
+Elon Musk:Yeah. It's like things yeah. So the and as we so we're rapidly evolving and manufacturing technology. So anyway, there's, like, basically, I think having a regular $25,000 model is pointless. Yeah. It would be silly. Like, it'll be completely at odds with what we believe.
+
+Lars Moravy:In autonomous world. But matters as well as cost per mile of efficiency of that vehicle. And that's what we've done with the robotaxi.
+
+Elon Musk:Exactly. Autonomous, it's fully considered cost per mile, is what matters. And if you try to make a car that is, essentially, a hybrid manual automatic cars. It's not going to be as good as a dedicated autonomous car. So, yeah -- Cybercab is just not going to have steering wheels and pads. It's only designed to optimize for autonomy. But now it'll cost on the order of cost roughly $25,000. So it is a $25,000 car. And you can -- you will be able to buy one on an exclusive exclusively if you want. So just what happens to your mobile phones. You don't need it.
+
+Travis Axelrod:Great. Thank you very much. The next question is, what is Tesla doing to alleviate long wait times at service centers?
+
+Unidentified Company Representative:So we aim on solving problems at the source, so at the factory before they can even affect our customers. We believe the best service is no service and our heads don't even have them.
+
+Elon Musk:If the car doesn't break, yeah. That's the best thing.
+
+Unidentified Company Representative:Exactly. Don't see any with the test. You either do it remote, yeah fix the issue upstream or do it remotely, do it through software, maybe being at work or at home and car can be parked. And we've addressed fixed the issue, and we've partnered the field with service to make sure we're looking at the same issues. And additionally, just in Q3 Q4 of this year alone, we have opened and will open in total at nearly 70 locations. And in North America, we've significantly expand the size of each location and have doubled the size last year compared to this year.
+
+Elon Musk:Yeah. I think it's, like, actually a lot of merit to having large service centers because you can have specialization of labor. Okay. You can start to approach. Yeah. It should be more factory like, where you can have dedicated lanes for particular types of service. And people and it's way easier for somebody to come expert in a few different types of repairs than in every repair.
+
+Unidentified Company Representative:Exactly. This has helped us with the base set, these heavy repairs clogging up the lane. They've dedicated lanes for different type of repairs. And so it's through a bit massively treating it like a factory.
+
+Elon Musk:Yes. This is where a Tesla structure, I think, a strong advantage relative to the rest of the auto industry because we make the cars and we service the cars, whereas I think there's a bit of a conflict of interest with the dealer model and the traditional OEM and dealer model where the dealerships make most of their money on service. And so they don't -- they obviously assistance to reduce the servicing cost, whereas in our case, we are incented to reduce the service and cost because we carry that servicing cost. And we've got a good feedback with our cars.
+
+Unidentified Company Representative:Exactly. If you were with the factory, with the service leaders together, and send back people from the factories that field to the factory to see it firsthand. Suggestions for manufacturing as well as for engineering on design.
+
+Elon Musk:Yeah. So I view this as a structural -- fundamental structural advantage of Tesla versus the rest of the auto industry.
+
+Unidentified Company Representative:Also do a bunch of work on the software side, not only to automate diagnostics so identifying what needs to be done to a car before it comes into service, but also automating all of the preparation work and aligning all the resources that are necessary in order for the car to be very efficiently worked on once it arrives. So the parts are there, like, the lift is scheduled, the technician's schedule, like, everything that's what I'm saying. This is what's wrong with me, and tells us tell the service center.
+
+Unidentified Company Representative:The car everything ready in the van.
+
+Elon Musk:Yeah. Please fix me and this is what's wrong.
+
+Unidentified Company Representative:This is what I'm trying to do now. This is what I'm trying to do. Yeah.
+
+Unidentified Company Representative:Instead of customer trying to translate the car, it's telling us directly and we're pulling that. Yeah.
+
+Elon Musk:Yeah. You don't need most of the time, you don't need to diagnose the car when it arrives. The car yeah -- this is like, again, a fundamental technology advantage and structural advantage compared to the rest of the auto industry.
+
+Vaibhav Taneja:I think it's underappreciated as to what all we are able to do. And that's why because like you said before, most of our cars, except for Cybertruck, look the same. So people don't realize that it has so much capability.
+
+Elon Musk:Yeah. But, like, that's better than other cars. But they don't, like, obviously, like, super futuristic. Yes.
+
+Travis Axelrod:So yeah. Great. Thank you very much. The next question is, please provide an update on the semi. What will the next stage of growth look like, and when will FSD be ready?
+
+Lars Moravy:Sure. So as you we posted in earnings back, we're progressing swiftly on the build of the semi factory in there, in our data factory in Reno. We've released all our major capital expenditures for that program, and we're on track to start, pilot builds in the second half of next year with production starting in the first half of 2026 and ramping really throughout the year to full production. Semi, growth will largely depend on our customers' adoption of the product.
+
+Elon Musk:Well, I don't think we're going to be demand limited, honestly.
+
+Lars Moravy:Yeah. Which I was going to say, which is like a brainer for the semi because it's really a commodity of total cost of ownership.
+
+Elon Musk:Yes. Exactly. It's good. We have kind of ridiculous demand for the semi.
+
+Unidentified Company Representative:In that world where it's about how much do I spend to go to excess lanes per mile, it's a no brainer.
+
+Lars Moravy:Yeah. Fundamentally, if you've got a semi where the fully considered cost per mile or per ton of transport, is better than, say, diesel truck, any company that doesn't adopt an electric semi will lose. It's not -- it's not it's not a subjective thing. It's like whether do you like just a competitive I mean, we like, we want the start we want we want to have a good old semi-truck, but frankly, if we made an oxy semi-truck, it wouldn't matter.
+
+Lars Moravy:And this is proving so in our fleets, in Pepsi's Partner. In fact, the Pepsi actually said last week, they're having nobody want their drivers don't want to go back.
+
+Elon Musk:Yeah. Yeah. As soon as we give anyone the electric semi, it's like -- that's like the choice.
+
+Lars Moravy:It's the, what they want to drive.
+
+Elon Musk:Yeah. That's like so the -- like the most, like their top drivers will, they get to drive the Tesla Semi. It's, it's, it's the, it's the thing they want to drive.
+
+Lars Moravy:It's super fun to drive. It's also very easy to drive.
+
+Elon Musk:It's easy to drive and it holds ass. It's like fast.
+
+Lars Moravy:Superfast. Maybe too fast.
+
+Elon Musk:Well, but I mean, like, like, ring like this. Like, you've seen, like, the videos of where, like, I think, like, Tesla Electric Semi, like, can go uphill Just pass. Speed speeding past, like, the diesel truck or even cars. So, like, it's responsive. It's you floor it and that truck actually hurt.
+
+Lars Moravy:And that's a benefit not only for the driver and for the goods, but also for safety in terms of other drivers on the road. You don't get stuck behind the semi. You're not, like in a slowdown situation in an on ramp. I mean, how that plays into, you know, FSD, which is the second part of the question. All of the semis have been since the couple hundred we've deployed already, and the ones that we'll be building next year and throughout, the future have all the hardware and the cameras necessary to, deploy FSD, and we're currently training with that small fleet that we have.
+
+And as soon as the fleet is trained and the neural nets are up, we'll get FSD onto that platform.
+
+Elon Musk:Yeah. I mean, it'd be a massive improvement in, driver fatigue, because, driver safety, we've got sort of the anti-jack knifing software. You don't have to worry about your brakes overheating if you go down a down a steep hill because the -- we use regenerative, like, that energy goes back into the pack. It's just like it's like radically better than it is in some way. It's what the drivers love it.
+
+Travis Axelrod:Great, guys. Thank you very much. Our next question is, when will Tesla incorporate X and Grok in all of the Tesla vehicles?
+
+Elon Musk:Well, I mean, these are relatively small things. But, yeah, with the -- I think, we'll keep expanding, what is available in the car on the on screen and also improving the browser. So, just generally, you can access anything you want in the car. In fact, for the Tesla we're scheduled for autonomy. You actually want fully a system that is can do anything. Like, if you want to browse the Internet, if you want to ask AI questions, if you want to watch a movie, if you want to play a video game, if you want to do some productivity thing, you can do anything you want in an autonomous vehicle because you don't need to drive.
+
+So that's why the Cybercab got a nice big screen and a great sound system. So you can watch it -- watch a great movie with, it's like being in a Personal movie theater?
+
+Unidentified Company Representative:This is why we've been building this functionality, adding gaming to the car, adding movies and other, you know, all sorts of different media applications of the car because the cars, that's what you're going to -- that's the cars will be built today.
+
+Elon Musk:There's some fun games, by the way. People haven't tried it. There's Castle Doombad and Polytopia and a bunch of really fun games in the car.
+
+Unidentified Company Representative:Yes. We're constantly looking at what features to add next and we're paying attention to what's most commonly requested by our customers.
+
+Elon Musk:Yes. Play Castle, Doombad. You want --
+
+Travis Axelrod:Great. Thank you guys very much. The next question is, Elon mentioned unsupervised FSD in California and Texas next year. Does that mean regulators have agreed to it in the entire state for existing Model 3 and 4 vehicles?
+
+Elon Musk:No. As I said earlier, California lost regulation. But they have a pathway? Yeah. I mean, there's a pathway. Obviously, Waymo operates in California. So there's just a lot of forms but a lot of approvals that are required. I mean, I'd be shocked if we don't get approval next year, but it's just not something we totally control. But I think we will get approval next year, in California and Texas. And for the end of the year, it will branch out be beyond California and Texas.
+
+Lars Moravy:I mean, I think it's important to reiterate this. Like, homogeneity or certifying a vehicle at the federal level in the U.S. is done by meeting FMVSS regulations. All our vehicles today that are produced that are autonomous capable meet all those regulations, cybertruck need those regulations. And so the deployment of the vehicle to the road is not a limitation. What is a limitation is what you said at the state level where they control autonomous vehicle deployment. Some states are relatively easy as you mentioned for Texas. Yeah. And so other ones have in place like California that may take a little longer.
+
+Other ones haven't set up anything yet, and so we will work through those state by state.
+
+Elon Musk:I do think we should have a federal, I agree. Like, autonomous vehicles should be approved. They just should be -- it should be possible to.
+
+Lars Moravy:Congress, if you're listening, let's say the federal AV --
+
+Elon Musk:There should -- there should be a federal approval process for autonomous vehicles. I mean, that's how the FMVSS is worked. Federal Motor Vehicle. The FMBSS is federal.
+
+Unidentified Company Representative:Yeah. So, I mean, in 2017 and ‘18, they we know it's when regulators started looking at it. And it's really kind of stalled since then, but we would appreciate and would support helping out with those regulators.
+
+Elon Musk:It really needs to be a national approval is important. There's department of government efficiency. I'll try to help make that happen. And you said for everyone, not just Tesla, obviously. But just, like some things in the U.S. are state by state regulated for example, insurance. And it's incredibly painful to do it state by state for 50 states. And, I think we should have there should be a natural approval process for autonomy.
+
+Travis Axelrod:Great. Thanks, guys. The next question is, what is the plan for 2025?
+
+Elon Musk:I mean, who we just talked?
+
+Ashok Elluswamy:Yeah. Just. We I mean, basically, we talked through this. There's a lot going on. Elon already mentioned that we're working on cheaper models to come out. I mean, there are work which the team is doing to get the factories ready today to try and make that happen on --
+
+Elon Musk:And by the way, the amount of work required to make a lower cost car is insanely high. But, like, it is harder to get, like, 20% of the cost out of a car than it is to design the car and build the entire factory in the first place. Yeah. It's, like, excruciating. And it's -- and there's not a lot of movies made about the heroes who got 20% of the cost out of a car. But let me tell you, there should be.
+
+Unidentified Company Representative:He's a little changes. And I it's not like a silver.
+
+Elon Musk:Yeah. It's like there should be you the heroes who got 20% cost out of a car is like, damn, I have a lot of respect to them. It was like movie. It's like, I think you probably could make a compelling movie, but I it just no. No. Like, if you actually saw how hard it if people actually saw how hard it was to do that, you'd be like, wow. That's damn hard.
+
+Unidentified Company Representative:Just yesterday we were talking about party.
+
+Elon Musk:Yeah. I mean, honestly, like, literally yeah. I mean, they've been there's a lot of but I do call it sort of like getting cost out of things. It's kind of like it's -- like game of pennies. So it's like game of thrones but pennies. First approximation, if you've got if you've got 10,000 items, in a car, very rough approximation, and each of them cost $4, then you have a $40,000 car. So if you want to make a $35,000 car, you're going to get $0.50 on average out of the 10,000 items.
+
+Unidentified Company Representative:Every part.
+
+Elon Musk:Yeah. And it's like yeah. And then, obviously, the best is you delete some parts. In fact, we've done we have to delete a lot of parts.
+
+Unidentified Company Representative:I'm very excited about the Cybercab design and the well, how we're rethinking the design of a car for the Cybercab, designing it all for high volume production, and then designing machine that builds the machine, that is that I think is also revolutionary. And it's just there's no other car company that's even trying to do what we're doing. Like, I've even heard of it, actually. In fact, I'm certain there is someone like I'm I think this the new machine that pulls the machine, like, it's inherent it's like the it's put it's designed to be, like, 5x better than a traditional factory. Like, cycle time –
+
+Unidentified Company Representative:Cycle time and, like, part deletion and shipment. I don't think any other car company has the same level of, like, integration of thought that we have when it comes to, like, when you design a part from a white sheet of paper, who's going to make it? Where is it going to be made? How is it going be shipped? How is it going to be assembled into the vehicle? And, like, at any one point, if something is done in a silo, it becomes a bottleneck of either cost or time or efficiency.
+
+But with the robotaxi, the development, like, we've done a good job on the like, combining all that and then, like, blowing up how it's made and saying it should be made this way and rethinking it also. It's the most efficient factory possible. That shows in our -- it will show in our CapEx efficiency when we deploy it. It shows in the number of parts. It shows in the simplicity of the vehicle, but also how it performs in terms of, like, end user, state.
+
+Vaibhav Taneja:Just to close-up, just on the energy front also in ‘25, we will have started with flashing up mega factory Shanghai. We'll continue to increase our storage deployments with Powerwall 3. We plan to continue expanding our supercharging network, getting more OEMs on our network. 4680 that as Elon talked about. That would keep going. And then, there's we're also we'll have our lithium refinery starting to produce. So there's a lot which is going on.
+
+Elon Musk:Yes, so many things. Like crazy thing is like Tesla is winning basically on almost every single thing we're doing. If we're not running now, we're in a where their entire large companies, that's the only thing they do.
+
+Vaibhav Taneja:Yeah. I mean, it's a company -- there are multiple companies within the company.
+
+Elon Musk:Yeah. Tesla's like many companies in one.
+
+Travis Axelrod:Yeah. Guys, just a few more. What is going on with the Tesla Roadster?
+
+Elon Musk:Some things. Well, I just thought to go back to our long-suffering deposit holders of the Tesla Roadster. The reason it hasn't come out yet is because it is -- Roadster is not just icing on the cake, it's the cherry on the icing on the cake. And so our larger mission is to accelerate the progress towards a sustainable energy future, trying to do things that maximize probably the future is good for humanity and for Earth. And so that necessarily means that like the things like that are deserved. We'd like -- we'd all love to work on the Tesla -- next-gen -- it is super fun.
+
+And we are working on it, but it has to come behind the more things that have a more serious impact on the -- of the world. So just thank you to all our long-suffering Tesla Roadster deposit holders. And we are actually finally making progress on that. And we're close to finalizing the design on it. It's really going to be something spectacular, mind and some like [Peter Telaria] we're really good friends. Peter was lamenting how the future doesn't have flying cars. Well, we'll see. More to come.
+
+Travis Axelrod:Yeah. Thanks very much. The next one is quite similar to other questions you've had. So when I combine it with the final question. So briefly, could you just detail how robotaxi will roll out? Will it start with a Tesla deployed fleet and then allow customers to add theirs on the subscription model, and then we'll Hardware 3 capable of this.
+
+Ashok Elluswamy:Regarding the Hardware 3, what we saw with was, it was easier to make a progress with starting with Hardware 4 and on the solution and backporting to Hardware 3 instead of directly working on Hardware 3 given that Hardware 4 was more like fundamental hardware capabilities. I think that trend will continue into the next few quarters as well by the first solution rapidly with Hardware 4 and then backwardate and it just takes longer to those things because it's not fundamentally supported in the hardware and it's emulated. But yeah, initially working on Hardware 4, backwarding it to Hardware 3.
+
+Elon Musk:Yes. So answer is we're not 100% sure, but as Ashok mentioned, because by some measure, Hardware 4 has really several times the capability of Hardware 3. It's easier to get things to work with then it takes a lot of effort to sort of squeeze that box analyst hat Hardware 3. And there is some chance that Hardware 3 is -- does not achieve the safety level that allows for unsupervised FSD. There was some chance of that. And if that turns out to be the case, we will upgrade those who bought hardware 3 FSD for free. And we have designed the system to be upgradable.
+
+So it's and it's really it's really what just to switch sort of switch out the computer type thing. Like, the camera the cameras are yeah. They're capable. But, anyway, we don't we don't actually know the answers to that. But if it does turn out, we will take we'll make sure we take care of those who are bored FSD on Hardware 3.
+
+Travis Axelrod:Great. In the last few minutes that we have left, we will try to get in some analyst questions. The first question will be coming from, Pierre Ferragu at New Street. Pierre, please feel free to unmute yourself.
+
+Ferragu Pierre:Thanks a lot, guys, for taking my question. I was wondering about, like, the compute you're, you're ramping up. So you gave, like, interesting statistics on how much you have, and you said you don't feel your compute's constrained. And I was wondering, how you are putting to work this additional compute. Is that a game for you of creating, like, larger and larger models, like next generation of models that are larger the way OpenAI go from GPT-3 to GPT-4, or is that more like you're set on your model and you need to throw more and more compute to accelerate the pace of learning to improve reliability.
+
+And then I had a quick follow-up really quick on your rollout in Texas and in California next year. The plan as you see today, is it to roll out, like, a fleet or two, with, cars that will start with, like, a supervisory, like, some soup onboard supervision, someone, sitting at the wheel just in case and removing the supervisors progressively, or are you aiming for going, free fledged without even a human super supervisor when you get started?
+
+Elon Musk:Okay. Well, I guess we're going to I'll answer, yeah, the first part of the question. The nature of real world AI is, different from, say, an LLM in that, you have a massive amount of context. So that, like, the you've got, case of Tesla 7 or 8 cameras, that, 9 up to 9 if you include the internal camera that so you got gigabytes of context, and that is then distilled down into a small number of control outputs. Whereas it's like you don't really it's very rare to have in fact, I'm not sure any LLM out there who can do gigabytes of context.
+
+And then you've got to then process that in the car with a very small amount of compute power. So, it's all doable and it's happening, but it is a different problem than what, say, a Gemini or OpenAI is doing. And now part of the way you can make up for the fact that the inference computer is quite small is by spending a lot of effort on training. And just like a human, like, you the more you train on something, the less mental workload it takes when you try to -- when you do it, like when the first time like a driving it absolves your whole mind.
+
+But then as you train more and more on driving different than the driving becomes a background task. It doesn't -- it only solves a small amount of your mental capacity because you have a lot of training. So we can make up for the fact that the insurance computers -- it's tiny compared to a 10-kilowatt bank of GPUs because you've got a few hundred watts of inference compute. We can make up that with heavy training. So yeah, that's -- and then there's also vast amounts to the actual petabytes of data coming in tremendous.
+
+And then sorting out what training is important of the vast amounts of video training video data coming complete what is actually most important for trading. That's quite difficult. But as I said, we're not currently training compute constraint. -- had you want levering
+
+Ashok Elluswamy:Like you mentioned, the training has both an large models, also the trend quicker. But in the end, we still got to take which models are performing better. So the validation network to picking the models because as mentioned this pretty large. We had to drive a lot of miles going close to. We do have simulation and other ways to get those metrics. Those two help, but in the end, that's a big bottleneck. That's why we're not trying to compete constraint alone. And there's other access of scaling as well, which is a data figuring office as more useful. That is an important as focusing on that.
+
+Unidentified Company Representative:Yeah. So as it relates to the second part of your question, Pierre, about safety drivers and rolling it out. Each state has different requirements in terms of how many miles and how much time you need to have a safety driver and not have a safety driver. We're going to follow all those were not regulations are out there. But safety is a priority. But the goal is obviously at when we're ready and safety is there, we'll address from the --
+
+Elon Musk:Yeah. I mean, I guess like we think that we'll be able to have driverless Teslas during paid rides next year, sometime next year.
+
+Travis Axelrod:All right. Thank you. And our next question comes from Adam Jonas at Morgan Stanley. Adam, please feel free to unmute yourself.
+
+Adam Jonas:Okay, thanks, everybody. I just had a question about the relationship between Tesla and xAI. Many investors are still not clear how the work at xAI is truly beneficial to Tesla. Some even take the view that the two companies may even be in competition with each other in terms of talent and tech and even your time, Elon. So what's your message to investors on that relationship between Tesla and xAI? And where do you see it going over time?
+
+Elon Musk:Well, I should say that xAI has been helpful to Tesla AI quite a few times in terms of things like scaling it, bought it, like training, just even like recently in the last week or so, improvements in training, where if you're doing a big training one and it fails, be able to continue training and is to recover from a training on has been pretty helpful. But it but there are different problems. xAI is working on artificial general intelligence or artificial super intelligence. Tesla's trying to make autonomous cars and autonomous robots. They're different problems. So, yeah. I mean --
+
+Ashok Elluswamy:I think we've said this before also. Like, all not all AI is equal. Right? I mean, there's AI is a broad spectrum. And we have our own swim lanes. Here, there are certain things which we can collaborate on if needed, but for the most part, we're solving different issues.
+
+Elon Musk:Yeah. Tesla’s focus on real world data. And like I said, saying it is quite a bit different from an element. Because, like, you have you have massive context in the form of video and some other audio, that's going to be distilled very like, with extremely efficient advanced compute. I do think Tesla's the most efficient, in the world in terms of inference compute. Like, because out of necessity, we have to we have to be very good at in efficient inference. We can't pretend 10 kilowatts of GPUs in a car. We've got a couple 100 watts. So, it's pretty well designed Tesla AI chip, but it's still a couple 100 ones. But there are different problems.
+
+I mean, this is, like, the stuff that I said is, like, we're going to running in burns. I mean, it's it is running in burns. Like, answering persons, answering questions on a 10 kilowatt rack. It's like, yeah. Put that in the car. It's a different file. No. Exactly. So, xAI is because I felt there wasn't there wasn't a truth seeking digital super intelligence company out there. Like, that's what it came down to. Like, they needed to be a truth seeking like, an AI company that is very rigorous about, being truthful. So I'm not saying xAI is perfect, but that is but that is at least the explosive aspiration.
+
+Even if something is politically incorrect, it should still be truthful. I think this is very important for AI safety. So anyway, I think AI, xAI will it has been helpful to Tesla and will continue to be helpful to Tesla, but they are very different problems. Great. And, I mean, like, if you it also thinking like, what is like, what other car company has that -- has a world class trip design team? Like 0. What other car company has a world class AI team like Tesla does? 0. Those were all startups. They're created from scratch.
+
+Travis Axelrod:Great. Thank you, Elon. And I think that's unfortunately all the time that we have for today. We appreciate all of your questions, and we look forward to hearing you next quarter. Thank you very much and goodbye.

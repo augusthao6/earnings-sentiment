@@ -1,0 +1,4879 @@
+EX-99
+2
+pfe-12312022xex99.htm
+EX-99
+Document
+Exhibit 99
+PFIZER REPORTS RECORD FULL-YEAR 2022 RESULTS AND                                    PROVIDES FULL-YEAR 2023 FINANCIAL GUIDANCE
+▪
+Full-Year 2022 Revenues of $100.3 Billion, An All-Time High for Pfizer, Reflecting 30% Operational Growth
+–
+Excluding Contributions from Paxlovid and Comirnaty
+(1)
+, Revenues Grew 2% Operationally
+▪
+Strong Fourth-Quarter 2022 Revenues of $24.3 Billion, Reflecting
+13% Operational Growth
+–
+Excluding Contributions from Paxlovid and Comirnaty
+(1)
+, Revenues Grew 5% Operationally
+▪
+Full-Year 2022 Reported Diluted EPS
+(2)
+of $5.47, Up 42% Year-Over-Year, and Adjusted Diluted EPS
+(3)
+of $6.58, Up 62% Year-Over-Year, Both of Which Represent All-Time Highs for Pfizer
+▪
+Fourth-Quarter 2022 Reported Diluted EPS
+(2)
+of $0.87, Up 48% Year-Over-Year, and Adjusted Diluted EPS
+(3)
+of $1.14, Up 45% Year-Over-Year
+–
+Includes a $0.32 Benefit from Lower Acquired IPR&D Expenses Compared to Fourth-Quarter 2021
+▪
+Provides Full-Year 2023 Revenue Guidance
+(4)
+of $67.0 to $71.0 Billion and Adjusted Diluted EPS
+(3)
+Guidance of $3.25 to $3.45
+–
+Full-Year 2023 Revenues Excluding COVID-19 Products Expected to Grow 7% to 9% Operationally Compared to Full-Year 2022
+–
+Full-Year 2023 Revenue Guidance for Comirnaty
+(1)
+of ~$13.5 Billion and Paxlovid of ~$8 Billion
+–
+Revenues from COVID-19 Products Expected to Grow in 2024 After Reaching a Low Point in 2023 Due to Significant Government Supply on Hand to Start the Year
+–
+Company Plans to Make Significant Incremental Investments in 2023 to Support Launch Products and R&D Projects that are Expected to Drive its Long-Term Growth Ambitions
+▪
+Continues to Make Progress on Pfizer’s Unprecedented Number of Anticipated Launches of New Products and Indications, Including Recent Regulatory Filing Acceptances for Prevnar 20 Pediatric, its RSV Vaccine for Older Adults, Etrasimod, and its Pentavalent Meningococcal Vaccine
+NEW YORK, NY, Tuesday, January 31, 2023 – Pfizer Inc. (NYSE: PFE) reported exceptional financial results for fourth-quarter and full-year 2022 and provided 2023 financial guidance
+(4)
+.
+The fourth-quarter 2022 earnings presentation and accompanying prepared remarks from management as well as the quarterly update to Pfizer’s R&D pipeline can be found at www.pfizer.com.
+EXECUTIVE COMMENTARY
+Dr. Albert Bourla, Chairman and Chief Executive Officer, stated: “2022 was a record-breaking year for Pfizer, not only in terms of revenue and earnings per share, which were the highest in our long history, but more importantly, in terms of the percentage of patients who have a positive perception of Pfizer and the work we do. As proud as we are about what we have accomplished, our focus is always on what is next. As we turn to 2023, we expect to once again set records, with potentially the largest number of new product and indication launches that we’ve ever
+- 1 -
+had in such a short period of time. We believe that the combination of these expected near-term launches, additional pipeline products that could potentially come to market in the medium-term, and anticipated contributions from business development, has the potential to set the company up for continued robust growth through the rest of this decade and beyond.”
+David Denton, Chief Financial Officer and Executive Vice President, stated: “I am very pleased with our fourth-quarter performance, which was highlighted by strong operational growth from Paxlovid, Prevnar 20, Comirnaty, Vyndaqel and Eliquis, as well as the inclusion of Nurtec ODT/Vydura and Oxbryta. For the full-year, we achieved revenues of over $100 billion, including 10 medicines or vaccines that generated revenues of more than $1 billion each, and all of this was accomplished despite operating in an environment in which foreign exchange reduced our revenues by 7%. Looking forward to 2023, we expect strong topline growth of 7% to 9% excluding our COVID-19 products and anticipated foreign exchange impacts. We are also increasing our investments behind our launch products and pipeline in order to help realize our growth goals for 2023 and beyond.”
+Results for the fourth-quarter and full-year 2022 and 2021
+(5)
+are summarized below.
+OVERALL RESULTS
+($ in millions, except
+per share amounts)
+Fourth-Quarter
+Full-Year
+2022
+2021
+Change
+2022
+2021
+Change
+Revenues
+$ 24,290
+$ 23,838
+2%
+$  100,330
+$  81,288
+23%
+Reported Net Income
+(2)
+4,995
+3,393
+47%
+31,372
+21,979
+43%
+Reported Diluted EPS
+(2)
+0.87
+0.59
+48%
+5.47
+3.85
+42%
+Adjusted Income
+(3)
+6,551
+4,543
+44%
+37,717
+23,196
+63%
+Adjusted Diluted EPS
+(3)
+1.14
+0.79
+45%
+6.58
+4.06
+62%
+REVENUES
+($ in millions)
+Fourth-Quarter
+Full-Year
+2022
+2021
+% Change
+2022
+2021
+% Change
+Total
+Oper.
+Total
+Oper.
+Global Biopharmaceuticals Business (Biopharma)
+(6)
+$ 23,922
+$ 23,456
+2%
+13%
+$ 98,988
+$ 79,557
+24%
+31%
+Primary Care
+(6)
+17,348
+16,225
+7%
+20%
+73,023
+52,029
+40%
+49%
+Specialty Care
+(6)
+3,566
+3,989
+(11%)
+(3%)
+13,833
+15,194
+(9%)
+(4%)
+Oncology
+(6)
+3,007
+3,242
+(7%)
+(3%)
+12,132
+12,333
+(2%)
+2%
+Pfizer CentreOne
+$ 368
+$ 382
+(4%)
+1%
+$ 1,342
+$ 1,731
+(22%)
+(19%)
+TOTAL REVENUES
+$ 24,290
+$ 23,838
+2%
+13%
+$ 100,330
+$ 81,288
+23%
+30%
+Beginning in the first quarter of 2022, Pfizer implemented changes to its Adjusted
+(3)
+financial measures with respect to acquired in-process research and development (IPR&D) costs and amortization of intangibles. More
+- 2 -
+information about these changes and their impact on the periods presented can be found in the
+Non-GAAP Financial Measure: Adjusted Income
+section of this press release.
+Beginning in the third quarter of 2022, Pfizer has made several organizational changes to further transform its operations to better leverage its expertise in certain areas and in anticipation of potential future new product or indication launches. These changes include establishing a new commercial structure within Biopharma focused on three broad customer groups (primary care, specialty care and oncology)
+(6)
+, optimizing our end-to-end R&D operations and further prioritizing our internal R&D portfolio, as well as realigning certain enabling and platform functions across the organization to ensure alignment with this new operating structure.
+Prior period amounts have been revised to conform to the current period presentation for all changes discussed above.
+Business development activities
+(7)
+completed in 2021 and 2022
+(5)
+impacted financial results in the periods presented. Some amounts in this press release may not add due to rounding. All percentages have been calculated using unrounded amounts. References to operational variances pertain to period-over-period changes that exclude the impact of foreign exchange rates
+(8)
+.
+2023 FINANCIAL GUIDANCE
+(4)
+Pfizer’s 2023 financial guidance is presented below. This guidance includes management’s expectations for contributions from the entire company, including Comirnaty
+(1)
+and Paxlovid.
+2022 Actual Results
+2023 Financial Guidance
+Revenues
+$100.3 billion
+$67.0 to $71.0 billion
+Operational
+(8)
+Growth/(Decline) vs. Prior Year
+30%
+(33%) to (29%)
+Growth/(Decline) vs. Prior Year
+23%
+(33%) to (29%)
+Adjusted
+(3)
+Diluted EPS
+$6.58
+$3.25 to $3.45
+Operational
+(8)
+Growth/(Decline) vs. Prior Year
+71%
+(50%) to (47%)
+Growth/(Decline) vs. Prior Year
+62%
+(51%) to (48%)
+The midpoint of the guidance range for revenues reflects a 31% operational decrease compared to 2022 revenues. Company revenues are anticipated to be lower in 2023 than in 2022 due entirely to expected revenue declines for Pfizer’s COVID-19 products.
+Excluding COVID-19 products, the Company continues to expect 7% to 9% operational revenue growth in 2023.
+Revenue guidance for Pfizer’s COVID-19 products is as follows:
+▪
+Comirnaty
+(1)
+revenues of approximately $13.5 billion, down 64% from actual 2022 results.
+- 3 -
+▪
+Paxlovid revenues of approximately $8 billion, down 58% from actual 2022 results.
+▪
+In contrast to previous years, guidance for both products is no longer based primarily on expected deliveries under existing signed or committed supply contracts, but now also includes, among other things, anticipated sales through traditional commercial markets in the U.S. in the second half of 2023.
+The midpoint of the guidance range for Adjusted
+(3)
+diluted EPS reflects a 49% operational decrease compared to 2022, primarily driven by anticipated lower revenues from COVID-19 products, higher spending to support anticipated near-term launches and greater investments in certain late-stage pipeline projects.
+Financial guidance for Adjusted diluted EPS
+(3)
+is calculated using approximately 5.75 billion weighted average shares outstanding, and assumes no share repurchases in 2023.
+Other components of Pfizer’s 2023 financial guidance are presented below.
+Adjusted
+(3)
+Cost of Sales as a Percentage of Revenues
+28.0% to 30.0%
+Adjusted
+(3)
+SI&A Expenses
+$13.8 to $14.8 billion
+Adjusted
+(3)
+R&D Expenses
+$12.4 to $13.4 billion
+Acquired IPR&D Expenses
+(4)
+Approximately $0.1 billion
+Adjusted
+(3)
+Other (Income)/Deductions
+Approximately $1.5 billion of income
+Effective Tax Rate on Adjusted
+(3)
+Income
+Approximately 15.0%
+Pfizer’s 2023 financial guidance is based on estimates and assumptions which are subject to significant uncertainties, particularly with regard to the anticipated performance of Comirnaty
+(1)
+and Paxlovid, for which patient demand could be significantly impacted by the infectiousness and severity of the predominant strains of the SARS-CoV-2 virus during 2023.
+Key assumptions incorporated within the guidance follow.
+Key Assumptions for 2023 Guidance
+Commentary
+Operational revenue growth compared to 2022 excluding COVID-19 products
+7% to 9%
+Growth expected to be split among each of three categories: launch, acquired and in-line products
+Incremental SI&A spend to support anticipated new launches, acquired assets and commercial launch of COVID-19 products
+~$1.3 billion
+Investments to support short- and long-term growth aspirations
+Incremental R&D spend to support high-value pipeline programs and acquired assets
+~$1.5 billion
+Includes, among others: GLP-1, elranatamab, respiratory combination vaccines
+- 4 -
+Comirnaty - 2023 Guidance Assumptions
+Commentary
+Estimated proportion of U.S. population that receives a vaccine
+~24%
+Compared to ~31%
+†
+in 2022; Decrease due to fewer primary vaccinations and lower compliance
+Estimated number of doses per vaccinated person per year, on average
+~1.3 doses
+Compared to ~1.4 doses
+†
+in 2022; Decrease due to fewer primary vaccinations
+Estimated Comirnaty market share - U.S.
+~64%
+Consistent with share achieved with most recent bivalent booster in 2022
+†
+Estimated total demand for Comirnaty doses - U.S. (includes use of existing government supply)
+~65 million     doses
+Compared to ~92 million doses
+†
+in 2022
+Assumed timing for delivery of the contracted doses of Comirnaty to the European Commission
+Re-phased over multiple years  (not all in 2023)
+Negotiations on re-phasing of delivery timelines are ongoing
+Paxlovid - 2023 Guidance Assumptions
+Commentary
+Estimated number of total reported symptomatic infections - global*, excluding China
+~112 million
+Compared to ~110 million
+†
+in 2022; Increase due to expected waning of population immune protection due to reduced vaccination rates
+Estimated proportion of symptomatic COVID-19 patients treated with an oral antiviral treatment - global*, excluding China
+~17%
+Compared to ~12%
+†
+in 2022 (partial year only); Increase due to greater awareness/education and full-year implementation
+Estimated Paxlovid share of oral antiviral market - global*, excluding China
+~90%
+Consistent with share achieved in 2022
+†
+Estimated total demand for Paxlovid - global*, excluding China (includes use of existing government supply)
+~17 million courses
+Compared to ~12 million courses
+†
+in 2022 (partial year only); Increase due to broad product availability, greater awareness/education and full-year implementation
+Paxlovid sales to China
+Assumes no sales after April 1, 2023
+Temporary National Reimbursement Drug List currently set to end on April 1, 2023
+General - 2023 Guidance Assumption
+Commentary
+Estimated timing for transitioning Comirnaty and Paxlovid to commercial market in the U.S.
+Second half of 2023
+Assumes prior absorption of existing government supply
+*  Only includes markets where Paxlovid is available, and only includes individuals age 12+/18+ where authorized/approved in accordance with local labeling.
+†  Actual 2022 market data is derived from a combination of public data sources and internal market research.
+CAPITAL ALLOCATION
+During full-year 2022, Pfizer deployed its capital in a variety of ways, which primarily include the following two broad categories:
+▪
+Reinvesting capital into initiatives intended to enhance the future growth prospects of the company, including:
+▪
+$11.4 billion invested in internal research and development projects, and
+- 5 -
+▪
+Approximately $26 billion invested in completed business development transactions, net of cash acquired, including approximately $12.7 billion
+(7)
+for the acquisition of Biohaven Pharmaceutical Holding Company Ltd. (Biohaven), $6.4 billion
+(7)
+for the acquisition of Arena Pharmaceuticals, Inc. and approximately $5.6 billion
+(7)
+for the acquisition of Global Blood Therapeutics, Inc. (GBT).
+▪
+Returning capital directly to shareholders through a combination of:
+▪
+$9.0 billion of cash dividends, or $1.60 per share of common stock, and
+▪
+$2.0 billion, which was used to repurchase 39.1 million shares on the open market in March 2022, at an average cost of $51.10 per share.
+As of January 31, 2023, Pfizer’s remaining share repurchase authorization is $3.3 billion. Current financial guidance does not anticipate any share repurchases in 2023.
+Fourth-quarter 2022 diluted weighted-average shares outstanding used to calculate Reported
+(2)
+and Adjusted
+(3)
+diluted EPS were 5,743 million shares, a decrease of 26 million shares compared to the prior-year quarter, primarily due to shares repurchased in first-quarter 2022, partially offset by shares issued for employee compensation programs.
+QUARTERLY FINANCIAL HIGHLIGHTS (Fourth-Quarter 2022 vs. Fourth-Quarter 2021)
+Fourth-quarter 2022 revenues totaled $24.3 billion, an increase of $452 million, or 2%, compared to the prior-year quarter, reflecting operational growth of $3.0 billion, or 13%, as well as an unfavorable impact of foreign exchange of $2.5 billion, or 11%. Excluding contributions from Paxlovid and Comirnaty
+(1)
+, company revenues grew $571 million, or 5%, operationally.
+Fourth-quarter 2022 operational growth was primarily driven by:
+▪
+Comirnaty
+(1)
+in developed markets, up 67% operationally, driven primarily by the resumption of deliveries of the Omicron-adapted bivalent booster following a previously announced period of significantly lower deliveries of the original vaccine during third-quarter 2022, primarily involving the European Union (EU) and Japan;
+▪
+Paxlovid outside the U.S., which contributed $1.8 billion in revenues, driven by international launches in late 2021 and early 2022 following regulatory approvals or emergency use authorizations (EUAs);
+▪
+Prevnar family (Prevnar 13 & 20) in the U.S., up 79%, driven primarily by strong patient demand following the launch of Prevnar 20 for the eligible adult population and favorable timing of Centers for Disease Control and Prevention (CDC) purchasing of the pediatric indication, partially offset by a reduction in revenues due to a one-time CDC inventory return program for the pediatric indication, the revenue impact of which is expected to be reversed in 2023 upon replenishment;
+- 6 -
+▪
+Revenues from recently acquired products, Nurtec ODT/Vydura and Oxbryta, which contributed $211 million and $73 million in global revenues, respectively;
+▪
+Vyndaqel family (Vyndaqel, Vyndamax, Vynmac) globally, up 31% operationally, driven by continued strong uptake of the transthyretin amyloid cardiomyopathy indication, primarily in developed Europe and the U.S., partially offset by a planned price decrease that went into effect in Japan in second-quarter 2022;
+▪
+Eliquis in the U.S., up 17%, driven primarily by continued oral anti-coagulant adoption and market share gains in non-valvular atrial fibrillation, as well as favorable changes in channel mix; and
+▪
+Prevenar 13 in emerging markets, up 22% operationally, driven primarily by strong growth in China and favorable timing of sales to GAVI, the Vaccine Alliance,
+partially offset primarily by lower revenues for:
+▪
+Comirnaty
+(1)
+in emerging markets, down 81% operationally, primarily due to lower demand for COVID-19 vaccines;
+▪
+Xeljanz globally, down 28% operationally, driven primarily by declines in net price due to unfavorable changes in channel mix in the U.S. and decreased prescription volumes globally resulting from ongoing shifts in prescribing patterns related to label changes;
+▪
+Sutent globally, down 50% operationally, primarily driven by lower volume demand in Europe following its loss of exclusivity in January 2022;
+▪
+Ibrance globally, down 4% operationally, driven primarily by increases in the proportion of patients accessing Ibrance through the U.S. Patient Assistance Program, planned price decreases that recently went into effect in international developed markets and prior-year clinical trial purchases internationally, partially offset by higher volumes across multiple regions; and
+▪
+Eliquis internationally, down 7% operationally, primarily driven by declines in certain emerging markets.
+- 7 -
+GAAP Reported
+(2)
+Income Statement Highlights
+SELECTED REPORTED COSTS AND EXPENSES
+(2)
+($ in millions)
+Fourth-Quarter
+Full-Year
+2022
+2021
+% Change
+2022
+2021
+% Change
+Total
+Oper.
+Total
+Oper.
+Cost of Sales
+(2)
+$  9,648
+$  9,736
+(1%)
+11%
+$  34,344
+$  30,821
+11%
+21%
+Percent of Revenues
+39.7
+%
+40.8
+%
+N/A
+N/A
+34.2
+%
+37.9
+%
+N/A
+N/A
+SI&A Expenses
+(2)
+4,644
+4,104
+13%
+17%
+13,677
+12,703
+8%
+11%
+R&D Expenses
+(2)
+3,615
+3,445
+5%
+7%
+11,428
+10,360
+10%
+12%
+Acquired IPR&D Expenses
+(2)
+73
+2,469
+(97%)
+(97%)
+953
+3,469
+(73%)
+(73%)
+Other (Income)/Deductions––net
+(2)
+( 846)
+( 835)
+1%
+13%
+217
+( 4,878)
+*
+*
+Effective Tax Rate on Reported Income
+(2)
+4.4%
+6.5
+%
+9.6
+%
+7.6
+%
+* Indicates calculation not meaningful.
+Fourth-quarter 2022 Cost of Sales
+(2)
+as a percentage of revenues decreased 1.1 percentage points compared with the prior-year quarter. The decrease was primarily driven by favorable changes in sales mix, including increased sales of Paxlovid and higher alliance revenues, as well as favorable impacts resulting from changes in foreign exchange rates, partially offset by approximately $600 million and approximately $200 million of inventory write-offs related to Paxlovid and Comirnaty
+(1)
+, respectively, and higher operational revenues for Comirnaty
+(1)
+.
+SI&A Expenses
+(2)
+increased 17% operationally compared with the prior-year quarter, primarily reflecting increased investments to support Paxlovid, Comirnaty
+(1)
+and recently acquired and launched products.
+Fourth-quarter 2022 R&D Expenses
+(2)
+increased 7% operationally compared with the prior-year quarter, primarily driven by increased costs to support various vaccine and oncology programs, as well as spending related to recently acquired assets, partially offset by lower spending on programs to treat COVID-19 and certain other late-stage clinical programs.
+Acquired IPR&D Expenses
+(2)
+decreased 97% operationally compared with the prior-year quarter. The acquisitions of Biohaven and GBT in fourth-quarter 2022 qualified as business combinations under U.S. Generally Accepted Accounting Principles (GAAP), resulting in no Acquired IPR&D Expenses
+(2)
+, while the acquisition of Trillium Therapeutics Inc. in fourth-quarter 2021 was accounted for as an asset acquisition, giving rise to approximately $2.1 billion in Acquired IPR&D Expenses.
+Other income––net
+(2)
+increased 13% operationally in fourth-quarter 2022 compared with fourth-quarter 2021, primarily driven by net gains on equity securities in fourth-quarter 2022 versus net losses on equity securities recognized in the prior-year quarter and lower net interest expense, partially offset by lower net periodic benefit credits associated with pension and postretirement plans and higher asset impairment charges.
+- 8 -
+Pfizer’s effective tax rate on Reported income
+(2)
+for fourth-quarter 2022 decreased compared to the prior-year quarter primarily due to a favorable change in the jurisdictional mix of earnings and global income tax resolutions, partially offset by the non-recurrence of tax benefits associated with certain tax initiatives.
+Adjusted
+(3)
+Income Statement Highlights
+SELECTED ADJUSTED
+(3)
+COSTS AND EXPENSES
+($ in millions)
+Fourth-Quarter
+Full-Year
+2022
+2021
+% Change
+2022
+2021
+% Change
+Total
+Oper.
+Total
+Oper.
+Adjusted
+(3)
+Cost of Sales
+$  9,475
+$  9,710
+(2%)
+9%
+$  34,096
+$  30,685
+11%
+20%
+Percent of Revenues
+39.0
+%
+40.7
+%
+N/A
+N/A
+34.0
+%
+37.7
+%
+N/A
+N/A
+Adjusted
+(3)
+SI&A Expenses
+4,414
+3,932
+12%
+17%
+13,049
+12,071
+8%
+11%
+Adjusted
+(3)
+R&D Expenses
+3,610
+3,436
+5%
+7%
+11,409
+10,344
+10%
+12%
+Adjusted
+(3)
+Other (Income)/Deductions––net
+($656)
+($728)
+(10%)
+2%
+($1,954)
+($2,475)
+(21%)
+(13%)
+Effective Tax Rate on Adjusted Income
+(3)
+11.1
+%
+9.5
+%
+11.7
+%
+14.5
+%
+Reconciliations of certain Reported
+(2)
+to non-GAAP Adjusted
+(3)
+financial measures and associated footnotes can be found in the financial tables section of this press release.
+FULL-YEAR REVENUE SUMMARY (Full-Year 2022 vs. Full-Year 2021)
+Full-year 2022 revenues totaled $100.3 billion, an increase of $19.0 billion, or 23%, compared to full-year 2021, reflecting operational growth of $24.6 billion, or 30%, and an unfavorable impact of foreign exchange of $5.5 billion, or 7%. Excluding the revenue growth contributed by Paxlovid and Comirnaty
+(1)
+, revenues for the full-year grew 2% operationally. Operational growth compared to the prior year was driven primarily by:
+▪
+Global sales of Paxlovid;
+▪
+Strong growth of Comirnaty
+(1)
+in developed markets;
+▪
+The launch of Prevnar 20 in the U.S. for the adult population;
+▪
+Continued strong growth of Eliquis globally;
+▪
+Vyndaqel family globally, partially offset by a planned price decrease in Japan; and
+▪
+Newly acquired products Nurtec ODT/Vydura and Oxbryta,
+- 9 -
+partially offset primarily by lower revenues for:
+▪
+Comirnaty
+(1)
+in emerging markets;
+▪
+Xeljanz, Chantix and Sutent globally; and
+▪
+Ibrance in developed Europe and the U.S.
+RECENT NOTABLE DEVELOPMENTS (Since November 1, 2022)
+Product Developments
+▪
+Comirnaty (COVID-19 vaccine, mRNA)
+(9)
+▪
+Clinical and Research Developments
+▪
+In November 2022, Pfizer and BioNTech SE (BioNTech) announced updated clinical data from a Phase 2/3 clinical trial demonstrating a robust neutralizing immune response one-month after a 30-µg booster dose of the companies’ Omicron BA.4/BA.5-adapted bivalent COVID-19 vaccine (Pfizer-BioNTech COVID-19 Vaccine, Bivalent (Original and Omicron BA.4/BA.5)). Immune responses against BA.4/BA.5 sublineages were substantially higher for those who received the bivalent vaccine compared to the companies’ original COVID-19 vaccine, with a similar safety and tolerability profile between both vaccines.
+▪
+In November 2022, Pfizer and BioNTech announced results from an analysis examining the immune response induced by their Omicron BA.4/BA.5-adapted bivalent COVID-19 vaccine against newer Omicron sublineages, including BA.4.6, BA.2.75.2, BQ.1.1 and XBB.1. These data were posted on the preprint server bioRxiv and indicate that the companies’ bivalent vaccine elicits a greater increase in neutralizing antibody titers than the companies’ original COVID-19 vaccine against these emerging Omicron sublineages.
+▪
+In November 2022, Pfizer and BioNTech announced that the companies have initiated a Phase 1 study to evaluate the safety, tolerability and immunogenicity of a next-generation COVID-19 vaccine candidate that aims to enhance SARS-CoV-2 T cell responses and potentially broaden protection against COVID-19. This candidate, BNT162b4, is composed of a T cell antigen mRNA encoding for SARS-CoV-2 non-spike proteins that are highly conserved across a broad range of SARS-CoV-2 variants and will be evaluated in combination with the companies’ Omicron BA.4/BA.5-adapted bivalent COVID-19 vaccine.
+▪
+In December 2022, Pfizer and BioNTech announced the companies have received Fast Track Designation from the U.S. Food and Drug Administration (FDA) for their mRNA-based combination vaccine candidate for influenza and COVID-19, which aims to help prevent two
+- 10 -
+respiratory diseases with a single injection. The vaccine candidate is based on BioNTech’s proprietary mRNA platform technology and contains mRNA strands encoding the wild-type spike protein of SARS-CoV-2 and the spike protein of the Omicron sublineages BA.4/BA.5, as well as mRNA strands encoding the hemagglutinin of four different influenza strains, recommended for the Northern Hemisphere 2022/23 by the World Health Organization. A Phase 1 trial to examine the safety, tolerability, and immunogenicity of the combined influenza and COVID-19 candidate vaccine among healthy adults was initiated in November 2022.
+▪
+Regulatory Developments
+▪
+In November 2022, Pfizer and BioNTech announced the European Medicines Agency (EMA) Committee for Medicinal Products for Human Use (CHMP) recommended marketing authorization for a 10-µg booster dose of the companies’ Omicron BA.4/BA.5-adapted bivalent COVID-19 vaccine (Comirnaty Original/Omicron BA.4/BA.5 5-µg/5-µg) for children 5 through 11 years of age. The recommendation was subsequently endorsed by the European Commission (EC).
+▪
+In December 2022, Pfizer and BioNTech announced the FDA granted Emergency Use Authorization (EUA) of the companies’ Omicron BA.4/BA.5-adapted bivalent COVID-19 vaccine as the third 3-µg dose in the three-dose primary series for children 6 months through 4 years of age. Children in this age group can receive a primary series consisting of two 3-µg doses of the original Pfizer-BioNTech COVID-19 vaccine followed by a third 3-µg dose of the bivalent vaccine to complete the primary series.
+▪
+Ibrance (palbociclib)
+-- In December 2022, the FDA expanded the indication for Ibrance to include its use in combination with an aromatase inhibitor (AI) for the treatment of HR+/HER2- metastatic breast cancer (mBC), regardless of menopausal status. The approval expands on Ibrance’s existing indication for use in combination with an AI as initial endocrine-based therapy in postmenopausal women or in men, and for use with fulvestrant in patients with disease progression following endocrine therapy. Ibrance is now the only CDK 4/6 inhibitor that is FDA-approved for the treatment of HR+/HER2- mBC in combination with either an AI or fulvestrant regardless of menopausal status.
+▪
+Paxlovid (nirmatrelvir [PF-07321332] tablets and ritonavir tablets)
+(9)
+▪
+In November 2022, Pfizer announced an agreement with the EC to supply Paxlovid to countries participating in the Joint Procurement Agreement across Europe. This agreement is in addition to the bilateral agreements Pfizer has previously signed with 17 EU Member States and will supply participating countries up to 3.4 million treatment courses upon orders being placed. Pfizer began delivery of the initial treatment quantities ordered by the participating countries in November.
+▪
+In December 2022, Pfizer announced it had reached an agreement with the U.S. Government for the
+- 11 -
+purchase of an additional 3.7 million treatment courses of Paxlovid. This purchase supplements the 20 million treatment courses previously contracted by and already delivered to the U.S. Government. The additional 3.7 million treatment courses are planned for delivery in early 2023.
+▪
+In December 2022, Pfizer announced the FDA has extended the review period for the New Drug Application (NDA) for Paxlovid. At the request of the FDA, Pfizer recently submitted additional analyses of efficacy and safety data from the pivotal EPIC-HR (
+E
+valuation of
+P
+rotease
+I
+nhibition for
+C
+OVID-19 in
+H
+igh-
+R
+isk Patients) and supportive EPIC-SR (
+E
+valuation of
+P
+rotease
+I
+nhibition for
+C
+OVID-19 in
+S
+tandard-
+R
+isk Patients) trials to be considered as part of its NDA for Paxlovid. Results from these analyses are consistent with previously disclosed efficacy and safety data for the trials. In order to allow time for a full review of the application, including the additional data analyses submitted, the FDA has extended the Prescription Drug User Fee Act (PDUFA) goal date by three months to May 2023. Pfizer submitted its original NDA seeking approval of Paxlovid in June 2022 and was granted priority review by the FDA.
+▪
+In January 2023, Pfizer announced that the CHMP of the EMA has recommended converting the conditional Marketing Authorization for Paxlovid to standard (also referred to as “full”) Marketing Authorization for the treatment of COVID-19 in adults who do not require supplemental oxygen and who are at increased risk of the disease becoming severe. The EC will review the CHMP recommendation and is soon expected to make a final decision.
+▪
+Prevnar 20 (20-valent pneumococcal conjugate vaccine)
+-- In January 2023, Pfizer announced that the FDA accepted for review a supplemental Biologics License Application (sBLA) for its 20-valent pneumococcal conjugate vaccine candidate for the prevention of invasive pneumococcal disease (IPD) caused by the 20
+Streptococcus pneumoniae
+serotypes contained in the vaccine in infants and children 6 weeks through 17 years of age, and for the prevention of otitis media caused by seven of the 20
+Streptococcus pneumoniae
+serotypes contained in the vaccine. The PDUFA goal date for a decision by the FDA is anticipated in April 2023.
+Pipeline Developments
+A comprehensive update of Pfizer’s development pipeline was published today and is now available at
+www.pfizer.com/science/drug-product-pipeline
+. It includes an overview of Pfizer’s research and a list of compounds in development with targeted indication and phase of development, as well as mechanism of action for some candidates in Phase 1 and all candidates from Phase 2 through registration.
+▪
+Elranatamab (PF-06863135)
+▪
+In November 2022, Pfizer announced its investigational cancer immunotherapy, elranatamab, received Breakthrough Therapy Designation from the FDA for the treatment of people with relapsed or
+- 12 -
+refractory multiple myeloma (RRMM). Elranatamab is a B-cell maturation antigen (BCMA)-CD3-targeted bispecific antibody (BsAb).
+▪
+In December 2022, Pfizer announced 10.4 month follow-up data from the pivotal Phase 2 MagnetisMM-3 clinical trial suggesting elranatamab is efficacious and has a manageable safety profile in patients with RRMM in a heavily pretreated population, who have received at least three classes of prior therapies including a proteasome inhibitor, an immunomodulatory agent, and an anti-CD38 monoclonal antibody (i.e., triple-class refractory or exposed). These data were presented in an oral session at the 64th American Society of Hematology Annual Meeting and Exposition 2022. Data from the ongoing MagnetisMM-3 trial continue to be collected and will be shared as they mature.
+▪
+Etrasimod (Selective S1P Receptor Modulator)
+-- In December 2022, Pfizer announced that the FDA  accepted for review an NDA for etrasimod for individuals living with moderately-to-severely active ulcerative colitis (UC). The FDA’s decision is expected in the second half of 2023. Pfizer also announced that the EMA accepted the Marketing Authorization Application (MAA) for etrasimod in the same patient population with a decision anticipated in the first half of 2024.
+▪
+Fidanacogene elaparvovec (Hemophilia B Gene Therapy)
+-- In December 2022, Pfizer announced positive top-line results from the Phase 3 BENEGENE-2 study (NCT03861273) evaluating fidanacogene elaparvovec for the treatment of adult males with moderately severe to severe hemophilia B. The BENEGENE-2 study met its primary endpoint of non-inferiority and superiority in the annualized bleeding rate of total bleeds post-fidanacogene elaparvovec infusion versus prophylaxis regimen with Factor IX, administered as part of usual care. Fidanacogene elaparvovec was generally well-tolerated in the study, with a safety profile consistent with Phase 1/2 results.
+▪
+PF-06886992 (Pentavalent (MenABCWY) Meningococcal Vaccine Candidate)
+-- In December 2022, Pfizer announced the FDA accepted for review a Biologics License Application (BLA) for its investigational pentavalent meningococcal vaccine candidate, MenABCWY. Pfizer submitted MenABCWY for the prevention of meningococcal disease caused by the most common serogroups in individuals 10 through 25 years of age. If approved and recommended, the vaccine could help simplify the meningococcal vaccination schedule and provide the broadest serogroup coverage of any meningococcal vaccine. The PDUFA goal date for a decision by the FDA is in October 2023.
+▪
+RSVpreF (Respiratory Syncytial Virus (RSV) Bivalent Vaccine Candidate)
+-- In December 2022, Pfizer announced that the FDA accepted for priority review a BLA for its RSV vaccine candidate, PF-06928316 or RSVpreF, as submitted for the prevention of lower respiratory tract disease caused by RSV in individuals 60 years of age and older. The PDUFA goal date for a decision by the FDA is in May 2023.
+▪
+VLA15 (Lyme Disease Vaccine Candidate)
+-- In December 2022, Pfizer and Valneva SE (Valneva) reported antibody persistence data six months after the completion of a three-dose (Month 0-2-6) or a two-
+- 13 -
+dose (Month 0-6) vaccination schedule with their Lyme disease vaccine candidate, VLA15, in both children and adults. The data showed antibody levels declined over time, but remained above baseline six months after completion of a three-dose (Month 0-2-6) or a two-dose (Month 0-6) vaccination schedule, with higher antibody levels observed in the three-dose vaccination schedule versus the two-dose vaccination schedule. No safety concerns were observed in the six-month observational follow-up. The three-dose vaccination schedule is being used in the Phase 3 protocols for all participants.
+Corporate Developments
+▪
+In December 2022, Pfizer business executives and scientific leadership provided updates on the company’s potential near-term product launches, including investigational therapies and vaccines in migraine, RSV, ulcerative colitis, alopecia, multiple myeloma and prostate cancer. Also discussed were key high-value pipeline programs around sickle cell disease, dermatomyositis, hematological malignancies, obesity and type 2 diabetes, as well as Pfizer’s portfolio of mRNA vaccine candidates. If successful and approved, the company anticipates these will be key drivers of Pfizer’s growth through 2030 and beyond.
+▪
+In January 2023, Pfizer announced a significant expansion of its commitment to An Accord for a Healthier World (the Accord) by offering the full portfolio of medicines and vaccines for which it has global rights on a not-for-profit basis to enable greater health for 1.2 billion people living in 45 lower-income countries. The Accord, which was first launched in May 2022, originally included only patented products available in the U.S. and EU, but now includes both patented and off-patent medicines and vaccines that treat or prevent many of the greatest infectious and non-communicable disease threats faced today in lower-income countries. As Pfizer launches new medicines and vaccines, those products will also be included in the Accord portfolio on a not-for-profit basis.
+- 14 -
+For additional details, see the attached financial schedules, product revenue tables and disclosure notice.
+(1)
+As used in this document, “Comirnaty” refers to, as applicable, and as authorized or approved, the Pfizer-BioNTech COVID-19 Vaccine, the Pfizer-BioNTech COVID-19 Vaccine, Bivalent (Original and Omicron BA.4/BA.5), the Comirnaty Original/Omicron BA.1 Vaccine, and Comirnaty Original/Omicron BA.4/BA.5 Vaccine. “Comirnaty” includes direct sales and alliance revenues related to sales of the above-mentioned vaccines, which are recorded within Pfizer’s Primary Care customer group. It does not include revenues for certain Comirnaty-related manufacturing activities performed on behalf of BioNTech, which are included in the Pfizer CentreOne contract development and manufacturing organization. Revenues related to these manufacturing activities totaled $80 million and $188 million for the fourth-quarter and full-year 2022, respectively, and $46 million and $320 million for the fourth-quarter and full-year 2021, respectively.
+(2)
+Revenues is defined as revenues in accordance with U.S. generally accepted accounting principles (GAAP). Reported net income and its components are defined as net income attributable to Pfizer Inc. and its components in accordance with U.S. GAAP. Reported diluted earnings per share (EPS) is defined as diluted EPS attributable to Pfizer Inc. common shareholders in accordance with U.S. GAAP.
+(3)
+Adjusted income and Adjusted diluted EPS are defined as U.S. GAAP net income attributable to Pfizer Inc. common shareholders and Reported diluted EPS attributable to Pfizer Inc. common shareholders before the impact of amortization of intangible assets, certain acquisition-related items, discontinued operations and certain significant items. See the accompanying reconciliations of certain GAAP Reported to Non-GAAP Adjusted information for fourth-quarter and full-year 2022 and 2021. Adjusted income and its components and Adjusted diluted EPS measures are not, and should not be viewed as, substitutes for U.S. GAAP net income and its components and diluted EPS
+(2)
+. See the
+Non-GAAP Financial Measure: Adjusted Income
+sections of Management’s Discussion and Analysis of Financial Condition and Results of Operations in Pfizer’s 2021 Annual Report on Form 10-K and Quarterly Report on Form 10-Q for the quarterly period ended October 2, 2022 and the accompanying
+Non-GAAP Financial Measure: Adjusted Income
+section of this press release for a definition of each component of Adjusted income as well as other relevant information.
+(4)
+Pfizer does not provide guidance for GAAP Reported financial measures (other than revenues and acquired IPR&D expenses) or a reconciliation of forward-looking non-GAAP financial measures to the most directly comparable GAAP Reported financial measures on a forward-looking basis because it is unable to predict with reasonable certainty the ultimate outcome of unusual gains and losses, certain acquisition-related expenses, gains and losses from equity securities, actuarial gains and losses from pension and postretirement plan remeasurements, potential future asset impairments and pending litigation
+- 15 -
+without unreasonable effort. These items are uncertain, depend on various factors, and could have a material impact on GAAP Reported results for the guidance period.
+Financial guidance for full-year 2023 reflects the following:
+▪
+Does not assume the completion of any business development transactions not completed as of December 31, 2022, except for signed transactions, if any, through mid-January 2023, which are expected to give rise to acquired in-process R&D (IPR&D) expenses during fiscal 2023.
+▪
+Reflects an anticipated negative revenue impact of $0.3 billion due to recent and expected generic and biosimilar competition for certain products that have recently lost patent protection or that are anticipated to lose patent protection during fiscal-year 2023.
+▪
+Exchange rates assumed are as of mid-January 2023. Financial guidance reflects the anticipated unfavorable impact of approximately $0.2 billion on revenues and approximately $0.02 on Adjusted diluted EPS
+(3)
+as a result of changes in foreign exchange rates relative to the U.S. dollar compared to foreign exchange rates from 2022.
+▪
+Guidance for Adjusted diluted EPS
+(3)
+assumes diluted weighted-average shares outstanding of approximately 5.75 billion shares, and assumes no share repurchases in 2023.
+(5)
+Pfizer’s fiscal year-end for international subsidiaries is November 30 while Pfizer’s fiscal year-end for U.S. subsidiaries is December 31. Therefore, Pfizer’s fourth quarter and full year for U.S. subsidiaries reflects the three and twelve months ended on December 31, 2022 and December 31, 2021, while Pfizer’s fourth quarter and full year for subsidiaries operating outside the U.S. reflects the three and twelve months ended on November 30, 2022 and November 30, 2021.
+(6)
+Beginning in the third quarter of 2022, Pfizer made several organizational changes to further transform its operations to better leverage its expertise in certain areas and in anticipation of potential future new product or indication launches. Biopharma, Pfizer’s innovative science-based biopharmaceutical business, is operating under a new commercial structure which is designed to better support and optimize performance across three broad customer groups:
+▪
+Primary Care, consisting of the former Internal Medicine and Vaccines product portfolios, products for COVID-19 prevention and treatment, and potential future mRNA and antiviral products.
+▪
+Specialty Care, consisting of the former Inflammation & Immunology, Rare Disease and Hospital
+- 16 -
+(excluding Paxlovid) product portfolios.
+▪
+Oncology, consisting of the former Oncology product portfolio.
+(7)
+The following business development activity, among others, impacted financial results for the current or prior fiscal year:
+▪
+On October 5, 2022, Pfizer announced the completion of its acquisition of Global Blood Therapeutics, Inc. (GBT) for $68.50 per share in cash, for payments of approximately $5.3 billion, net of cash acquired, plus repayment of third-party debt of $331 million for a total net cash deployment of approximately $5.6 billion.
+▪
+On October 3, 2022, Pfizer announced the completion of its acquisition of all the outstanding shares of Biohaven Pharmaceutical Holding Company Ltd. (Biohaven) not already owned by Pfizer for $148.50 per share in cash, for payments of approximately $11.4 billion, net of cash acquired, plus repayment of third-party debt of $863 million and redemption of Biohaven’s redeemable preferred stock for $495 million, for a total net cash deployment of approximately $12.7 billion. Effective immediately prior to the closing of the acquisition, Biohaven completed the spin-off of Biohaven Ltd. (NYSE: BHVN), a new company that retained Biohaven’s non-calcitonin gene-related peptide (CGRP) development stage pipeline compounds. Shares of Biohaven Ltd. were distributed to Biohaven’s shareholders. Pfizer, a Biohaven shareholder, received a pro rata portion of the company’s shares in the distribution and currently owns approximately 1.5% of Biohaven Ltd.
+▪
+On July 18, 2022, GlaxoSmithKline plc. (GSK) completed its demerger of the Consumer Healthcare joint venture which became Haleon, an independent, publicly traded company listed on the London Stock Exchange that holds the joint Consumer Healthcare business of GSK and Pfizer following the demerger. For additional information, see Note 2C to the condensed consolidated financial statements in Pfizer’s Quarterly Report on Form 10-Q for the quarterly period ended October 2, 2022.
+▪
+On June 9, 2022, Pfizer announced the completion of its acquisition of ReViral Ltd., a privately held, clinical-stage biopharmaceutical company focused on discovering, developing and commercializing novel antiviral therapeutics that target respiratory syncytial virus, for a total consideration of up to $536 million, including upfront and development milestones. In connection with the closing of the transaction, Pfizer recorded $426 million of acquired IPR&D expenses in its international third-quarter 2022.
+▪
+On March 11, 2022, Pfizer announced the completion of its acquisition of Arena Pharmaceuticals, Inc., a clinical-stage company developing innovative potential therapies for the treatment of several
+- 17 -
+immuno-inflammatory diseases, for $100 per share, in cash. The total fair value of the consideration transferred was $6.6 billion ($6.2 billion, net of cash acquired), plus $138 million in payments to Arena employees for previously unvested equity compensation awards recognized as an expense, for a total net cash deployment of $6.4 billion.
+▪
+On December 31, 2021, Pfizer completed the sale of its Meridian subsidiary, the manufacturer of EpiPen and other auto-injector products, which generated approximately $300 million in annual revenues and which previously had been managed within the former Hospital therapeutic area. Beginning in the fourth quarter of 2021, the financial results of Meridian are reflected as discontinued operations for all periods presented.
+▪
+On December 24, 2021, Pfizer entered into a multi-year research collaboration with Beam Therapeutics Inc. (Beam) to utilize Beam’s
+in vivo
+base editing programs, which use mRNA and lipid nanoparticles, for three targets for rare genetic diseases of the liver, muscle and central nervous system. Under the terms of the agreement, Pfizer paid Beam a $300 million upfront payment. If Pfizer elects to opt in to licenses for all three targets, Beam would be eligible for up to an additional $1.05 billion in development, regulatory and commercial milestone payments for a potential total deal consideration of up to $1.35 billion. Beam is also eligible to receive royalties on global net sales for each licensed program.
+▪
+On November 17, 2021, Pfizer acquired all outstanding shares, warrants, options and deferred shares not already owned by Pfizer of Trillium Therapeutics Inc., a clinical-stage immuno-oncology company developing therapies targeting cancer immune evasion pathways and specific cell targeting approaches, for a price of $18.50 per share in cash, for total consideration of $2.0 billion, net of cash acquired. Pfizer accounted for the transaction as an asset acquisition since the lead asset, TTI-622, represented substantially all of the fair value of the gross assets acquired. As a result, Pfizer recorded a $2.1 billion charge in fourth-quarter 2021, representing the acquired in-process R&D asset.
+▪
+On November 9, 2021, Pfizer and Biohaven announced a strategic collaboration and license agreement for Pfizer to commercialize rimegepant and zavegepant for the treatment and prevention of migraines outside of the U.S., subject to regulatory approval. Upon the closing of the transaction on January 4, 2022, Pfizer paid Biohaven $500 million, including an upfront payment of $150 million and an equity investment of $350 million. Pfizer recognized $263 million for the upfront payment and premium paid on its equity investment in acquired IPR&D
+expenses.
+▪
+On July 22, 2021, Arvinas Inc. (Arvinas) and Pfizer announced a global collaboration to develop and commercialize ARV-471, an investigational oral PROTAC
+®
+(PROteolysis TArgeting Chimera) estrogen receptor protein degrader. The estrogen receptor is a well-known disease driver in most
+- 18 -
+breast cancers. Under the terms of the agreement, Pfizer paid Arvinas $650 million upfront and made a $350 million equity investment in Arvinas. Arvinas is also eligible to receive up to $400 million in approval milestones and up to $1 billion in commercial milestones. The companies will equally share worldwide development costs, commercialization expenses and profits.
+(8)
+References to operational variances in this press release pertain to period-over-period changes that exclude the impact of foreign exchange rates. Although exchange rate changes are part of Pfizer’s business, they are not within Pfizer’s control and since they can mask positive or negative trends in the business, Pfizer believes presenting operational variances excluding these foreign exchange changes provides useful information to evaluate Pfizer’s results.
+(9)
+Paxlovid and emergency uses of the Pfizer-BioNTech COVID-19 Vaccine or the Pfizer-BioNTech COVID-19 Vaccine, Bivalent (Original and Omicron BA.4/BA.5), have not been approved or licensed by the FDA. Paxlovid has not been approved, but has been authorized for emergency use by the FDA under an EUA, for the treatment of mild-to-moderate COVID-19 in adults and pediatric patients (12 years of age and older weighing at least 40 kg [88 lbs]) with positive results of direct SARS-CoV-2 viral testing, and who are at high-risk for progression to severe COVID-19, including hospitalization or death. Emergency uses of the Pfizer-BioNTech COVID-19 Vaccine and the Pfizer-BioNTech COVID-19 Vaccine, Bivalent have been authorized by the FDA under an EUA to prevent COVID-19 in individuals aged 6 months and older. The emergency uses are only authorized for the duration of the declaration that circumstances exist justifying the authorization of emergency use of the medical product during the COVID-19 pandemic under Section 564(b)(1) of the FFDCA unless the declaration is terminated or authorization revoked sooner. Please see the EUA Fact Sheets at
+www.covid19oralrx.com
+and
+www.cvdvaccine-us.com
+.
+Contacts:
+Media
+Investors
+PfizerMediaRelations@Pfizer.com
+212.733.1226
+IR@Pfizer.com
+212.733.4848
+- 19 -
+PFIZER INC. AND
+SUBSIDIARY COMPANIES
+CONSOLIDATED STATEMENTS OF INCOME
+(1)
+(UNAUDITED)
+(millions, except per share data)
+Fourth-Quarter
+% Incr. /
+Full-Year
+% Incr. /
+2022
+2021
+(Decr.)
+2022
+2021
+(Decr.)
+Revenues
+$
+24,290
+$
+23,838
+2
+$
+100,330
+$
+81,288
+23
+Costs and expenses:
+Cost of sales
+(2)
+9,648
+9,736
+(1)
+34,344
+30,821
+11
+Selling, informational and administrative expenses
+(2)
+4,644
+4,104
+13
+13,677
+12,703
+8
+Research and development expenses
+(2), (3)
+3,615
+3,445
+5
+11,428
+10,360
+10
+Acquired in-process research and development expenses
+(3)
+73
+2,469
+(97)
+953
+3,469
+(73)
+Amortization of intangible assets
+1,130
+957
+18
+3,609
+3,700
+(2)
+Restructuring charges and certain acquisition-related costs
+(4)
+795
+135
+*
+1,375
+802
+71
+Other (income)/deductions––net
+(5)
+(846)
+(835)
+1
+217
+(4,878)
+*
+Income from continuing operations before provision/(benefit) for taxes on income
+5,231
+3,827
+37
+34,729
+24,311
+43
+Provision/(benefit) for taxes on income
+(6)
+230
+249
+(8)
+3,328
+1,852
+80
+Income from continuing operations
+5,000
+3,578
+40
+31,401
+22,459
+40
+Discontinued operations––net of tax
+(1)
+2
+(187)
+*
+6
+(434)
+*
+Net income before allocation to noncontrolling interests
+5,002
+3,391
+48
+31,407
+22,025
+43
+Less: Net income attributable to noncontrolling interests
+8
+(2)
+*
+35
+45
+(24)
+Net income attributable to Pfizer Inc. common shareholders
+$
+4,995
+$
+3,393
+47
+$
+31,372
+$
+21,979
+43
+Earnings per common share––basic:
+Income from continuing operations attributable to Pfizer Inc. common shareholders
+$
+0.89
+$
+0.64
+39
+$
+5.59
+$
+4.00
+40
+Discontinued operations––net of tax
+—
+(0.03)
+*
+—
+(0.08)
+*
+Net income attributable to Pfizer Inc. common shareholders
+$
+0.89
+$
+0.60
+47
+$
+5.59
+$
+3.92
+43
+Earnings per common share––diluted:
+Income from continuing operations attributable to Pfizer Inc. common shareholders
+$
+0.87
+$
+0.62
+40
+$
+5.47
+$
+3.93
+39
+Discontinued operations––net of tax
+—
+(0.03)
+*
+—
+(0.08)
+*
+Net income attributable to Pfizer Inc. common shareholders
+$
+0.87
+$
+0.59
+48
+$
+5.47
+$
+3.85
+42
+Weighted-average shares used to calculate earnings per common share:
+Basic
+5,615
+5,616
+5,608
+5,601
+Diluted
+5,743
+5,768
+5,733
+5,708
+*
+Indicates calculation not meaningful.
+- 20 -
+PFIZER INC. AND SUBSIDIARY COMPANIES
+NOTES TO CONSOLIDATED STATEMENTS OF INCOME - (UNAUDITED)
+(1)
+The financial statements present the three and twelve months ended December 31, 2022 and December 31, 2021. Subsidiaries operating outside the U.S. are included for the three and twelve months ended November 30, 2022 and November 30, 2021.
+Business development activities completed in 2021 and 2022 impacted financial results in the periods presented. Discontinued operations in 2022 relate to post-close adjustments and in 2021 relate to our former Meridian subsidiary through December 31, 2021, the date of disposal, and post-close adjustments.
+Certain amounts in the consolidated statements of income and associated notes may not add due to rounding. All percentages have been calculated using unrounded amounts.
+(2)
+Exclusive of amortization of intangible assets.
+(3)
+In the first quarter of 2022, we began reporting
+Acquired in-process research and development expenses
+as a separate line item in our consolidated statements of income.
+Acquired in-process research and development expenses
+includes costs incurred in connection with (a) all upfront and milestone payments on collaboration and in-license agreements, including premiums on equity securities and (b) asset acquisitions of acquired in-process research and development. These costs were previously recorded in
+Research and development expenses
+. Prior periods have been revised to conform to the current period presentation.
+(4)
+Restructuring charges and certain acquisition-related costs
+include the following:
+Fourth-Quarter
+Full-Year
+(MILLIONS)
+2022
+2021
+2022
+2021
+Restructuring charges/(credits)
+––
+acquisition-related costs
+(a)
+$
+64
+$
+—
+$
+138
+$
+(9)
+Restructuring charges/(credits)
+––
+cost reduction initiatives
+(b)
+450
+86
+744
+750
+Restructuring charges/(credits)
+514
+86
+882
+741
+Transaction costs
+(c)
+102
+20
+144
+20
+Integration costs and other
+(d)
+178
+30
+348
+41
+Restructuring charges and certain acquisition-related costs
+$
+795
+$
+135
+$
+1,375
+$
+802
+(a)
+Includes employee termination costs, asset impairments and other exit costs associated with business combinations.
+(b)
+Includes employee termination costs, asset impairments and other exit costs not associated with acquisitions.
+(c)
+Transaction costs represent external costs for banking, legal, accounting and other similar services.
+(d)
+Integration costs and other represent external, incremental costs directly related to integrating acquired businesses, such as expenditures for consulting and the integration of systems and processes, and certain other qualifying costs.
+(5)
+Components of
+Other (income)/deductions––net
+include:
+Fourth-Quarter
+Full-Year
+(MILLIONS)
+2022
+2021
+2022
+2021
+Interest income
+$
+(137)
+$
+(14)
+$
+(251)
+$
+(36)
+Interest expense
+313
+315
+1,238
+1,291
+Net interest expense
+176
+301
+987
+1,255
+Royalty-related income
+(217)
+(208)
+(845)
+(857)
+Net (gains)/losses on asset disposals
+(6)
+—
+—
+(99)
+Net (gains)/losses recognized during the period on equity securities
+(79)
+257
+1,273
+(1,344)
+Income from collaborations, out-licensing arrangements and sales of compound/product rights
+(170)
+(79)
+(188)
+(396)
+Net periodic benefit costs/(credits) other than service costs
+(555)
+(913)
+(849)
+(2,547)
+Certain legal matters, net
+55
+69
+230
+182
+Certain asset impairments
+(a)
+221
+86
+421
+86
+Haleon/Consumer Healthcare JV equity method (income)/loss
+(154)
+(163)
+(436)
+(471)
+Other, net
+(118)
+(185)
+(378)
+(687)
+Other (income)/deductions––net
+$
+(846)
+$
+(835)
+$
+217
+$
+(4,878)
+(a)
+The amounts in the fourth quarter of 2022 represent, and for full-year 2022 include, intangible asset impairment charges of $221 million, primarily related to developed technology rights acquired in connection with our Hospira, Inc. acquisition. The amount for full-year 2022 also includes an intangible asset impairment charge of
+- 21 -
+PFIZER INC. AND SUBSIDIARY COMPANIES
+NOTES TO CONSOLIDATED STATEMENTS OF INCOME - (UNAUDITED)
+$200 million associated with the discontinuation of the PF-07265803 (lamin A/C protein (LMNA)-related dilated cardiomyopathy) clinical program.
+(6)
+Our effective tax rates for income from continuing operations were: 4.4% and 9.6% in the three and twelve months ended December 31, 2022, respectively, and 6.5% and 7.6% in the three and twelve months ended December 31, 2021, respectively. The effective tax rate for the fourth quarter of 2022 compared to the fourth quarter of 2021 decreased due to a favorable change in the jurisdictional mix of earnings and global income tax resolutions, partially offset by the non-recurrence of tax benefits associated with certain tax initiatives. The higher effective tax rate for full-year 2022, compared to full-year 2021, was mainly due to the non-recurrence of certain initiatives executed in 2021 associated with our investment in the Consumer Healthcare joint venture with GlaxoSmithKline plc, partially offset by tax benefits in 2022 related to global income tax resolutions in multiple tax jurisdictions spanning multiple tax years that included the closing of U.S. Internal Revenue Service audits covering five tax years.
+- 22 -
+PFIZER INC. AND SUBSIDIARY COMPANIES
+NON-GAAP FINANCIAL MEASURE: ADJUSTED INCOME
+Adjusted income is an alternative measure of performance used by management to evaluate our overall performance as a supplement to our GAAP Reported performance measures. As such, we believe that investors’ understanding of our performance is enhanced by disclosing this measure. We use Adjusted income, certain components of Adjusted income and Adjusted diluted EPS to present the results of our major operations––the discovery, development, manufacture, marketing, sale and distribution of biopharmaceutical products worldwide––prior to considering certain income statement elements as follows:
+Measure
+Definition
+Relevance of Metrics to Our Business Performance
+Adjusted income
+Net income attributable to Pfizer Inc. common shareholders
+(a)
+before the impact of amortization of intangible assets, certain acquisition-related items, discontinued operations and certain significant items
+•
+Provides investors useful information to:
+◦
+evaluate the normal recurring operational activities, and their components, on a comparable year-over-year basis
+◦
+assist in modeling expected future performance on a normalized basis
+•
+Provides investors insight into the way we manage our budgeting and forecasting, how we evaluate and manage our recurring operations and how we reward and compensate our senior management
+(b)
+Adjusted cost of sales, Adjusted selling, informational and administrative expenses, Adjusted research and development expenses and Adjusted other (income)/deductions
+––
+net
+Cost of sales, Selling, informational and administrative expenses, Research and development expenses
+and
+Other (income)/deductions––net
+(a)
+, each before the impact of amortization of intangible assets, certain acquisition-related items, discontinued operations and certain significant items, which are components of the Adjusted income measure
+Adjusted diluted EPS
+EPS attributable to Pfizer Inc. common shareholders––diluted
+(a)
+before the impact of amortization of intangible assets, certain acquisition-related items, discontinued operations and certain significant items
+(a)
+Most directly comparable GAAP measure.
+(b)
+Beginning in the first quarter of 2022, we no longer exclude any expenses for acquired IPR&D from our non-GAAP Adjusted results but we continue to exclude certain of these expenses for our financial results for annual incentive compensation purposes.
+Adjusted income and its components and Adjusted diluted EPS are non-GAAP financial measures that have no standardized meaning prescribed by GAAP and, therefore, are limited in their usefulness to investors. Because of their non-standardized definitions, they may not be comparable to the calculation of similar measures of other companies and are presented to permit investors to more fully understand how management assesses performance. A limitation of these measures is that they provide a view of our operations without including all events during a period, and do not provide a comparable view of our performance to peers. These measures are not, and should not be viewed as, substitutes for their most directly comparable GAAP measures of
+Net income attributable to Pfizer Inc. common shareholders
+, components of
+Net income attributable to Pfizer Inc. common shareholders
+and
+EPS attributable to Pfizer Inc. common shareholders—diluted
+, respectively.
+We also recognize that, as internal measures of performance, these measures have limitations, and we do not restrict our performance-management process solely to these measures. We also use other tools designed to achieve the highest levels of performance. For example, our R&D organization has productivity targets, upon which its effectiveness is measured. In addition, total shareholder return, both on an absolute basis and relative to a publicly traded pharmaceutical index, plays a significant role in determining payouts under certain of our incentive compensation plans.
+Beginning in the first quarter of 2022, our reconciliation of certain GAAP Reported to non-GAAP Adjusted information is updated to reflect the following, and prior period information has been revised to conform to the current period presentation:
+Adjusted Income and Adjusted Diluted EPS
+Acquired IPR&D
+—
+Non-GAAP Adjusted financial measures include expenses for all acquired in-process research and development (IPR&D) costs incurred in connection with upfront and milestone payments on collaboration and in-license agreements, including premiums on equity securities, as well as asset acquisitions of acquired IPR&D. Previously, certain of these items were excluded from our non-GAAP Adjusted results. Acquired IPR&D expenses that previously would have been excluded from non-GAAP Adjusted income but are now included in both GAAP Reported income and non-GAAP Adjusted income had no impact in the fourth quarter of 2022 and were approximately: (i) $765 million pre-tax ($665 million, net of tax), or $0.12 per share, in full-year 2022; (ii) $2.4 billion pre-tax ($1.8 billion, net of tax), or $0.32 per share, in the fourth quarter of 2021; and (iii) $3.3 billion pre-tax ($2.6 billion, net of tax), or $0.45 per share, in full-year 2021.
+- 23 -
+PFIZER INC. AND SUBSIDIARY COMPANIES
+NON-GAAP FINANCIAL MEASURE: ADJUSTED INCOME
+Amortization of Intangible Assets
+—
+We began excluding all amortization of intangibles from non-GAAP Adjusted income, compared to excluding only amortization of intangibles related to large mergers or acquisitions under the prior methodology, and presenting it as a separate reconciling line. Previously, the adjustment under the prior methodology was included as part of a reconciling line entitled “Purchase accounting adjustments” that we no longer separately present. The impact of this policy change resulted in benefits of $0.02 and $0.06 on Adjusted diluted EPS in the fourth quarter and full-year 2022, respectively, and $0.02 and $0.09 in the fourth quarter and full-year 2021, respectively.
+Acquisition-Related Items
+—
+Acquisition-related items may now include purchase accounting impacts that previously would have been included as part of a reconciling line entitled “Purchase accounting adjustments” that we no longer separately present, such as: (i) the incremental charge to cost of sales from the sale of acquired inventory that was written up to fair value, (ii) depreciation related to the increase/decrease in fair value of acquired fixed assets, (iii) amortization related to the increase in fair value of acquired debt and (iv) the fair value changes for contingent consideration.
+See the reconciliations of certain GAAP Reported to Non-GAAP Adjusted information for the fourth quarter and full-year 2022 and 2021 below and the
+Non-GAAP Financial Measure: Adjusted Income
+sections of Management’s Discussion and Analysis of Financial Condition and Results of Operations in Pfizer’s 2021 Annual Report on Form 10-K and Quarterly Report on Form 10-Q for the quarterly period ended October 2, 2022 for additional information.
+- 24 -
+PFIZER INC. AND SUBSIDIARY COMPANIES
+RECONCILIATIONS OF GAAP REPORTED TO NON-GAAP ADJUSTED INFORMATION
+CERTAIN LINE ITEMS - (UNAUDITED)
+(millions, except per share data)
+Fourth-Quarter 2022
+Data presented will not (in all cases) aggregate to totals.
+Cost of sales
+(1)
+Selling, informational and administrative expenses
+(1)
+Other (income)/deductions––net
+(1)
+Net income attributable to Pfizer Inc. common shareholders
+(1), (2)
+Earnings per common share attributable to Pfizer Inc. common shareholders––diluted
+GAAP Reported
+$
+9,648
+$
+4,644
+$
+(846)
+$
+4,995
+$
+0.87
+Amortization of intangible assets
+—
+—
+—
+1,130
+Acquisition-related items
+(131)
+(2)
+(23)
+501
+Discontinued operations
+(3)
+—
+—
+—
+(12)
+Certain significant items:
+Restructuring charges/(credits) and implementation costs and additional depreciation—asset restructuring
+(4)
+(26)
+(217)
+—
+695
+Certain asset impairments
+(5)
+—
+—
+(221)
+221
+(Gains)/losses on equity securities
+—
+—
+78
+(78)
+Actuarial valuation and other pension and postretirement plan (gains)/losses
+—
+—
+455
+(455)
+Other
+(6)
+(16)
+(11)
+(100)
+130
+Income tax provision—non-GAAP items
+(576)
+Non-GAAP Adjusted
+$
+9,475
+$
+4,414
+$
+(656)
+(7)
+$
+6,551
+$
+1.14
+Full-Year Ended December 31, 2022
+Data presented will not (in all cases) aggregate to totals.
+Cost of sales
+(1)
+Selling, informational and administrative expenses
+(1)
+Other (income)/deductions––net
+(1)
+Net income attributable to Pfizer Inc. common shareholders
+(1), (2)
+Earnings per common share attributable to Pfizer Inc. common shareholders––diluted
+GAAP Reported
+$
+34,344
+$
+13,677
+$
+217
+$
+31,372
+$
+5.47
+Amortization of intangible assets
+—
+—
+—
+3,609
+Acquisition-related items
+(119)
+(7)
+(74)
+832
+Discontinued operations
+(3)
+—
+—
+—
+(21)
+Certain significant items:
+Restructuring charges/(credits) and implementation costs and additional depreciation—asset restructuring
+(4)
+(88)
+(562)
+—
+1,396
+Certain asset impairments
+(5)
+—
+—
+(421)
+421
+(Gains)/losses on equity securities
+—
+—
+(1,270)
+1,270
+Actuarial valuation and other pension and postretirement plan (gains)/losses
+—
+—
+230
+(230)
+Other
+(6)
+(40)
+(59)
+(636)
+752
+Income tax provision—Non-GAAP items
+(1,683)
+Non-GAAP Adjusted
+$
+34,096
+$
+13,049
+$
+(1,954)
+(7)
+$
+37,717
+$
+6.58
+See end of tables for notes.
+- 25 -
+PFIZER INC. AND SUBSIDIARY COMPANIES
+RECONCILIATIONS OF GAAP REPORTED TO NON-GAAP ADJUSTED INFORMATION
+CERTAIN LINE ITEMS - (UNAUDITED)
+(millions, except per share data)
+Fourth-Quarter 2021
+Data presented will not (in all cases) aggregate to totals.
+Cost of sales
+(1)
+Selling, informational and administrative expenses
+(1)
+Other (income)/deductions––net
+(1)
+Net income attributable to Pfizer Inc. common shareholders
+(1), (2)
+Earnings per common share attributable to Pfizer Inc. common shareholders––diluted
+GAAP Reported
+$
+9,736
+$
+4,104
+$
+(835)
+$
+3,393
+$
+0.59
+Amortization of intangible assets
+—
+(9)
+(1)
+968
+Acquisition-related items
+7
+(1)
+(83)
+125
+Discontinued operations
+(3)
+—
+—
+—
+232
+Certain significant items:
+Restructuring charges/(credits) and implementation costs and additional depreciation—asset restructuring
+(4)
+(26)
+(140)
+—
+252
+Certain asset impairments
+—
+—
+(86)
+86
+(Gains)/losses on equity securities
+—
+—
+(259)
+259
+Actuarial valuation and other pension and postretirement plan (gains)/losses
+—
+—
+669
+(669)
+Other
+(6)
+(7)
+(22)
+(134)
+172
+Income tax provision—non-GAAP items
+(274)
+Non-GAAP Adjusted
+$
+9,710
+$
+3,932
+$
+(728)
+(7)
+$
+4,543
+$
+0.79
+Full-Year Ended December 31, 2021
+Data presented will not (in all cases) aggregate to totals.
+Cost of sales
+(1)
+Selling, informational and administrative expenses
+(1)
+Other (income)/deductions––net
+(1)
+Net income attributable to Pfizer Inc. common shareholders
+(1), (2)
+Earnings per common share attributable to Pfizer Inc. common shareholders––diluted
+GAAP Reported
+$
+30,821
+$
+12,703
+$
+(4,878)
+$
+21,979
+$
+3.85
+Amortization of intangible assets
+—
+(38)
+(2)
+3,746
+Acquisition-related items
+25
+(3)
+(114)
+139
+Discontinued operations
+(3)
+—
+—
+—
+585
+Certain significant items:
+Restructuring charges/(credits) and implementation costs and additional depreciation—asset restructuring
+(4)
+(108)
+(450)
+—
+1,309
+Certain asset impairments
+—
+—
+(86)
+86
+(Gains)/losses on equity securities
+—
+—
+1,338
+(1,338)
+Actuarial valuation and other pension and postretirement plan (gains)/losses
+—
+—
+1,601
+(1,601)
+Other
+(6)
+(52)
+(141)
+(334)
+542
+Income tax provision—Non-GAAP items
+(2,250)
+Non-GAAP Adjusted
+$
+30,685
+$
+12,071
+$
+(2,475)
+(7)
+$
+23,196
+$
+4.06
+- 26 -
+PFIZER INC. AND SUBSIDIARY COMPANIES
+NOTES TO RECONCILIATIONS OF GAAP REPORTED TO NON-GAAP ADJUSTED INFORMATION
+CERTAIN LINE ITEMS - (UNAUDITED)
+(1)
+Items that reconcile GAAP Reported to non-GAAP Adjusted balances are shown pre-tax. Our effective tax rates for GAAP Reported income from continuing operations were: 4.4% and 9.6% in the three and twelve months ended December 31, 2022, respectively, and 6.5% and 7.6% in the three and twelve months ended December 31, 2021, respectively. See Note (6) to the Consolidated Statements of Income above. Our effective tax rates for non-GAAP Adjusted income were: 11.1% and 11.7% in the three and twelve months ended December 31, 2022, respectively, and 9.5% and 14.5% in the three and twelve months ended December 31, 2021, respectively.
+(2)
+The amounts for fourth quarter and full-year 2022 and 2021 include reconciling amounts for
+Research and development expenses
+that are not material.
+(3)
+For 2022, relates to post-close adjustments and for 2021, relates to our former Meridian subsidiary through December 31, 2021, the date of disposal, and post-close adjustments.
+(4)
+Includes employee termination costs, asset impairments and other exit costs related to our cost-reduction and productivity initiatives not associated with acquisitions.
+(5)
+See Note (5) to the Consolidated Statements of Income above.
+(6)
+For 2022, the total
+Other (income)/deductions––net
+adjustments of
+$100 million in the fourth quarter and $636 million for the full-year primarily include (i) charges of $34 million and $307 million, respectively, mostly representing our equity-method accounting pro rata share of restructuring charges and costs of preparing for separation from GlaxoSmithKline plc (GSK) recorded by Haleon/the Consumer Healthcare joint venture (JV), and adjustments to our equity-method basis differences which are also related to the separation of Haleon/the Consumer Healthcare JV from GSK, and (ii) charges for certain legal matters of $55 million and $230 million, respectively. For 2021, the total
+Other (income)/deductions––net
+adjustments of $134 million in the fourth quarter and $334 million for the full-year primarily included (i) charges of $69 million and $162 million, respectively, for certain legal matters and (ii) charges of $50 million and $185 million mostly representing our equity-method accounting pro rata share of restructuring charges and costs of preparing for separation from GSK recorded by the Consumer Healthcare JV. For full-year 2021,
+Selling, informational and administrative expenses
+of $141 million primarily included costs for consulting, legal, tax and advisory services associated with a non-recurring internal reorganization of legal entities.
+(7)
+The components of non-GAAP Adjusted
+Other (income)/deductions––net
+include the following:
+Fourth-Quarter
+Full-Year
+(MILLIONS
+2022
+2021
+2022
+2021
+Interest income
+$
+(137)
+$
+(14)
+$
+(251)
+$
+(36)
+Interest expense
+315
+317
+1,247
+1,297
+Net interest expense
+178
+303
+995
+1,262
+Royalty-related income
+(217)
+(208)
+(845)
+(857)
+Net (gains)/losses on asset disposals
+(6)
+—
+(7)
+(42)
+Net (gains)/losses recognized during the period on equity securities
+(1)
+(2)
+4
+(6)
+Income from collaborations, out-licensing arrangements and sales of compound/product rights
+(170)
+(79)
+(188)
+(396)
+Net periodic benefit costs/(credits) other than service costs
+(99)
+(244)
+(619)
+(946)
+Certain legal matters, net
+—
+—
+—
+20
+Haleon/Consumer Healthcare JV equity method (income)/loss
+(188)
+(213)
+(743)
+(656)
+Other, net
+(153)
+(286)
+(552)
+(854)
+Non-GAAP Adjusted
+Other (income)/deductions––net
+$
+(656)
+$
+(728)
+$
+(1,954)
+$
+(2,475)
+See Note (5) to the Consolidated Statements of Income above for additional information on the components comprising GAAP Reported
+Other (income)/deductions
+––
+net
+.
+- 27 -
+PFIZER INC. - REVENUES
+FOURTH-QUARTER 2022 and 2021 - (UNAUDITED)
+WORLDWIDE
+UNITED STATES
+TOTAL INTERNATIONAL
+(a)
+2022
+2021
+% Change
+2022
+2021
+% Change
+2022
+2021
+% Change
+(MILLIONS)
+Total
+Oper.
+Total
+Total
+Oper.
+TOTAL REVENUES
+$
+24,290
+$
+23,838
+2%
+13%
+$
+8,481
+$
+7,680
+10%
+$
+15,808
+$
+16,159
+(2%)
+14%
+GLOBAL BIOPHARMACEUTICALS BUSINESS (BIOPHARMA)
+(b)
+$
+23,922
+$
+23,456
+2%
+13%
+$
+8,382
+$
+7,564
+11%
+$
+15,539
+$
+15,891
+(2%)
+14%
+Primary Care
+$
+17,348
+$
+16,225
+7%
+20%
+$
+4,815
+$
+3,815
+26%
+$
+12,533
+$
+12,410
+1%
+18%
+Comirnaty direct sales and alliance revenues
+11,329
+12,504
+(9%)
+3%
+2,472
+2,151
+15%
+8,857
+10,353
+(14%)
+1%
+Paxlovid
+1,834
+76
+*
+*
+—
+76
+*
+1,834
+—
+*
+*
+Eliquis alliance revenues and direct sales
+1,479
+1,500
+(1%)
+5%
+843
+720
+17%
+636
+780
+(18%)
+(7%)
+Prevnar family
+(c)
+1,736
+1,302
+33%
+40%
+1,022
+571
+79%
+714
+731
+(2%)
+10%
+Premarin family
+128
+143
+(11%)
+(10%)
+119
+135
+(12%)
+9
+8
+11%
+23%
+BMP2
+76
+80
+(5%)
+(5%)
+76
+80
+(5%)
+—
+—
+—
+—
+Nimenrix
+48
+48
+(1%)
+14%
+—
+—
+—
+48
+48
+(1%)
+14%
+Nurtec ODT/Vydura
+211
+—
+*
+*
+211
+—
+*
+1
+—
+*
+*
+FSME-IMMUN/TicoVac
+23
+24
+(6%)
+9%
+1
+—
+*
+22
+24
+(9%)
+5%
+Toviaz
+16
+64
+(74%)
+(67%)
+(4)
+22
+*
+21
+42
+(51%)
+(39%)
+Trumenba
+15
+16
+(11%)
+(9%)
+12
+14
+(14%)
+3
+3
+1%
+16%
+Chantix/Champix
+—
+(11)
+*
+*
+—
+1
+*
+—
+(12)
+*
+*
+All other Primary Care
+452
+478
+(5%)
+5%
+65
+45
+43%
+388
+433
+(10%)
+1%
+Specialty Care
+$
+3,566
+$
+3,989
+(11%)
+(3%)
+$
+1,553
+$
+1,700
+(9%)
+$
+2,013
+$
+2,289
+(12%)
+1%
+Vyndaqel family
+(d)
+680
+561
+21%
+31%
+355
+251
+41%
+326
+310
+5%
+22%
+Xeljanz
+493
+721
+(32%)
+(28%)
+327
+516
+(37%)
+165
+206
+(20%)
+(7%)
+Enbrel (Outside the U.S. and Canada)
+236
+297
+(21%)
+(8%)
+—
+—
+—
+236
+297
+(21%)
+(8%)
+Sulperazon
+189
+169
+12%
+24%
+—
+—
+—
+189
+169
+12%
+24%
+Inflectra
+129
+171
+(25%)
+(20%)
+62
+108
+(43%)
+68
+63
+7%
+19%
+Ig Portfolio
+(e)
+135
+119
+14%
+14%
+135
+119
+14%
+—
+—
+—
+—
+BeneFIX
+101
+109
+(8%)
+1%
+54
+56
+(4%)
+46
+53
+(12%)
+6%
+Zavicefta
+109
+107
+2%
+15%
+—
+—
+—
+109
+107
+2%
+15%
+Genotropin
+99
+106
+(6%)
+8%
+27
+25
+7%
+72
+80
+(10%)
+8%
+Zithromax
+81
+81
+—
+13%
+1
+1
+11%
+80
+80
+—
+13%
+Medrol
+93
+112
+(17%)
+(11%)
+43
+39
+9%
+50
+72
+(31%)
+(22%)
+Fragmin
+67
+82
+(19%)
+(9%)
+1
+1
+23%
+65
+81
+(19%)
+(9%)
+Somavert
+66
+74
+(11%)
+(3%)
+27
+28
+(1%)
+39
+47
+(17%)
+(5%)
+Refacto AF/Xyntha
+52
+69
+(25%)
+(14%)
+11
+13
+(14%)
+40
+56
+(28%)
+(14%)
+Vfend
+55
+63
+(13%)
+(1%)
+1
+3
+(60%)
+54
+60
+(11%)
+2%
+Oxbryta
+73
+—
+*
+*
+72
+—
+*
+—
+—
+—
+—
+All other Anti-infectives
+348
+451
+(23%)
+(15%)
+109
+139
+(22%)
+240
+312
+(23%)
+(12%)
+All other Specialty Care
+561
+696
+(19%)
+(15%)
+327
+399
+(18%)
+234
+297
+(21%)
+(11%)
+Oncology
+$
+3,007
+$
+3,242
+(7%)
+(3%)
+$
+2,014
+$
+2,050
+(2%)
+$
+993
+$
+1,192
+(17%)
+(4%)
+Ibrance
+1,279
+1,398
+(8%)
+(4%)
+876
+879
+—
+403
+519
+(22%)
+(10%)
+Xtandi alliance revenues
+320
+306
+5%
+5%
+320
+306
+5%
+—
+—
+—
+—
+Inlyta
+243
+260
+(7%)
+(2%)
+164
+152
+8%
+79
+109
+(28%)
+(17%)
+Bosulif
+150
+145
+3%
+9%
+98
+94
+4%
+52
+51
+2%
+18%
+Zirabev
+130
+133
+(2%)
+3%
+97
+86
+13%
+33
+47
+(29%)
+(16%)
+Xalkori
+103
+122
+(16%)
+(7%)
+27
+25
+7%
+76
+97
+(22%)
+(11%)
+Ruxience
+101
+148
+(32%)
+(30%)
+83
+135
+(39%)
+18
+13
+43%
+59%
+Retacrit
+86
+122
+(30%)
+(27%)
+65
+95
+(32%)
+21
+26
+(21%)
+(9%)
+Sutent
+60
+137
+(56%)
+(50%)
+4
+13
+(69%)
+56
+124
+(54%)
+(48%)
+Lorbrena
+95
+73
+30%
+41%
+48
+38
+26%
+47
+35
+35%
+58%
+Bavencio alliance revenues
+72
+56
+30%
+44%
+27
+23
+15%
+46
+33
+40%
+64%
+Aromasin
+61
+53
+16%
+29%
+1
+1
+(29%)
+61
+52
+17%
+30%
+Besponsa
+55
+47
+16%
+24%
+31
+26
+19%
+24
+21
+12%
+29%
+Trazimera
+54
+66
+(19%)
+(15%)
+21
+38
+(46%)
+33
+28
+19%
+27%
+Braftovi
+37
+51
+(26%)
+(26%)
+36
+51
+(29%)
+1
+—
+*
+*
+Mektovi
+46
+42
+9%
+9%
+46
+43
+8%
+—
+—
+—
+—
+All other Oncology
+113
+83
+37%
+43%
+70
+45
+58%
+43
+39
+12%
+26%
+PFIZER CENTREONE
+(b)
+$
+368
+$
+382
+(4%)
+1%
+$
+99
+$
+115
+(14%)
+$
+269
+$
+267
+1%
+7%
+Total Alliance revenues included above
+$
+2,217
+$
+1,934
+15%
+19%
+$
+1,216
+$
+1,061
+15%
+$
+1,001
+$
+873
+15%
+24%
+See end of tables for notes.
+- 28 -
+PFIZER INC.
+INTERNATIONAL REVENUES BY GEOGRAPHIC REGION
+FOURTH-QUARTER 2022 and 2021 - (UNAUDITED)
+DEVELOPED EUROPE
+(f)
+DEVELOPED REST OF WORLD
+(g)
+EMERGING MARKETS
+(h)
+2022
+2021
+% Change
+2022
+2021
+% Change
+2022
+2021
+% Change
+(MILLIONS)
+Total
+Oper.
+Total
+Oper.
+Total
+Oper.
+TOTAL INTERNATIONAL REVENUES
+$
+7,277
+$
+4,499
+62%
+86%
+$
+5,107
+$
+3,889
+31%
+59%
+$
+3,424
+$
+7,771
+(56%)
+(51%)
+GLOBAL BIOPHARMACEUTICALS BUSINESS (BIOPHARMA)
+(b)
+$
+7,064
+$
+4,354
+62%
+87%
+$
+5,084
+$
+3,863
+32%
+60%
+$
+3,390
+$
+7,674
+(56%)
+(51%)
+Primary Care
+$
+6,008
+$
+3,068
+96%
+*
+$
+4,486
+$
+3,088
+45%
+77%
+$
+2,040
+$
+6,254
+(67%)
+(64%)
+Comirnaty direct sales and alliance revenues
+4,285
+2,177
+97%
+*
+3,642
+2,767
+32%
+62%
+930
+5,409
+(83%)
+(81%)
+Paxlovid
+995
+—
+*
+*
+599
+—
+*
+*
+241
+—
+*
+*
+Eliquis alliance revenues and direct sales
+359
+423
+(15%)
+(1%)
+82
+119
+(31%)
+(15%)
+194
+238
+(19%)
+(13%)
+Prevnar family
+(c)
+174
+223
+(22%)
+(9%)
+86
+102
+(16%)
+—
+455
+405
+12%
+22%
+Premarin family
+—
+—
+—
+—
+5
+5
+—
+12%
+3
+2
+39%
+51%
+BMP2
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+Nimenrix
+24
+30
+(22%)
+(9%)
+5
+2
+*
+*
+19
+16
+18%
+35%
+Nurtec ODT/Vydura
+—
+—
+—
+—
+—
+—
+—
+—
+1
+—
+*
+*
+FSME-IMMUN/TicoVac
+20
+22
+(8%)
+7%
+—
+—
+—
+—
+2
+2
+(11%)
+2%
+Toviaz
+5
+18
+(71%)
+(67%)
+14
+21
+(35%)
+(19%)
+2
+3
+(38%)
+(10%)
+Trumenba
+2
+3
+(20%)
+(7%)
+—
+—
+—
+—
+1
+—
+*
+*
+Chantix/Champix
+—
+(1)
+*
+*
+—
+(1)
+*
+*
+—
+(10)
+*
+*
+All other Primary Care
+143
+173
+(17%)
+(7%)
+52
+72
+(28%)
+(14%)
+193
+188
+3%
+15%
+Specialty Care
+$
+670
+$
+729
+(8%)
+6%
+$
+390
+$
+535
+(27%)
+(14%)
+$
+954
+$
+1,026
+(7%)
+4%
+Vyndaqel family
+(d)
+239
+155
+55%
+78%
+62
+142
+(56%)
+(46%)
+24
+13
+89%
+*
+Xeljanz
+62
+73
+(15%)
+(1%)
+51
+71
+(29%)
+(15%)
+52
+61
+(15%)
+(4%)
+Enbrel (Outside the U.S. and Canada)
+87
+127
+(32%)
+(21%)
+42
+60
+(30%)
+(13%)
+107
+110
+(3%)
+9%
+Sulperazon
+—
+—
+—
+—
+1
+2
+(53%)
+(40%)
+188
+167
+13%
+24%
+Inflectra
+31
+40
+(22%)
+(10%)
+34
+21
+65%
+78%
+3
+3
+(11%)
+2%
+Ig Portfolio
+(e)
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+BeneFIX
+11
+16
+(29%)
+(17%)
+12
+15
+(16%)
+—
+23
+22
+3%
+26%
+Zavicefta
+27
+31
+(11%)
+3%
+—
+—
+—
+—
+82
+76
+7%
+20%
+Genotropin
+25
+30
+(15%)
+(1%)
+20
+25
+(19%)
+—
+27
+26
+5%
+27%
+Zithromax
+15
+16
+(4%)
+12%
+4
+5
+(23%)
+(4%)
+60
+58
+3%
+14%
+Medrol
+14
+16
+(16%)
+(2%)
+10
+11
+(15%)
+(1%)
+27
+45
+(40%)
+(34%)
+Fragmin
+35
+42
+(16%)
+(2%)
+14
+15
+(9%)
+(2%)
+16
+24
+(32%)
+(27%)
+Somavert
+29
+35
+(17%)
+(4%)
+5
+7
+(30%)
+(21%)
+5
+5
+(1%)
+12%
+Refacto AF/Xyntha
+15
+27
+(46%)
+(37%)
+3
+6
+(42%)
+(34%)
+23
+23
+(3%)
+18%
+Vfend
+3
+4
+(37%)
+(26%)
+10
+11
+(10%)
+13%
+41
+45
+(9%)
+2%
+Oxbryta
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+All other Anti-infectives
+63
+79
+(20%)
+(8%)
+23
+30
+(21%)
+(5%)
+154
+204
+(25%)
+(15%)
+All other Specialty Care
+14
+39
+(64%)
+(59%)
+99
+115
+(14%)
+(3%)
+122
+143
+(15%)
+(5%)
+Oncology
+$
+387
+$
+557
+(31%)
+(19%)
+$
+209
+$
+241
+(13%)
+5%
+$
+397
+$
+394
+1%
+11%
+Ibrance
+188
+261
+(28%)
+(16%)
+98
+116
+(16%)
+1%
+118
+142
+(17%)
+(7%)
+Xtandi alliance revenues
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+Inlyta
+21
+51
+(59%)
+(51%)
+16
+23
+(30%)
+(15%)
+42
+35
+19%
+29%
+Bosulif
+23
+24
+(5%)
+10%
+16
+17
+(7%)
+16%
+13
+10
+35%
+42%
+Zirabev
+22
+34
+(36%)
+(26%)
+9
+11
+(11%)
+7%
+2
+2
+8%
+27%
+Xalkori
+19
+23
+(15%)
+(2%)
+9
+11
+(18%)
+(1%)
+47
+63
+(25%)
+(16%)
+Ruxience
+6
+6
+(10%)
+6%
+6
+5
+20%
+35%
+6
+1
+*
+*
+Retacrit
+20
+25
+(23%)
+(10%)
+—
+—
+—
+—
+1
+1
+16%
+21%
+Sutent
+9
+48
+(81%)
+(78%)
+12
+18
+(31%)
+(17%)
+35
+58
+(40%)
+(33%)
+Lorbrena
+17
+16
+6%
+23%
+11
+10
+5%
+29%
+19
+9
+*
+*
+Bavencio alliance revenues
+22
+17
+29%
+50%
+15
+13
+19%
+50%
+9
+3
+*
+*
+Aromasin
+5
+7
+(22%)
+(10%)
+1
+2
+(22%)
+(3%)
+54
+43
+24%
+38%
+Besponsa
+9
+8
+6%
+23%
+6
+8
+(31%)
+(15%)
+10
+5
+93%
+*
+Trazimera
+9
+12
+(21%)
+(9%)
+2
+2
+(4%)
+12%
+22
+14
+57%
+60%
+Braftovi
+—
+—
+—
+—
+1
+—
+*
+*
+—
+—
+—
+—
+Mektovi
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+All other Oncology
+17
+25
+(31%)
+(21%)
+6
+4
+41%
+57%
+20
+9
+*
+*
+PFIZER CENTREONE
+(b)
+$
+213
+$
+145
+47%
+54%
+$
+23
+$
+25
+(11%)
+10%
+$
+34
+$
+97
+(65%)
+(65%)
+Total Alliance revenues included above
+$
+887
+$
+584
+52%
+62%
+$
+101
+$
+138
+(26%)
+(10%)
+$
+13
+$
+152
+(91%)
+(90%)
+- 29 -
+PFIZER INC. - REVENUES
+TWELVE MONTHS 2022 and 2021 - (UNAUDITED)
+WORLDWIDE
+UNITED STATES
+TOTAL INTERNATIONAL
+(a)
+2022
+2021
+% Change
+2022
+2021
+% Change
+2022
+2021
+% Change
+(MILLIONS)
+Total
+Oper.
+Total
+Total
+Oper.
+TOTAL REVENUES
+$
+100,330
+$
+81,288
+23%
+30%
+$
+42,473
+$
+29,746
+43%
+$
+57,857
+$
+51,542
+12%
+23%
+GLOBAL BIOPHARMACEUTICALS BUSINESS (BIOPHARMA)
+(b)
+$
+98,988
+$
+79,557
+24%
+31%
+$
+42,083
+$
+29,221
+44%
+$
+56,905
+$
+50,336
+13%
+24%
+Primary Care
+$
+73,023
+$
+52,029
+40%
+49%
+$
+28,503
+$
+15,329
+86%
+$
+44,521
+$
+36,700
+21%
+33%
+Comirnaty direct sales and alliance revenues
+37,806
+36,781
+3%
+10%
+8,775
+7,809
+12%
+29,032
+28,972
+—
+9%
+Paxlovid
+18,933
+76
+*
+*
+10,514
+76
+*
+8,419
+—
+*
+*
+Eliquis alliance revenues and direct sales
+6,480
+5,970
+9%
+14%
+3,822
+3,160
+21%
+2,658
+2,810
+(5%)
+5%
+Prevnar family
+(c)
+6,337
+5,272
+20%
+23%
+4,032
+2,701
+49%
+2,305
+2,571
+(10%)
+(4%)
+Premarin family
+455
+563
+(19%)
+(19%)
+420
+525
+(20%)
+36
+38
+(6%)
+1%
+BMP2
+277
+266
+4%
+4%
+277
+266
+4%
+—
+—
+—
+—
+Nimenrix
+268
+193
+39%
+52%
+—
+—
+—
+268
+193
+39%
+52%
+Nurtec ODT/Vydura
+213
+—
+*
+*
+211
+—
+*
+2
+—
+*
+*
+FSME-IMMUN/TicoVac
+200
+185
+8%
+20%
+2
+—
+*
+198
+185
+7%
+19%
+Toviaz
+146
+238
+(39%)
+(32%)
+27
+68
+(61%)
+119
+170
+(30%)
+(20%)
+Trumenba
+123
+118
+4%
+5%
+111
+106
+5%
+12
+13
+(7%)
+4%
+Chantix/Champix
+8
+398
+(98%)
+(98%)
+8
+310
+(97%)
+—
+88
+*
+*
+All other Primary Care
+1,778
+1,967
+(10%)
+(2%)
+305
+308
+(1%)
+1,473
+1,659
+(11%)
+(2%)
+Specialty Care
+$
+13,833
+$
+15,194
+(9%)
+(4%)
+$
+5,659
+$
+6,156
+(8%)
+$
+8,174
+$
+9,038
+(10%)
+(1%)
+Vyndaqel family
+(d)
+2,447
+2,015
+21%
+29%
+1,245
+909
+37%
+1,202
+1,106
+9%
+22%
+Xeljanz
+1,796
+2,455
+(27%)
+(24%)
+1,129
+1,647
+(31%)
+668
+808
+(17%)
+(8%)
+Enbrel (Outside the U.S. and Canada)
+1,003
+1,185
+(15%)
+(6%)
+—
+—
+—
+1,003
+1,185
+(15%)
+(6%)
+Sulperazon
+786
+683
+15%
+19%
+—
+—
+—
+786
+683
+15%
+19%
+Inflectra
+532
+657
+(19%)
+(16%)
+289
+385
+(25%)
+243
+272
+(11%)
+(4%)
+Ig Portfolio
+(e)
+491
+430
+14%
+14%
+491
+430
+14%
+—
+—
+—
+—
+BeneFIX
+425
+438
+(3%)
+3%
+235
+230
+2%
+191
+207
+(8%)
+5%
+Zavicefta
+412
+413
+—
+8%
+—
+—
+—
+412
+413
+—
+8%
+Genotropin
+360
+389
+(8%)
+4%
+68
+79
+(14%)
+292
+310
+(6%)
+8%
+Zithromax
+331
+278
+19%
+26%
+2
+1
+*
+328
+278
+18%
+25%
+Medrol
+328
+432
+(24%)
+(20%)
+132
+181
+(27%)
+196
+251
+(22%)
+(15%)
+Fragmin
+269
+305
+(12%)
+(4%)
+4
+5
+(22%)
+264
+300
+(12%)
+(4%)
+Somavert
+268
+277
+(4%)
+3%
+111
+98
+13%
+157
+179
+(12%)
+(2%)
+Refacto AF/Xyntha
+239
+304
+(21%)
+(14%)
+59
+64
+(8%)
+180
+240
+(25%)
+(15%)
+Vfend
+225
+267
+(16%)
+(10%)
+5
+8
+(37%)
+221
+260
+(15%)
+(9%)
+Oxbryta
+73
+—
+*
+*
+72
+—
+*
+—
+—
+—
+—
+All other Anti-infectives
+1,471
+1,835
+(20%)
+(15%)
+454
+511
+(11%)
+1,017
+1,324
+(23%)
+(16%)
+All other Specialty Care
+2,377
+2,830
+(16%)
+(13%)
+1,362
+1,608
+(15%)
+1,015
+1,223
+(17%)
+(11%)
+Oncology
+$
+12,132
+$
+12,333
+(2%)
+2%
+$
+7,921
+$
+7,736
+2%
+$
+4,210
+$
+4,597
+(8%)
+1%
+Ibrance
+5,120
+5,437
+(6%)
+(2%)
+3,370
+3,418
+(1%)
+1,751
+2,019
+(13%)
+(4%)
+Xtandi alliance revenues
+1,198
+1,185
+1%
+1%
+1,198
+1,185
+1%
+—
+—
+—
+—
+Inlyta
+1,003
+1,002
+—
+4%
+618
+599
+3%
+385
+403
+(5%)
+5%
+Bosulif
+575
+540
+6%
+11%
+375
+354
+6%
+200
+186
+7%
+21%
+Zirabev
+562
+444
+27%
+31%
+413
+246
+68%
+149
+197
+(25%)
+(15%)
+Xalkori
+465
+493
+(6%)
+(1%)
+105
+102
+3%
+361
+391
+(8%)
+(2%)
+Ruxience
+458
+491
+(7%)
+(6%)
+403
+450
+(10%)
+55
+41
+34%
+47%
+Retacrit
+394
+444
+(11%)
+(9%)
+312
+344
+(9%)
+82
+100
+(18%)
+(8%)
+Sutent
+347
+673
+(48%)
+(45%)
+33
+127
+(74%)
+314
+546
+(42%)
+(38%)
+Lorbrena
+343
+266
+29%
+37%
+177
+141
+26%
+166
+125
+33%
+50%
+Bavencio alliance revenues
+271
+178
+52%
+65%
+101
+83
+22%
+169
+95
+79%
+*
+Aromasin
+248
+211
+17%
+23%
+2
+3
+(26%)
+246
+208
+18%
+24%
+Besponsa
+219
+192
+14%
+20%
+126
+115
+10%
+93
+77
+21%
+36%
+Trazimera
+203
+197
+3%
+7%
+106
+98
+8%
+97
+99
+(2%)
+5%
+Braftovi
+194
+187
+4%
+4%
+191
+187
+2%
+3
+—
+*
+*
+Mektovi
+176
+155
+14%
+14%
+175
+155
+13%
+1
+—
+*
+*
+All other Oncology
+357
+238
+50%
+54%
+216
+129
+68%
+140
+109
+28%
+38%
+PFIZER CENTREONE
+(b)
+$
+1,342
+$
+1,731
+(22%)
+(19%)
+$
+390
+$
+524
+(26%)
+$
+952
+$
+1,206
+(21%)
+(16%)
+Total Alliance revenues included above
+$
+8,537
+$
+7,652
+12%
+15%
+$
+5,203
+$
+4,456
+17%
+$
+3,335
+$
+3,195
+4%
+12%
+- 30 -
+PFIZER INC.
+INTERNATIONAL REVENUES BY GEOGRAPHIC REGION
+TWELVE MONTHS 2022 and 2021 - (UNAUDITED)
+DEVELOPED EUROPE
+(f)
+DEVELOPED REST OF WORLD
+(g)
+EMERGING MARKETS
+(h)
+2022
+2021
+% Change
+2022
+2021
+% Change
+2022
+2021
+% Change
+(MILLIONS)
+Total
+Oper.
+Total
+Oper.
+Total
+Oper.
+TOTAL INTERNATIONAL REVENUES
+$
+21,982
+$
+18,336
+20%
+33%
+$
+15,778
+$
+12,506
+26%
+43%
+$
+20,097
+$
+20,701
+(3%)
+2%
+GLOBAL BIOPHARMACEUTICALS BUSINESS (BIOPHARMA)
+(b)
+$
+21,260
+$
+17,662
+20%
+34%
+$
+15,692
+$
+12,399
+27%
+44%
+$
+19,954
+$
+20,275
+(2%)
+3%
+Primary Care
+$
+16,882
+$
+12,629
+34%
+48%
+$
+13,137
+$
+9,413
+40%
+59%
+$
+14,502
+$
+14,658
+(1%)
+3%
+Comirnaty direct sales and alliance revenues
+10,827
+9,410
+15%
+27%
+8,330
+8,143
+2%
+18%
+9,875
+11,419
+(14%)
+(11%)
+Paxlovid
+3,237
+—
+*
+*
+3,732
+—
+*
+*
+1,450
+—
+*
+*
+Eliquis alliance revenues and direct sales
+1,459
+1,520
+(4%)
+8%
+407
+439
+(7%)
+5%
+793
+852
+(7%)
+1%
+Prevnar family
+(c)
+512
+655
+(22%)
+(12%)
+337
+388
+(13%)
+(2%)
+1,456
+1,528
+(5%)
+—
+Premarin family
+1
+1
+(13%)
+(4%)
+19
+20
+(3%)
+5%
+15
+17
+(9%)
+(4%)
+BMP2
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+Nimenrix
+96
+132
+(28%)
+(19%)
+19
+16
+16%
+24%
+154
+45
+*
+*
+Nurtec ODT/Vydura
+—
+—
+—
+—
+—
+—
+—
+—
+2
+—
+*
+*
+FSME-IMMUN/TicoVac
+160
+154
+4%
+17%
+—
+—
+—
+—
+37
+31
+21%
+33%
+Toviaz
+42
+72
+(42%)
+(36%)
+70
+89
+(21%)
+(10%)
+7
+10
+(24%)
+5%
+Trumenba
+9
+11
+(21%)
+(11%)
+—
+—
+—
+—
+3
+1
+*
+*
+Chantix/Champix
+—
+46
+(99%)
+(99%)
+(1)
+30
+*
+*
+—
+12
+(99%)
+(99%)
+All other Primary Care
+539
+627
+(14%)
+(5%)
+223
+289
+(23%)
+(13%)
+710
+744
+(5%)
+4%
+Specialty Care
+$
+2,643
+$
+2,886
+(8%)
+2%
+$
+1,683
+$
+2,060
+(18%)
+(9%)
+$
+3,849
+$
+4,092
+(6%)
+—
+Vyndaqel family
+(d)
+821
+572
+43%
+61%
+308
+495
+(38%)
+(29%)
+73
+39
+90%
+100%
+Xeljanz
+235
+308
+(24%)
+(15%)
+232
+284
+(18%)
+(8%)
+200
+216
+(7%)
+1%
+Enbrel (Outside the U.S. and Canada)
+394
+533
+(26%)
+(17%)
+195
+251
+(22%)
+(11%)
+414
+401
+3%
+13%
+Sulperazon
+—
+—
+—
+—
+4
+7
+(41%)
+(31%)
+782
+677
+16%
+19%
+Inflectra
+120
+186
+(35%)
+(28%)
+112
+75
+49%
+55%
+11
+11
+(3%)
+10%
+Ig Portfolio
+(e)
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+BeneFIX
+54
+70
+(23%)
+(14%)
+52
+58
+(10%)
+1%
+84
+79
+7%
+25%
+Zavicefta
+103
+126
+(18%)
+(8%)
+1
+1
+(1%)
+8%
+307
+286
+7%
+15%
+Genotropin
+103
+119
+(13%)
+(3%)
+89
+105
+(15%)
+(2%)
+100
+86
+15%
+35%
+Zithromax
+49
+44
+10%
+24%
+19
+21
+(10%)
+4%
+261
+212
+23%
+27%
+Medrol
+56
+61
+(7%)
+4%
+36
+43
+(17%)
+(8%)
+103
+147
+(30%)
+(25%)
+Fragmin
+144
+155
+(7%)
+3%
+53
+55
+(5%)
+(2%)
+68
+89
+(24%)
+(19%)
+Somavert
+120
+136
+(12%)
+(1%)
+19
+24
+(20%)
+(13%)
+18
+20
+(8%)
+4%
+Refacto AF/Xyntha
+77
+119
+(35%)
+(28%)
+16
+23
+(31%)
+(25%)
+87
+98
+(11%)
+2%
+Vfend
+13
+21
+(37%)
+(29%)
+39
+44
+(11%)
+4%
+168
+195
+(14%)
+(10%)
+Oxbryta
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+All other Anti-infectives
+261
+292
+(11%)
+—
+99
+115
+(14%)
+(3%)
+657
+916
+(28%)
+(23%)
+All other Specialty Care
+92
+145
+(36%)
+(30%)
+409
+459
+(11%)
+(4%)
+514
+620
+(17%)
+(12%)
+Oncology
+$
+1,735
+$
+2,148
+(19%)
+(10%)
+$
+872
+$
+925
+(6%)
+7%
+$
+1,603
+$
+1,525
+5%
+12%
+Ibrance
+845
+1,044
+(19%)
+(10%)
+408
+453
+(10%)
+2%
+498
+522
+(5%)
+4%
+Xtandi alliance revenues
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+Inlyta
+153
+181
+(16%)
+(5%)
+72
+91
+(22%)
+(10%)
+160
+131
+23%
+29%
+Bosulif
+97
+92
+6%
+18%
+66
+65
+2%
+19%
+36
+29
+24%
+34%
+Zirabev
+100
+149
+(33%)
+(25%)
+38
+38
+1%
+14%
+11
+11
+3%
+29%
+Xalkori
+82
+94
+(13%)
+(3%)
+38
+46
+(18%)
+(7%)
+241
+251
+(4%)
+—
+Ruxience
+21
+18
+16%
+31%
+25
+19
+29%
+39%
+9
+4
+*
+*
+Retacrit
+79
+98
+(19%)
+(8%)
+—
+—
+—
+—
+3
+2
+11%
+17%
+Sutent
+68
+200
+(66%)
+(63%)
+53
+75
+(29%)
+(20%)
+193
+271
+(29%)
+(24%)
+Lorbrena
+66
+55
+19%
+34%
+39
+40
+(4%)
+11%
+61
+29
+*
+*
+Bavencio alliance revenues
+79
+53
+50%
+69%
+64
+34
+87%
+*
+26
+8
+*
+*
+Aromasin
+24
+28
+(15%)
+(5%)
+6
+8
+(33%)
+(22%)
+216
+172
+26%
+31%
+Besponsa
+35
+30
+18%
+32%
+28
+32
+(11%)
+2%
+30
+16
+89%
+*
+Trazimera
+37
+46
+(18%)
+(9%)
+8
+8
+(1%)
+9%
+51
+45
+13%
+18%
+Braftovi
+—
+—
+—
+—
+2
+—
+*
+*
+—
+—
+—
+—
+Mektovi
+—
+—
+—
+—
+1
+—
+*
+*
+—
+—
+—
+—
+All other Oncology
+49
+60
+(19%)
+(10%)
+24
+15
+66%
+77%
+67
+35
+94%
+*
+PFIZER CENTREONE
+(b)
+$
+722
+$
+673
+7%
+14%
+$
+86
+$
+107
+(19%)
+(7%)
+$
+143
+$
+426
+(66%)
+(66%)
+Total Alliance revenues included above
+$
+2,749
+$
+2,248
+22%
+30%
+$
+489
+$
+496
+(1%)
+12%
+$
+97
+$
+451
+(78%)
+(78%)
+- 31 -
+PFIZER INC.
+NOTES TO REVENUES TABLE INFORMATION
+(UNAUDITED)
+(a)
+Total International represents Developed Europe region + Developed Rest of World region + Emerging Markets region. Details for these regions are described in footnotes (f) to (h) below, respectively.
+(b)
+We manage our commercial operations through two operating segments, each led by a single manager: Biopharma, our innovative science-based biopharmaceutical business, and Pfizer CentreOne (PC1), our global contract development and manufacturing organization and a leading supplier of specialty active pharmaceutical ingredients. Beginning in the third quarter of 2022, we made several organizational changes to further transform our operations to better leverage our expertise in certain areas and in anticipation of potential future new product or indication launches. The changes included establishing a new commercial structure within Biopharma to better support and optimize performance across three broad customer groups:
+•
+Primary Care consists of the former Internal Medicine and Vaccines product portfolios, products for COVID-19 prevention and treatment, and potential future mRNA and antiviral products.
+•
+Specialty Care consists of the former Inflammation & Immunology, Rare Disease and Hospital (excluding Paxlovid) product portfolios.
+•
+Oncology consists of the former Oncology product portfolio.
+Prior-period financial information has been revised to reflect the current period presentation.
+PC1 includes revenues from our contract manufacturing, including certain Comirnaty-related manufacturing activities performed on behalf of BioNTech ($80 million and $188 million for the fourth quarter and the twelve months of 2022, respectively, and $46 million and $320 million for the fourth quarter and the twelve months of 2021, respectively), and revenues from our active pharmaceutical ingredient sales operation, as well as revenues related to our manufacturing and supply agreements with former legacy Pfizer businesses/partnerships, including but not limited to, transitional manufacturing and supply agreements with Viatris following the spin-off of the Upjohn Business.
+(c)
+Prevnar family includes revenues from Prevnar 13/Prevenar 13 (pediatric and adult) and Prevnar 20/Apexxnar (adult).
+(d)
+Vyndaqel family includes global revenues from Vyndaqel, as well as revenues for Vyndamax in the U.S. and Vynmac in Japan.
+(e)
+Immunoglobulin (Ig) portfolio includes the revenues from Panzyga, Octagam and Cutaquig.
+(f)
+Developed Europe region includes the following markets: Western Europe, Scandinavian countries and Finland.
+(g)
+Developed Rest of World region includes the following markets: Japan, Canada, South Korea, Australia and New Zealand.
+(h)
+Emerging Markets region includes, but is not limited to, the following markets: Asia (excluding Japan and South Korea), Latin America, Central Europe, Eastern Europe, the Middle East, Africa and Turkey.
+*
+Indicates calculation not meaningful.
+Amounts may not add due to rounding. All percentages have been calculated using unrounded amounts.
+- 32 -
+DISCLOSURE NOTICE: Except where otherwise noted, the information contained in this earnings release and the related attachments is as of January 31, 2023. We assume no obligation to update any forward-looking statements contained in this earnings release and the related attachments as a result of new information or future events or developments.
+This earnings release and the related attachments contain forward-looking statements about, among other topics, our anticipated operating and financial performance; reorganizations; business plans, strategy and prospects; our Environmental, Social and Governance (ESG) priorities, strategy and goals; expectations for our product pipeline, in-line products and product candidates, including anticipated regulatory submissions, data read-outs, study starts, approvals, launches, clinical trial results and other developing data, revenue contribution and projections, pricing and reimbursement, potential market dynamics and size, growth, performance, timing of exclusivity and potential benefits; strategic reviews; capital allocation objectives; dividends and share repurchases; plans for and prospects of our acquisitions, dispositions and other business development activities, and our ability to successfully capitalize on these opportunities; manufacturing and product supply; our ongoing efforts to respond to COVID-19, including the Pfizer-BioNTech COVID-19 Vaccine (Comirnaty), the Pfizer-BioNTech COVID-19 Omicron BA.4/BA.5 Vaccine, Bivalent (the Pfizer-BioNTech COVID-19 bivalent vaccine), other vaccines that may result from the BNT162 program, including new variant-based or next-generation vaccines, and our oral COVID-19 treatment (Paxlovid); and our expectations regarding the impact of COVID-19 on our business, operations and financial results that involve substantial risks and uncertainties. You can identify these statements by the fact that they use future dates or use words such as “will,” “may,” “could,” “likely,” “ongoing,” “anticipate,” “estimate,” “expect,” “project,” “intend,” “plan,” “believe,” “assume,” “target,” “forecast,” “guidance,” “goal,” “objective,” “aim,” “seek,” “potential,” “hope” and other words and terms of similar meaning.
+Among the factors that could cause actual results to differ materially from past results and future plans and projected future results are the following:
+Risks Related to Our Business, Industry and Operations, and Business Development:
+•
+the outcome of research and development (R&D) activities, including, the ability to meet anticipated pre-clinical or clinical endpoints, commencement and/or completion dates for our pre-clinical or clinical trials, regulatory submission dates, and/or regulatory approval and/or launch dates; the possibility of unfavorable pre-clinical and clinical trial results, including the possibility of unfavorable new pre-clinical or clinical data and further analyses of existing pre-clinical or clinical data; risks associated with preliminary, early stage or interim data; the risk that pre-clinical and clinical trial data are subject to differing interpretations and assessments, including during the peer review/publication process, in the scientific community generally, and by regulatory authorities; and whether and when additional data from our pipeline programs will be published in scientific journal publications and, if so, when and with what modifications and interpretations;
+•
+our ability to successfully address comments received from regulatory authorities such as the FDA or the EMA, or obtain approval for new products and indications from regulators on a timely basis or at all; regulatory decisions impacting labeling, including the scope of indicated patient populations, product dosage, manufacturing processes, safety and/or other matters, including decisions relating to emerging developments regarding potential product impurities; the impact of, or uncertainties regarding the ability to obtain, recommendations by technical or advisory committees; and the timing of pricing approvals and product launches;
+•
+claims and concerns that may arise regarding the safety or efficacy of in-line products and product candidates, including claims and concerns that may arise from the outcome of post-approval clinical trials, which could impact marketing approval, product labeling, and/or availability or commercial potential, including uncertainties regarding the commercial or other impact of the results of the Xeljanz ORAL Surveillance (A3921133) study or actions by regulatory authorities based on analysis of ORAL Surveillance or other data, including on other Janus kinase (JAK) inhibitors in our portfolio;
+•
+the success and impact of external business development activities, including the ability to identify and execute on potential business development opportunities; the ability to satisfy the conditions to closing of announced transactions in the anticipated time frame or at all; the ability to realize the anticipated benefits of any such transactions in the anticipated time frame or at all; the potential need for and impact of additional equity or debt financing to pursue these opportunities, which could result in increased leverage and/or a downgrade of our credit ratings; challenges integrating the businesses and operations; disruption to business and operations relationships; risks related to growing revenues for certain acquired products; significant transaction costs; and unknown liabilities;
+•
+competition, including from new product entrants, in-line branded products, generic products, private label products, biosimilars and product candidates that treat or prevent diseases and conditions similar to those treated or intended to be prevented by our in-line products and product candidates;
+•
+the ability to successfully market both new and existing products, including biosimilars;
+•
+difficulties or delays in manufacturing, sales or marketing; supply disruptions, shortages or stock-outs at our facilities or third-party facilities that we rely on; and legal or regulatory actions;
+- 33 -
+•
+the impact of public health outbreaks, epidemics or pandemics (such as the COVID-19 pandemic) on our business, operations and financial condition and results, including impacts on our employees, manufacturing, supply chain, sales and marketing, research and development and clinical trials;
+•
+risks and uncertainties related to our efforts to develop and commercialize our COVID-19 products, as well as challenges related to their manufacturing, supply and distribution, including, among others, uncertainties inherent in research and development, including the ability to meet anticipated clinical endpoints, commencement and/or completion dates for clinical trials, regulatory submission dates, regulatory approval dates and/or launch dates, as well as risks associated with pre-clinical and clinical data (including Phase 1/2/3 or Phase 4 data for Comirnaty, the Pfizer-BioNTech COVID-19 bivalent vaccine, any monovalent, bivalent or variant-adapted vaccine candidates or any other vaccine candidate in the BNT162 program or Paxlovid or any future COVID-19 treatment) in any of our studies in pediatrics, adolescents or adults or real world evidence, including the possibility of unfavorable new pre-clinical, clinical or safety data and further analyses of existing pre-clinical, clinical or safety data or further information regarding the quality of pre-clinical, clinical or safety data, including by audit or inspection; the ability to produce comparable clinical or other results for Comirnaty, the Pfizer-BioNTech COVID-19 bivalent vaccine, any monovalent, bivalent or variant-adapted vaccine candidates or other vaccines that may result from the BNT162 program, Paxlovid or any future COVID-19 treatment or any other COVID-19 program, including the rate of effectiveness and/or efficacy, safety and tolerability profile observed to date, in additional analyses of the Phase 3 trial for any such products and additional studies, in real-world data studies or in larger, more diverse populations following commercialization; the ability of Comirnaty, the Pfizer-BioNTech COVID-19 bivalent vaccine, any monovalent, bivalent or variant-adapted vaccine candidates or any future vaccine to prevent, or Paxlovid or any future COVID-19 treatment to be effective against, COVID-19 caused by emerging virus variants; the risk that more widespread use of Comirnaty, the Pfizer-BioNTech COVID-19 bivalent vaccine or Paxlovid will lead to new information about efficacy, safety or other developments, including the risk of additional adverse reactions, some of which may be serious; the risk that pre-clinical and clinical trial data are subject to differing interpretations and assessments, including during the peer review/publication process, in the scientific community generally, and by regulatory authorities; whether and when additional data from the BNT162 mRNA vaccine program, Paxlovid or other COVID-19 programs will be published in scientific journal publications and, if so, when and with what modifications and interpretations; whether regulatory authorities will be satisfied with the design of and results from existing or future pre-clinical and clinical studies; whether and when submissions to request emergency use or conditional marketing authorizations for Comirnaty, the Pfizer-BioNTech COVID-19 bivalent vaccine, or any future vaccines in additional populations, for a potential booster dose for Comirnaty, the Pfizer-BioNTech COVID-19 bivalent vaccine, any monovalent or bivalent vaccine candidates or any potential future vaccines (including potential future annual boosters or re-vaccinations), and/or biologics license and/or EUA applications or amendments to any such applications may be filed in particular jurisdictions for Comirnaty, the Pfizer-BioNTech COVID-19 bivalent vaccine, any monovalent or bivalent vaccine candidates or any other potential vaccines that may arise from the BNT162 program, including a potential variant-based, higher dose, or bivalent vaccine or any other potential vaccines, and if obtained, whether or when such EUA or licenses will expire or terminate; whether and when submissions to request emergency use or conditional marketing authorizations for Paxlovid or any future COVID-19 treatment and/or any drug applications and/or EUA applications or amendments to any such applications for any indication for Paxlovid or any future COVID-19 treatment may be filed in particular jurisdictions, and if obtained, whether or when such EUA or licenses will expire or terminate; whether and when any application that may be pending or filed for Comirnaty, the Pfizer-BioNTech COVID-19 bivalent vaccine, any monovalent, bivalent or variant-adapted vaccine candidates or other vaccines that may result from the BNT162 program, Paxlovid or any future COVID-19 treatment or any other COVID-19 program may be approved by particular regulatory authorities, which will depend on myriad factors, including making a determination as to whether the vaccine’s or drug’s benefits outweigh its known risks and determination of the vaccine’s or drug’s efficacy and, if approved, whether it will be commercially successful; decisions by regulatory authorities impacting labeling or marketing, manufacturing processes, safety and/or other matters that could affect the availability or commercial potential of a vaccine or drug, including the authorization or approval of products or therapies developed by other companies; disruptions in the relationships between us and our collaboration partners, clinical trial sites or third-party suppliers, including our relationship with BioNTech; the risk that other companies may produce superior or competitive products; the risk that demand for any products may be reduced, no longer exist or not meet expectations which may lead to excess inventory on-hand and/or in the channel or reduced revenues; challenges related to a transition to the commercial market for any of the products; risks related to the availability of raw materials to manufacture or test any such products; challenges related to our vaccine’s formulation, dosing schedule and attendant storage, distribution and administration requirements, including risks related to storage and handling after delivery by Pfizer; challenges and risks related to medication errors such as prescribing or dispensing the wrong strength, improper dosing and self-administration errors; the risk that we may not be able to successfully develop other vaccine formulations, booster doses or potential future annual boosters or re-vaccinations or new variant-based or next generation vaccines or next generation COVID-19 treatments; uncertainties related to vaccine adherence; the risk that we may not be able to recoup costs
+- 34 -
+associated with our R&D and manufacturing efforts; risks associated with any changes in the way we approach or provide research funding for the BNT162 program, Paxlovid or any other COVID-19 program; challenges and risks associated with the pace of our development programs; the risk that we may not be able to maintain manufacturing capacity or access to logistics or supply channels commensurate with global demand for our COVID-19 products, which would negatively impact our ability to supply our COVID-19 products within the projected time periods; risks related to our ability to achieve our revenue forecasts for Comirnaty, the Pfizer-BioNTech COVID-19 bivalent vaccine and Paxlovid or any potential future COVID-19 vaccines or treatments; whether and when additional supply or purchase agreements will be reached or existing agreements will be completed; uncertainties regarding the ability to obtain recommendations from vaccine or treatment advisory or technical committees and other public health authorities and uncertainties regarding the commercial impact of any such recommendations; pricing and access challenges for such products; challenges related to public confidence in, or awareness of Comirnaty, the Pfizer-BioNTech COVID-19 bivalent vaccine or Paxlovid, including challenges driven by misinformation or disinformation, access, concerns about clinical data integrity, or prescriber and pharmacy education; trade restrictions; potential third-party royalties or other claims related to Comirnaty or Paxlovid; and competitive developments;
+•
+trends toward managed care and healthcare cost containment, and our ability to obtain or maintain timely or adequate pricing or favorable formulary placement for our products;
+•
+interest rate and foreign currency exchange rate fluctuations, including the impact of possible currency devaluations in countries experiencing high inflation rates;
+•
+any significant issues involving our largest wholesale distributors or government customers, which account for a substantial portion of our revenues;
+•
+the impact of the increased presence of counterfeit medicines or vaccines in the pharmaceutical supply chain;
+•
+any significant issues related to the outsourcing of certain operational and staff functions to third parties; and any significant issues related to our JVs and other third-party business arrangements;
+•
+uncertainties related to general economic, political, business, industry, regulatory and market conditions including, without limitation, uncertainties related to the impact on us, our customers, suppliers and lenders and counterparties to our foreign-exchange and interest-rate agreements of challenging global economic conditions, such as inflation, and recent and possible future changes in global financial markets;
+•
+any changes in business, political and economic conditions due to actual or threatened terrorist activity, geopolitical instability, civil unrest or military action;
+•
+the impact of product recalls, withdrawals and other unusual items, including uncertainties related to regulator-directed risk evaluations and assessments, including our ongoing evaluation of our product portfolio for the potential presence or formation of nitrosamines;
+•
+trade buying patterns;
+•
+the risk of an impairment charge related to our intangible assets, goodwill or equity-method investments;
+•
+the impact of, and risks and uncertainties related to, restructurings and internal reorganizations, as well as any other corporate strategic initiatives and growth strategies, and cost-reduction and productivity initiatives, each of which requires upfront costs but may fail to yield anticipated benefits and may result in unexpected costs or organizational disruption;
+•
+the ability to successfully achieve our climate goals and progress our environmental sustainability priorities;
+Risks Related to Government Regulation and Legal Proceedings:
+•
+the impact of any U.S. healthcare reform or legislation or any significant spending reductions or cost controls affecting Medicare, Medicaid or other publicly funded or subsidized health programs, including the Inflation Reduction Act of 2022, or changes in the tax treatment of employer-sponsored health insurance that may be implemented;
+•
+U.S. federal or state legislation or regulatory action and/or policy efforts affecting, among other things, pharmaceutical product pricing, intellectual property, reimbursement or access or restrictions on U.S. direct-to-consumer advertising; limitations on interactions with healthcare professionals and other industry stakeholders; as well as pricing pressures for our products as a result of highly competitive insurance markets;
+•
+legislation or regulatory action in markets outside of the U.S., including China, affecting pharmaceutical product pricing, intellectual property, reimbursement or access, including, in particular, continued government-mandated reductions in prices and access restrictions for certain biopharmaceutical products to control costs in those markets;
+•
+the exposure of our operations globally to possible capital and exchange controls, economic conditions, expropriation and other restrictive government actions, changes in intellectual property legal protections and remedies, the impact of political or civil unrest or military action, including the ongoing conflict between Russia and Ukraine and its economic
+- 35 -
+consequences, unstable governments and legal systems, inter-governmental disputes and natural disasters or disruptions related to climate change;
+•
+legal defense costs, insurance expenses, settlement costs and contingencies, including those related to actual or alleged environmental contamination;
+•
+the risk and impact of an adverse decision or settlement and the risk related to adequacy of reserves related to legal proceedings;
+•
+the risk and impact of tax related litigation and investigations;
+•
+governmental laws and regulations affecting our operations, including, without limitation, the recently enacted Inflation Reduction Act of 2022, changes in laws and regulations or their interpretation, including, among others, changes in tax laws and regulations internationally and in the U.S., the adoption of global minimum taxation requirements outside the U.S. and potential changes to existing tax law by the current U.S. Presidential administration and Congress;
+Risks Related to Intellectual Property, Technology and Security:
+•
+any significant breakdown or interruption of our information technology systems and infrastructure (including cloud services);
+•
+any business disruption, theft of confidential or proprietary information, security threats on facilities or infrastructure, extortion or integrity compromise resulting from a cyber-attack or other malfeasance by, but not limited to, nation states, employees, business partners or others;
+•
+the risk that our currently pending or future patent applications may not be granted on a timely basis or at all, or any patent-term extensions that we seek may not be granted on a timely basis, if at all; and
+•
+our ability to protect our products, patents and other intellectual property, such as: (i) against claims of invalidity that could result in loss of exclusivity; (ii) claims of patent infringement; (iii) challenges faced by our collaboration or licensing partners to the validity of their patent rights; and (iv) in response to any pressure, or legal or regulatory action by, various stakeholders or governments that could potentially result in us not seeking intellectual property protection or agreeing not to enforce or being restricted from enforcing intellectual property rights related to our products, including Comirnaty, the Pfizer-BioNTech COVID-19 bivalent vaccine and Paxlovid.
+We cannot guarantee that any forward-looking statement will be realized. Should known or unknown risks or uncertainties materialize or should underlying assumptions prove inaccurate, actual results could vary materially from past results and those anticipated, estimated or projected. Investors are cautioned not to put undue reliance on forward-looking statements. A further list and description of risks, uncertainties and other matters can be found in our Annual Report on Form 10-K for the fiscal year ended December 31, 2021 and in our subsequent report on Form 10-Q, in each case including in the sections thereof captioned “Forward-Looking Information and Factors That May Affect Future Results” and “Item 1A. Risk Factors,” and in our subsequent reports on Form 8-K.
+This earnings release may include discussion of certain clinical studies relating to various in-line products and/or product candidates. These studies typically are part of a larger body of clinical data relating to such products or product candidates, and the discussion herein should be considered in the context of the larger body of data. In addition, clinical trial data are subject to differing interpretations, and, even when we view data as sufficient to support the safety and/or effectiveness of a product candidate or a new indication for an in-line product, regulatory authorities may not share our views and may require additional data or may deny approval altogether.
+The information contained on our website or any third-party website is not incorporated by reference into this earnings release. All trademarks mentioned are the property of their owners.
+- 36 -
