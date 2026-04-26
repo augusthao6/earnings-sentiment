@@ -328,13 +328,25 @@ def fetch_all_eps_surprises(tickers: list[str], output_dir: Path) -> None:
                 "Surprise(%)": "_surprise_raw",
             })
 
+            # yfinance sometimes returns only future dates with no EPS columns yet
+            missing = [c for c in ("actualEarningResult", "estimatedEarning") if c not in df.columns]
+            if missing:
+                logger.warning("EPS columns missing for %s (got: %s)", ticker, list(df.columns))
+                continue
+
             df = df.dropna(subset=["actualEarningResult", "estimatedEarning"])
             if df.empty:
                 logger.warning("No complete EPS records for %s", ticker)
                 continue
 
             # yfinance Surprise(%) is in percent (5.0 = 5%); convert to decimal fraction
-            df["eps_surprise_pct"] = df["_surprise_raw"] / 100.0
+            if "_surprise_raw" in df.columns:
+                df["eps_surprise_pct"] = df["_surprise_raw"] / 100.0
+            else:
+                df["eps_surprise_pct"] = (
+                    (df["actualEarningResult"] - df["estimatedEarning"])
+                    / df["estimatedEarning"].abs().replace(0, float("nan"))
+                )
             df["eps_beat"] = (df["actualEarningResult"] >= df["estimatedEarning"]).astype(int)
 
             df[["date", "actualEarningResult", "estimatedEarning",
