@@ -1,7 +1,6 @@
 """Collect earnings call transcripts (Motley Fool), prices (yfinance), and EPS surprises (FMP)."""
 
 import logging
-import os
 import time
 from pathlib import Path
 
@@ -31,38 +30,6 @@ MIN_TRANSCRIPTS = 7
 PRICE_START = "2020-12-01"
 PRICE_END = "2023-09-30"
 
-# --- FMP config (used only for EPS surprises on free tier) ---
-
-FMP_API_KEY = os.environ.get("FMP_API_KEY", "")
-FMP_BASE_URL = "https://financialmodelingprep.com/api/v3"
-FMP_RATE_LIMIT_SLEEP = 0.5
-
-# --- Motley Fool config ---
-
-# ---------------------------------------------------------------------------
-# FMP helper (used only for EPS surprises)
-# ---------------------------------------------------------------------------
-
-def _fmp_get(endpoint: str, params: dict) -> dict | list | None:
-    """Make a single FMP API request; return parsed JSON or None on error."""
-    if not FMP_API_KEY:
-        raise ValueError(
-            "FMP_API_KEY is not set. Get a free key at financialmodelingprep.com "
-            "and set it with:  import os; os.environ['FMP_API_KEY'] = 'your_key'"
-        )
-    params["apikey"] = FMP_API_KEY
-    url = f"{FMP_BASE_URL}/{endpoint}"
-    try:
-        resp = requests.get(url, params=params, timeout=15)
-        resp.raise_for_status()
-        data = resp.json()
-        if isinstance(data, dict) and "Error Message" in data:
-            logger.error("FMP API error: %s", data["Error Message"])
-            return None
-        return data
-    except Exception as e:
-        logger.warning("FMP request failed (%s): %s", endpoint, e)
-        return None
 
 
 # ---------------------------------------------------------------------------
@@ -124,44 +91,61 @@ def _edgar_get_cik_map() -> dict[str, str]:
     }
 
 
-def _edgar_download_exhibit(cik: str, accession: str) -> str:
+def _edgar_download_exhibit(cik: str, accession: str, primary_doc: str = "") -> str:
     """Download the EX-99.1 press release text from an SEC 8-K filing.
 
-    Uses the filing's JSON index to locate the exhibit, then extracts plain text.
+    Parses the HTML filing index to locate the exhibit, then extracts plain text.
     Returns empty string if the exhibit cannot be found or parsed.
     """
     headers = {"User-Agent": "earnings-sentiment-research/1.0 student@university.edu"}
     acc_nodash = accession.replace("-", "")
     cik_int = int(cik)
+    base = f"https://www.sec.gov/Archives/edgar/data/{cik_int}/{acc_nodash}/"
 
-    # EDGAR provides a JSON filing index
-    index_url = (
-        f"https://www.sec.gov/Archives/edgar/data/{cik_int}/"
-        f"{acc_nodash}/{accession}-index.json"
-    )
+    # Fast path: if the submissions JSON gave us the primary document and it looks
+    # like a press release, try it directly before hitting the index page.
+    if primary_doc and any(kw in primary_doc.lower() for kw in ("99", "press", "release", "earn")):
+        try:
+            time.sleep(0.1)
+            r = requests.get(base + primary_doc, headers=headers, timeout=15)
+            if r.status_code == 200:
+                text = BeautifulSoup(r.text, "html.parser").get_text(separator="\n", strip=True)
+                if len(text) > 500:
+                    return text
+        except Exception:
+            pass
+
+    # Main path: parse the HTML filing index ({accession}-index.htm)
+    index_url = base + f"{accession}-index.htm"
     try:
+        time.sleep(0.1)
         resp = requests.get(index_url, headers=headers, timeout=15)
         if resp.status_code != 200:
             return ""
-        docs = resp.json().get("documents", [])
+        soup = BeautifulSoup(resp.text, "html.parser")
     except Exception:
         return ""
 
-    # Prefer EX-99.1 (earnings press release); fall back to first .htm document
+    # Scan table rows; columns are: Seq | Description | Document | Type | Size
     exhibit_url = None
     fallback_url = None
-    for doc in docs:
-        doc_type = doc.get("type", "")
-        filename = doc.get("document", "")
-        if not filename:
+    for row in soup.find_all("tr"):
+        cells = row.find_all("td")
+        if len(cells) < 4:
             continue
-        full_url = (
-            f"https://www.sec.gov/Archives/edgar/data/{cik_int}/{acc_nodash}/{filename}"
-        )
-        if doc_type in ("EX-99.1", "EX-99") or "99" in doc_type:
+        link_tag = row.find("a", href=True)
+        if not link_tag:
+            continue
+        href = link_tag["href"]
+        if not any(href.lower().endswith(ext) for ext in (".htm", ".html", ".txt")):
+            continue
+        doc_type = cells[3].get_text(strip=True) if len(cells) > 3 else ""
+        filename = href.split("/")[-1]
+        full_url = base + filename
+        if "99" in doc_type:
             exhibit_url = full_url
             break
-        if filename.endswith(".htm") and fallback_url is None:
+        if href.lower().endswith((".htm", ".html")) and fallback_url is None:
             fallback_url = full_url
 
     target = exhibit_url or fallback_url
@@ -246,14 +230,15 @@ def fetch_edgar_earnings_releases(
             logger.warning("Could not fetch EDGAR submissions for %s: %s", ticker, e)
             continue
 
-        forms   = recent.get("form", [])
-        dates   = recent.get("filingDate", [])
-        accs    = recent.get("accessionNumber", [])
-        items   = recent.get("items", [])
+        forms        = recent.get("form", [])
+        dates        = recent.get("filingDate", [])
+        accs         = recent.get("accessionNumber", [])
+        items        = recent.get("items", [])
+        primary_docs = recent.get("primaryDocument", [""] * len(forms))
 
         known_dates = yf_dates.get(ticker, [])
 
-        for form, date_str, acc, item_str in zip(forms, dates, accs, items):
+        for form, date_str, acc, item_str, pri_doc in zip(forms, dates, accs, items, primary_docs):
             if form != "8-K":
                 continue
             # Item 2.02 = Results of Operations (earnings release)
@@ -284,7 +269,7 @@ def fetch_edgar_earnings_releases(
                 continue
 
             logger.info("Fetching SEC 8-K: %s %s", ticker, quarter_str)
-            text = _edgar_download_exhibit(cik, acc)
+            text = _edgar_download_exhibit(cik, acc, primary_doc=pri_doc or "")
             if len(text) < 500:
                 logger.warning("8-K exhibit too short for %s %s (%d chars)", ticker, quarter_str, len(text))
                 continue
@@ -309,7 +294,10 @@ def fetch_edgar_earnings_releases(
 # ---------------------------------------------------------------------------
 
 def fetch_all_eps_surprises(tickers: list[str], output_dir: Path) -> None:
-    """Download historical EPS beat/miss data for each ticker (1 API call per ticker).
+    """Download historical EPS beat/miss data via yfinance earnings_dates.
+
+    FMP earnings-surprises requires a paid plan; yfinance exposes the same data
+    (EPS Estimate, Reported EPS, Surprise%) for free.
 
     Saves {TICKER}.csv with columns: date, actualEarningResult, estimatedEarning,
     eps_surprise_pct, eps_beat.
@@ -321,26 +309,40 @@ def fetch_all_eps_surprises(tickers: list[str], output_dir: Path) -> None:
             logger.info("Skipping EPS surprises for %s (already on disk)", ticker)
             continue
 
-        logger.info("Fetching EPS surprises for %s", ticker)
-        data = _fmp_get(f"earnings-surprises/{ticker}", {})
-        time.sleep(FMP_RATE_LIMIT_SLEEP)
-        if not data:
-            logger.warning("No EPS surprise data for %s", ticker)
-            continue
+        logger.info("Fetching EPS surprises for %s via yfinance", ticker)
+        try:
+            ed = yf.Ticker(ticker).earnings_dates
+            if ed is None or ed.empty:
+                logger.warning("No EPS data for %s", ticker)
+                continue
 
-        df = pd.DataFrame(data)
-        if df.empty or "actualEarningResult" not in df.columns:
-            continue
+            df = ed.reset_index()
+            date_col = df.columns[0]
+            if df[date_col].dt.tz is not None:
+                df[date_col] = df[date_col].dt.tz_localize(None)
 
-        df["date"] = pd.to_datetime(df["date"])
-        df["eps_surprise_pct"] = (
-            (df["actualEarningResult"] - df["estimatedEarning"])
-            / df["estimatedEarning"].abs().replace(0, float("nan"))
-        )
-        df["eps_beat"] = (df["actualEarningResult"] >= df["estimatedEarning"]).astype(int)
-        df[["date", "actualEarningResult", "estimatedEarning",
-            "eps_surprise_pct", "eps_beat"]].to_csv(filepath, index=False)
-        logger.info("Saved %d EPS surprise records for %s", len(df), ticker)
+            df = df.rename(columns={
+                date_col: "date",
+                "EPS Estimate": "estimatedEarning",
+                "Reported EPS": "actualEarningResult",
+                "Surprise(%)": "_surprise_raw",
+            })
+
+            df = df.dropna(subset=["actualEarningResult", "estimatedEarning"])
+            if df.empty:
+                logger.warning("No complete EPS records for %s", ticker)
+                continue
+
+            # yfinance Surprise(%) is in percent (5.0 = 5%); convert to decimal fraction
+            df["eps_surprise_pct"] = df["_surprise_raw"] / 100.0
+            df["eps_beat"] = (df["actualEarningResult"] >= df["estimatedEarning"]).astype(int)
+
+            df[["date", "actualEarningResult", "estimatedEarning",
+                "eps_surprise_pct", "eps_beat"]].to_csv(filepath, index=False)
+            logger.info("Saved %d EPS records for %s", len(df), ticker)
+        except Exception as e:
+            logger.warning("Failed EPS data for %s: %s", ticker, e)
+        time.sleep(0.3)
 
 
 # ---------------------------------------------------------------------------
@@ -486,11 +488,8 @@ def main_fmp(
     _save_fmp_dates(new_metadata)
     logger.info("Fetched %d new earnings release records", len(new_metadata))
 
-    logger.info("=== Fetching EPS surprises (FMP free tier) ===")
-    if FMP_API_KEY:
-        fetch_all_eps_surprises(tickers, EPS_DIR)
-    else:
-        logger.warning("FMP_API_KEY not set — skipping EPS surprises (pipeline still works without them)")
+    logger.info("=== Fetching EPS surprises (yfinance) ===")
+    fetch_all_eps_surprises(tickers, EPS_DIR)
 
     logger.info("Collection complete.")
 
