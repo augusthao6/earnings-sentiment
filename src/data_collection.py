@@ -39,45 +39,6 @@ FMP_RATE_LIMIT_SLEEP = 0.5
 
 # --- Motley Fool config ---
 
-_FOOL_BASE = "https://www.fool.com/earnings/call-transcripts"
-_FOOL_HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
-    ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.5",
-}
-
-# Motley Fool company slug for each supported ticker.
-# Slug appears in the transcript URL:
-#   https://www.fool.com/earnings/call-transcripts/YYYY/MM/DD/{SLUG}-qN-YYYY-earnings-call-transcript/
-# Each ticker maps to a list of slug candidates tried in order.
-# Motley Fool occasionally changes slug format (e.g. "apple-aapl" vs "apple-inc-aapl"),
-# so we try the most common variants.
-_FOOL_SLUGS: dict[str, list[str]] = {
-    "AAPL": ["apple-aapl", "apple-inc-aapl"],
-    "MSFT": ["microsoft-msft", "microsoft-corporation-msft"],
-    "NVDA": ["nvidia-nvda", "nvidia-corporation-nvda"],
-    "TSLA": ["tesla-tsla", "tesla-inc-tsla"],
-    "META": ["meta-platforms-meta", "meta-platforms-inc-meta"],
-    "AMZN": ["amazon-amzn", "amazon-com-amzn", "amazoncom-amzn"],
-    "GOOGL": ["alphabet-googl", "alphabet-inc-googl"],
-    "JPM": ["jpmorgan-chase-jpm", "jpmorgan-chase-co-jpm"],
-    "BAC": ["bank-of-america-bac", "bank-of-america-corp-bac"],
-    "GS": ["goldman-sachs-gs", "goldman-sachs-group-gs"],
-    "XOM": ["exxon-mobil-xom", "exxonmobil-xom"],
-    "CVX": ["chevron-cvx", "chevron-corporation-cvx"],
-    "PFE": ["pfizer-pfe", "pfizer-inc-pfe"],
-    "UNH": ["unitedhealth-group-unh", "unitedhealth-unh"],
-    "AMD": ["advanced-micro-devices-amd"],
-    "JNJ": ["johnson-johnson-jnj"],
-}
-# Keep a single-slug alias for backward compat
-_FOOL_SLUG = {t: slugs[0] for t, slugs in _FOOL_SLUGS.items()}
-
-
 # ---------------------------------------------------------------------------
 # FMP helper (used only for EPS surprises)
 # ---------------------------------------------------------------------------
@@ -146,232 +107,200 @@ def fetch_fmp_prices(
 
 
 # ---------------------------------------------------------------------------
-# Motley Fool transcript scraper
+# SEC EDGAR earnings press release fetcher
 # ---------------------------------------------------------------------------
 
-def _parse_fool_transcript(soup: BeautifulSoup) -> str:
-    """Extract transcript text from a Motley Fool article page."""
-    # Try known article body container selectors (Motley Fool has changed layouts)
-    candidates = [
-        soup.find("div", class_=lambda c: c and "article-body" in c),
-        soup.find("div", id="article-body"),
-        soup.find("div", class_=lambda c: c and "tailwind-article-body" in c),
-        soup.find("article"),
-        soup.find("main"),
-    ]
-    for container in candidates:
-        if container is None:
-            continue
-        paragraphs = container.find_all("p")
-        text = "\n\n".join(p.get_text(strip=True) for p in paragraphs if p.get_text(strip=True))
-        if len(text) > 2000:
-            return text
-
-    return ""
+def _edgar_get_cik_map() -> dict[str, str]:
+    """Fetch ticker → zero-padded CIK mapping from SEC EDGAR."""
+    resp = requests.get(
+        "https://www.sec.gov/files/company_tickers.json",
+        headers={"User-Agent": "earnings-sentiment-research/1.0 student@university.edu"},
+        timeout=15,
+    )
+    resp.raise_for_status()
+    return {
+        entry["ticker"]: str(entry["cik_str"]).zfill(10)
+        for entry in resp.json().values()
+    }
 
 
-def _fool_try_url(url: str) -> str | None:
-    """Fetch one Motley Fool URL and return transcript text, or None."""
+def _edgar_download_exhibit(cik: str, accession: str) -> str:
+    """Download the EX-99.1 press release text from an SEC 8-K filing.
+
+    Uses the filing's JSON index to locate the exhibit, then extracts plain text.
+    Returns empty string if the exhibit cannot be found or parsed.
+    """
+    headers = {"User-Agent": "earnings-sentiment-research/1.0 student@university.edu"}
+    acc_nodash = accession.replace("-", "")
+    cik_int = int(cik)
+
+    # EDGAR provides a JSON filing index
+    index_url = (
+        f"https://www.sec.gov/Archives/edgar/data/{cik_int}/"
+        f"{acc_nodash}/{accession}-index.json"
+    )
     try:
-        resp = requests.get(url, headers=_FOOL_HEADERS, timeout=15)
+        resp = requests.get(index_url, headers=headers, timeout=15)
         if resp.status_code != 200:
-            return None
-        # Detect Cloudflare challenge page
-        if "cf-browser-verification" in resp.text or "Checking your browser" in resp.text:
-            logger.warning("Cloudflare challenge detected — Motley Fool is blocking automated requests")
-            return None
-        soup = BeautifulSoup(resp.text, "html.parser")
-        text = _parse_fool_transcript(soup)
-        return text if len(text) > 2000 else None
+            return ""
+        docs = resp.json().get("documents", [])
     except Exception:
-        return None
+        return ""
 
+    # Prefer EX-99.1 (earnings press release); fall back to first .htm document
+    exhibit_url = None
+    fallback_url = None
+    for doc in docs:
+        doc_type = doc.get("type", "")
+        filename = doc.get("document", "")
+        if not filename:
+            continue
+        full_url = (
+            f"https://www.sec.gov/Archives/edgar/data/{cik_int}/{acc_nodash}/{filename}"
+        )
+        if doc_type in ("EX-99.1", "EX-99") or "99" in doc_type:
+            exhibit_url = full_url
+            break
+        if filename.endswith(".htm") and fallback_url is None:
+            fallback_url = full_url
 
-def _ddg_find_fool_url(ticker: str, call_date: pd.Timestamp) -> tuple[str, int, int] | None:
-    """Use DuckDuckGo HTML search to find the actual Motley Fool transcript URL.
-
-    This is the fallback when direct URL construction fails (e.g. non-standard
-    company slug, changed URL format). DuckDuckGo reliably indexes Fool transcripts.
-    """
-    import re
-    from urllib.parse import quote, unquote, parse_qs, urlparse
-
-    year = call_date.year
-    query = f"site:fool.com earnings-call-transcript {ticker} {year}"
-    ddg_url = f"https://html.duckduckgo.com/html/?q={quote(query)}"
+    target = exhibit_url or fallback_url
+    if not target:
+        return ""
 
     try:
-        time.sleep(2)
-        resp = requests.get(ddg_url, headers=_FOOL_HEADERS, timeout=20)
+        time.sleep(0.1)
+        resp = requests.get(target, headers=headers, timeout=15)
         if resp.status_code != 200:
-            return None
+            return ""
         soup = BeautifulSoup(resp.text, "html.parser")
-
-        # DuckDuckGo HTML wraps destination URLs in a redirect link: href contains uddg=ENCODED_URL
-        candidates = []
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            if "uddg=" not in href:
-                continue
-            try:
-                actual = unquote(parse_qs(urlparse(href).query)["uddg"][0])
-            except (KeyError, IndexError):
-                continue
-            if "fool.com" not in actual or "earnings-call-transcript" not in actual:
-                continue
-            candidates.append(actual)
-
-        # Pick the result whose date in the URL is closest to call_date (within 3 days)
-        best_url, best_delta = None, float("inf")
-        for url in candidates:
-            m = re.search(r"/(\d{4})/(\d{2})/(\d{2})/", url)
-            if not m:
-                continue
-            url_date = pd.Timestamp(f"{m.group(1)}-{m.group(2)}-{m.group(3)}")
-            delta = abs((url_date - call_date).days)
-            if delta <= 3 and delta < best_delta:
-                best_delta = delta
-                best_url = url
-
-        if best_url:
-            logger.info("DDG found transcript URL: %s", best_url)
-            text = _fool_try_url(best_url)
-            if text:
-                m = re.search(r"-q(\d)-(\d{4})-earnings", best_url)
-                if m:
-                    return text, int(m.group(1)), int(m.group(2))
-    except Exception as e:
-        logger.debug("DuckDuckGo search failed for %s: %s", ticker, e)
-
-    return None
+        return soup.get_text(separator="\n", strip=True)
+    except Exception:
+        return ""
 
 
-def _find_fool_transcript(ticker: str, call_date: pd.Timestamp) -> tuple[str, int, int] | None:
-    """Find and return a Motley Fool transcript for ticker near call_date.
-
-    Step 1 — direct URL construction: fast, works for companies with known slugs.
-    Step 2 — DuckDuckGo fallback: finds the real URL for companies whose slug
-              doesn't match any of our candidates (e.g. MSFT URL format changed).
-
-    Returns (text, fiscal_q, fiscal_year) or None.
-    """
-    slugs = _FOOL_SLUGS.get(ticker)
-
-    # Step 1: direct URL construction (fast)
-    if slugs:
-        month = call_date.month
-        if month in (1, 2, 3):
-            q_order = [1, 2, 4, 3]
-        elif month in (4, 5, 6):
-            q_order = [2, 3, 1, 4]
-        elif month in (7, 8, 9):
-            q_order = [3, 4, 2, 1]
-        else:
-            q_order = [4, 1, 3, 2]
-        years = [call_date.year, call_date.year + 1, call_date.year - 1]
-
-        for day_offset in [0, 1]:
-            d = call_date + pd.Timedelta(days=day_offset)
-            for q in q_order:
-                for y in years:
-                    for slug in slugs:
-                        url = (
-                            f"{_FOOL_BASE}/{d.year}/{d.month:02d}/{d.day:02d}/"
-                            f"{slug}-q{q}-{y}-earnings-call-transcript/"
-                        )
-                        time.sleep(0.25)
-                        text = _fool_try_url(url)
-                        if text:
-                            logger.info("Found transcript (direct) at %s", url)
-                            return text, q, y
-
-    # Step 2: DuckDuckGo search fallback
-    logger.info("Direct URL failed for %s ~%s — trying DuckDuckGo search", ticker, call_date.date())
-    return _ddg_find_fool_url(ticker, call_date)
-
-
-def fetch_motley_fool_transcripts(
+def fetch_edgar_earnings_releases(
     tickers: list[str],
     min_year: int,
     max_year: int,
     output_dir: Path,
 ) -> list[dict]:
-    """Fetch earnings call transcripts from Motley Fool (free, public pages).
+    """Fetch earnings press releases from SEC EDGAR 8-K Item 2.02 filings.
 
-    Uses yfinance to discover earnings dates, then scrapes the public Motley Fool
-    transcript page for each event. Transcripts are saved as {TICKER}_{YEAR}_Q{N}.txt
-    — the same format the rest of the pipeline expects.
+    Every US public company must file their quarterly earnings announcement as
+    a Form 8-K Item 2.02 (Results of Operations and Financial Condition).
+    The EX-99.1 exhibit is the full press release with management commentary
+    and forward guidance — the text used for LM sentiment scoring.
 
-    Returns a list of metadata dicts (ticker, quarter, call_datetime, is_after_hours)
-    compatible with _save_fmp_dates().
+    SEC EDGAR API is free, official, and has no bot-detection issues.
+    Rate limit: 10 req/s — we stay well under that with 0.1 s sleeps.
+
+    Returns metadata records compatible with _save_fmp_dates().
     """
     output_dir.mkdir(parents=True, exist_ok=True)
+    headers = {"User-Agent": "earnings-sentiment-research/1.0 student@university.edu"}
     metadata_records = []
 
+    # Step 1: fetch ticker → CIK map once
+    logger.info("Fetching ticker→CIK map from SEC EDGAR...")
+    try:
+        cik_map = _edgar_get_cik_map()
+    except Exception as e:
+        logger.error("Could not load CIK map: %s", e)
+        return []
+
+    # Step 2: get yfinance earnings dates so we can match 8-Ks to earnings events
+    logger.info("Fetching earnings dates from yfinance...")
+    yf_dates: dict[str, list[pd.Timestamp]] = {}
     for ticker in tickers:
-        if ticker not in _FOOL_SLUG:
-            logger.warning("No Motley Fool slug for %s — add it to _FOOL_SLUG to enable", ticker)
-            continue
-
-        # Get earnings dates from yfinance
         try:
-            stock = yf.Ticker(ticker)
-            earnings = stock.earnings_dates
-            if earnings is None or earnings.empty:
-                logger.warning("No earnings dates from yfinance for %s", ticker)
-                continue
-            earnings = earnings.reset_index()
-            date_col = earnings.columns[0]
-            # Normalize to timezone-naive
-            if earnings[date_col].dt.tz is not None:
-                earnings[date_col] = earnings[date_col].dt.tz_localize(None)
-        except Exception as e:
-            logger.warning("Could not get earnings dates for %s: %s", ticker, e)
+            ed = yf.Ticker(ticker).earnings_dates
+            if ed is not None and not ed.empty:
+                ed = ed.reset_index()
+                col = ed.columns[0]
+                if ed[col].dt.tz is not None:
+                    ed[col] = ed[col].dt.tz_localize(None)
+                yf_dates[ticker] = ed[col].tolist()
+        except Exception:
+            yf_dates[ticker] = []
+
+    start_ts = pd.Timestamp(f"{min_year}-01-01")
+    end_ts = min(pd.Timestamp(f"{max_year}-12-31"), pd.Timestamp.now())
+
+    for ticker in tickers:
+        cik = cik_map.get(ticker)
+        if not cik:
+            logger.warning("CIK not found for %s — skipping", ticker)
             continue
 
-        start = pd.Timestamp(f"{min_year}-01-01")
-        end = min(pd.Timestamp(f"{max_year}-12-31"), pd.Timestamp.now())
-        in_range = earnings[(earnings[date_col] >= start) & (earnings[date_col] <= end)]
-
-        for _, row in in_range.iterrows():
-            call_dt = row[date_col]
-            # Calendar quarter from call month (used as fallback filename)
-            cal_q = (call_dt.month - 1) // 3 + 1
-
-            # Skip if we already have ANY transcript file for this ticker/period
-            # (fiscal quarter may differ so check both)
-            already_present = any(
-                (output_dir / f"{ticker}_{call_dt.year}_Q{q}.txt").exists()
-                for q in range(1, 5)
+        # Step 3: fetch company's recent filings from EDGAR
+        try:
+            time.sleep(0.1)
+            resp = requests.get(
+                f"https://data.sec.gov/submissions/CIK{cik}.json",
+                headers=headers, timeout=15,
             )
-            if already_present:
-                logger.info("Skipping %s ~%s (transcript already on disk)", ticker, call_dt.date())
+            resp.raise_for_status()
+            recent = resp.json().get("filings", {}).get("recent", {})
+        except Exception as e:
+            logger.warning("Could not fetch EDGAR submissions for %s: %s", ticker, e)
+            continue
+
+        forms   = recent.get("form", [])
+        dates   = recent.get("filingDate", [])
+        accs    = recent.get("accessionNumber", [])
+        items   = recent.get("items", [])
+
+        known_dates = yf_dates.get(ticker, [])
+
+        for form, date_str, acc, item_str in zip(forms, dates, accs, items):
+            if form != "8-K":
+                continue
+            # Item 2.02 = Results of Operations (earnings release)
+            if "2.02" not in str(item_str):
                 continue
 
-            logger.info("Fetching transcript: %s ~%s", ticker, call_dt.date())
-            result = _find_fool_transcript(ticker, call_dt)
-
-            if result is None:
-                logger.warning("Transcript not found on Motley Fool: %s ~%s", ticker, call_dt.date())
-                time.sleep(1)
+            filing_date = pd.Timestamp(date_str)
+            if not (start_ts <= filing_date <= end_ts):
                 continue
 
-            text, fiscal_q, fiscal_year = result
-            filename = f"{ticker}_{fiscal_year}_Q{fiscal_q}.txt"
-            (output_dir / filename).write_text(text, encoding="utf-8")
+            # Match to a known yfinance earnings date (within 7 days)
+            call_date = filing_date
+            if known_dates:
+                deltas = [(abs((filing_date - d).days), d) for d in known_dates]
+                best_delta, best_date = min(deltas, key=lambda x: x[0])
+                if best_delta > 7:
+                    continue  # not an earnings event we care about
+                call_date = best_date
+
+            q = (filing_date.month - 1) // 3 + 1
+            year = filing_date.year
+            quarter_str = f"{year}-Q{q}"
+            filename = f"{ticker}_{year}_Q{q}.txt"
+            filepath = output_dir / filename
+
+            if filepath.exists():
+                logger.info("Skipping %s (already on disk)", filename)
+                continue
+
+            logger.info("Fetching SEC 8-K: %s %s", ticker, quarter_str)
+            text = _edgar_download_exhibit(cik, acc)
+            if len(text) < 500:
+                logger.warning("8-K exhibit too short for %s %s (%d chars)", ticker, quarter_str, len(text))
+                continue
+
+            filepath.write_text(text, encoding="utf-8")
             logger.info("Saved %s (%d chars)", filename, len(text))
 
-            # If yfinance gave us hour info use it; otherwise assume after-hours (most common)
-            is_after_hours = call_dt.hour >= 16 if call_dt.hour != 0 else True
+            is_after_hours = call_date.hour >= 16 if call_date.hour != 0 else True
             metadata_records.append({
                 "ticker": ticker,
-                "quarter": f"{fiscal_year}-Q{fiscal_q}",
-                "call_datetime": call_dt,
+                "quarter": quarter_str,
+                "call_datetime": call_date,
                 "is_after_hours": is_after_hours,
             })
 
-            time.sleep(2)  # polite crawl rate
-
+    logger.info("SEC EDGAR: collected %d earnings releases", len(metadata_records))
     return metadata_records
 
 
@@ -552,10 +481,10 @@ def main_fmp(
     logger.info("=== Fetching prices (yfinance) ===")
     fetch_fmp_prices(tickers, price_start, price_end, PRICES_DIR)
 
-    logger.info("=== Fetching transcripts %d-%d (Motley Fool) ===", min_year, max_year)
-    new_metadata = fetch_motley_fool_transcripts(tickers, min_year, max_year, TRANSCRIPTS_DIR)
+    logger.info("=== Fetching earnings press releases %d-%d (SEC EDGAR) ===", min_year, max_year)
+    new_metadata = fetch_edgar_earnings_releases(tickers, min_year, max_year, TRANSCRIPTS_DIR)
     _save_fmp_dates(new_metadata)
-    logger.info("Fetched %d new transcript records", len(new_metadata))
+    logger.info("Fetched %d new earnings release records", len(new_metadata))
 
     logger.info("=== Fetching EPS surprises (FMP free tier) ===")
     if FMP_API_KEY:
